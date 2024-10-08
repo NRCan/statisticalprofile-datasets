@@ -1,0 +1,95 @@
+---
+title: Forest insects
+altLangPage: fr/profilstats/perturbations/insectes-forestier.html
+dateModified: 2024-09-26
+layout: no-container
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - forest-insects.js
+  - forest-insects-table.js
+css:
+  - forest-insects-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link: ../overview.html
+---
+
+
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline mrgn-bttm-md">Forest insects</h1>
+  </hgroup>
+</div>
+    
+<div class="container">
+  <p class="mrgn-bttm-lg">Trends in the area of moderate to severe defoliation (including beetle-killed trees) 
+    by insects in Canada. Monitoring forest area defoliated and damaged by insects is important to determine 
+    impacts to timber supply, the risk of fire, and the risk to recreational enjoyment and other forest values. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></p>
+
+  <div class="row">
+    <div class="filter-container col-md-6 col-sm-8 col-xs-8">
+      <label class="wb-inv" id="dropdown-label" for="selectButton">Select jurisdiction</label>
+      <select class="form-control" id="selectButton"></select>
+    </div>
+
+    <div class="col-md-6 col-sm-4 col-xs-4 text-right">
+      <button data-wb-doaction='{ "action": "tocsv", "source": "#insect_defoliation_by_species-table", "filename": "StatProfile_Disturbance_InsectSpp_EN.csv" }' type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+    </div>
+  </div>
+
+  <div class="table-responsive">
+    <div class="chart-container">
+      <div id="tooltip" class="hidden">
+        <p><strong>Year: </strong><span id="year"></span></p>
+        <p><strong>Area: </strong><span id="area"></span></p>
+      </div>
+    </div>
+  </div>
+      
+  <details>
+    <summary>
+      Data table
+    </summary>
+
+    <div class="table-responsive">
+      <table id="insect_defoliation_by_species-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+    </div>
+  </details>
+
+  <!-- Sources and information footnote -->
+  <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources and information</h2>
+    <dl>
+      <dt>Footnote 1</dt>
+      <dd id="fn1">
+        <p>Source:</p>
+        <ul>
+          <li>National Forestry Database. Forest insects, 
+            <a href="http://nfdp.ccfm.org/en/data/insects.php">Table 4, Area of moderate to severe defoliation (including beetle-killed trees) by insects</a>.
+          </li>
+        </ul>
+        <p>Notes:</p>
+        <ul>
+          <li>Forest area disturbed by defoliators (e.g., budworms, spongy moth) includes only areas with tree mortality or moderate to severe defoliation. Defoliation does not always result in mortality. Several factors, including defoliation severity, duration and frequency, or presence of other stressors (e.g., drought), can affect the level of mortality.</li>
+          <li>Forest area disturbed by bark beetles (e.g., mountain pine beetle, spruce beetle) is derived from aerial surveys that map trees that are dead or dying from successful beetle attack.</li>
+          <li>Summing the areas affected by more than one insect to create a grand total can result in an overestimate if more than one insect species occurs in the same stand in the same year. For example, in a mixed wood forest, spruce budworm may defoliate balsam fir in the same stand where forest tent caterpillar is defoliating the aspen trees.</li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+      </dd>
+    </dl>
+  </aside>
+</div>

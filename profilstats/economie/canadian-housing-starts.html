@@ -1,0 +1,71 @@
+---
+title: Canadian housing starts
+altLangPage: /fr/snippets/
+dateModified: 2024-02-06
+layout: no-container
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - canadian-housing-starts.js
+  - canadian-housing-starts-table.js
+css:
+  - economy-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link:  
+---
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline">Canadian housing starts</h1>
+  </hgroup>
+</div>
+
+<div class="container">
+  <p class="mrgn-bttm-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  
+  <div class="row">
+    <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+      <label class="wb-inv" id="dropdown-label" for="canadian_housing_starts-select">Select jurisdiction</label>
+      <select class="form-control" id="canadian_housing_starts-select">
+      </select>
+    </div>
+    <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+      <button type="button" class="btn btn-default">Download data</button>
+    </div>
+  </div>
+
+  <div class="table-responsive">
+    <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Number of houses chart - Data table in followingb section">Number of houses</h2>
+    <div id="canadian_housing_starts-chart"></div>
+    <div id="tooltip"></div>
+  </div>
+    
+  <details>
+    <summary>
+      Data table
+    </summary>
+    <div class="table-responsive">
+      <table id="canadian_housing_starts-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+    </div>
+  </details>
+  <details>
+    <summary>
+      Sources and information
+    </summary>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </details>
+  
+</div>

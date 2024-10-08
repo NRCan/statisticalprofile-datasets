@@ -1,0 +1,95 @@
+---
+title: Salaries and wages
+altLangPage: /fr/snippets/
+dateModified: 2024-02-06
+layout: no-container
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - salaries-and-wages.js
+  - salaries-and-wages-table.js
+css:
+  - employment-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link: ../overview.html 
+---
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline">Total salaries and wages for direct and indirect labor in the forest sector</h1>
+  </hgroup>
+</div>
+
+<div class="container">
+  <p class="mrgn-bttm-lg">Trends in wages and salaries, which are the earnings, in cash or in kind, of Canadian residents for work performed before deduction of income taxes and contributions to pension funds, employment insurance and other social insurance schemes. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></p>
+  
+  <div class="row">
+    <div class="filter-container col-md-3 col-sm-3 col-xs-3">
+      <label class="wb-inv" id="dropdown-label" for="salaries_and_wages_jurisdiction-select">Select jurisdiction</label>
+      <select class="form-control" id="salaries_and_wages_jurisdiction-select">
+      </select>
+    </div>
+    <div class="filter-container col-md-7 col-sm-7 col-xs-7">
+      <label class="wb-inv" id="dropdown-label" for="salaries_and_wages_sector-select">Select Sector</label>
+        <select class="form-control" id="salaries_and_wages_sector-select">
+        </select>
+    </div>
+    <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+      <button data-wb-doaction='{ "action": "tocsv", "source": "#salaries_and_wages-table", "filename": "StatProfile_Employment_Wages_EN.csv" }' type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+    </div>
+  </div>
+
+  <div class="table-responsive">
+    <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Salaries and wages chart - Data table in following section">Earnings per sector</h2>
+    <div id="salaries_and_wages-chart"></div>
+    <div id="tooltip"></div>
+  </div>
+    
+  <details>
+    <summary>
+      Data table
+    </summary>
+    <div class="table-responsive">
+      <table id="salaries_and_wages-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+    </div>
+  </details>
+  
+  <!-- Sources and information footnote -->
+        
+  <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources and information</h2>
+    <dl>
+      <dt>Footnote 1</dt>
+      <dd id="fn1">
+        <p>Sources:</p>
+        <ul>
+          <li>Statistics Canada. Table 16-10-0117-01 (formerly CANSIM 301-0008): 
+            <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610011701" target="_blank" rel="noopener">Principal statistics for manufacturing industries, by North American Industry Classification System (NAICS) (x 1,000)</a> (accessed March 3, 2022).</li>
+          </li>
+          <li>Statistics Canada. Table 16-10-0114-01 (formerly CANSIM 301-0009): 
+            <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610011701" target="_blank" rel="noopener">Logging industries, principal statistics by North American Industry Classification System (NAICS) (x 1,000)</a> (accessed May 25, 2022).</li>
+          </li>
+        </ul>
+        <p>Note:</p>
+        <ul>
+          <li>Wages and salaries are the earnings, in cash or in kind, of Canadian residents for work performed before deduction of income taxes and contributions to pension funds, employment insurance and other social insurance schemes.</li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+      </dd>
+    </dl>
+  </aside>
+  
+</div>

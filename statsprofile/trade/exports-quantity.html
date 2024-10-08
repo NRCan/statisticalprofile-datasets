@@ -1,0 +1,166 @@
+---
+title: Exports quantity
+altLangPage: /fr/snippets/
+dateModified: 2024-08-13
+layout: no-container 
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - exports-quantity-primary-wood-products.js
+  - exports-quantity-pulp-and-paper-products.js
+  - exports-quantity-wood-fabricated-materials.js
+  - exports-quantity-table.js
+css:
+  - trade-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link: ../overview.html
+---
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline mrgn-bttm-md">Exports quantity</h1>
+  </hgroup>
+</div>
+
+<div class="container">
+  <p class="mrgn-bttm-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+      <h2 class="mrgn-tp-md mrgn-bttm-lg" role="img" aria-label="Primary Wood Products chart - Data table in following section">Primary Wood Products</h2>
+        
+      <div class="row">
+        <!-- <div class="filter-container col-md-2 col-sm-2 col-xs-2">
+          <label class="wb-inv" id="dropdown-label" for="primary_wood_products_jurisdiction-select">Select jurisdiction</label>
+            <select class="form-control" id="primary_wood_products_jurisdiction-select">
+            </select>
+        </div> -->
+        <div class="filter-container col-md-10 col-sm-10 col-xs-10">
+          <label class="wb-inv" id="dropdown-label" for="primary_wood_products_product-select">Select product</label>
+            <select class="form-control" id="primary_wood_products_product-select">
+            </select>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+          <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <div id="primary_wood_products-chart"></div>
+        <div id="tooltip"></div>
+    </div>
+    
+    <!-- <details>
+      <summary>
+        Data table
+      </summary>
+      <div class="table-responsive">
+        <table id="exports_quantity-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+      </div>
+    </details> -->
+
+        <hr>
+    
+
+        <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Pulp and Paper Products chart - Data table in following section">Pulp and Paper Products</h2>
+        
+        <div class="row">
+            <!-- <div class="filter-container col-md-2 col-sm-2 col-xs-2">
+              <label class="wb-inv" id="dropdown-label" for="pulp_and_paper_products_jurisdiction-select">Select jurisdiction</label>
+                <select class="form-control" id="pulp_and_paper_products_jurisdiction-select">
+                </select>
+            </div> -->
+            <div class="filter-container col-md-10 col-sm-10 col-xs-10">
+              <label class="wb-inv" id="dropdown-label" for="pulp_and_paper_products_product-select">Select product</label>
+                <select class="form-control" id="pulp_and_paper_products_product-select">
+                </select>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+              <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <div id="pulp_and_paper_products-chart"></div>
+            <div id="tooltip"></div>
+        </div>
+        
+        <!-- <details>
+          <summary>
+            Data table
+          </summary>
+          <div class="table-responsive">
+            <table id="exports_quantity-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+          </div>
+        </details> -->
+
+
+        <hr>
+
+      <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Wood-Fabricated Materials chart - Data table in following section">Wood-Fabricated Materials</h2>
+          
+      <div class="row">
+        <!-- <div class="filter-container col-md-2 col-sm-2 col-xs-2">
+          <label class="wb-inv" id="dropdown-label" for="wood_fabricated_materials_jurisdiction-select">Select jurisdiction</label>
+          <select class="form-control" id="wood_fabricated_materials_jurisdiction-select"></select>
+        </div> -->
+        <div class="filter-container col-md-10 col-sm-10 col-xs-10">
+          <label class="wb-inv" id="dropdown-label" for="wood_fabricated_materials_product-select">Select product</label>
+            <select class="form-control" id="wood_fabricated_materials_product-select">
+            </select>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+          <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+        </div>
+      </div>
+  
+      <div class="table-responsive">
+        <div id="wood_fabricated_materials-chart"></div>
+        <div id="tooltip"></div>
+      </div>
+          
+      <details>
+        <summary>
+          Data table
+        </summary>
+        <div class="table-responsive">
+          <table id="exports_quantity-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+        </div>
+      </details>
+
+  <!-- Sources and information footnote -->
+  <!-- <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources and information</h2>
+    <dl>
+      <dt>Footnote 1</dt>
+      <dd id="fn1">
+        <p>Sources:</p>
+        <ul>
+          <li>Statistics Canada. Table 16-10-0117-01 (formerly CANSIM 301-0008): 
+            <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610011701">Principal statistics for manufacturing industries, by North American Industry Classification System (NAICS) (x 1,000)</a> (accessed March 3, 2022).
+          </li>
+          <li>Statistics Canada. Table 16-10-0114-01 (formerly CANSIM 301-0009): 
+            <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610011401">Logging industries, principal statistics by North American Industry Classification System (NAICS) (x 1,000)</a> (accessed May 25, 2022).
+          </li>
+        </ul>
+        <p>Notes:</p>
+        <ul>
+          <li>Revenue from goods manufactured includes revenue from the sale of goods manufactured using materials owned by the establishment, as well as from repair work, manufacturing service charges and work contracted to others.</li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+      </dd>
+    </dl>
+  </aside> -->
+</div>

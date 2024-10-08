@@ -1,0 +1,118 @@
+---
+title: Artificial forest regeneration
+altLangPage: /fr/snippets/
+dateModified: 2024-01-24
+layout: no-container 
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - regeneration-area-planted.js
+  - regeneration-area-seeded.js
+  - regeneration-area-planted-table.js
+  - regeneration-area-seeded-table.js
+css:
+  - management-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link: ../overview.html
+---
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline mrgn-bttm-md">Artificial forest regeneration</h1>
+  </hgroup>
+</div>
+
+<div class="container">
+  <p class="mrgn-bttm-lg">Trends in the area seeded, area planted and number of seedlings planted in Canada. Monitoring regeneration activities ensures harvested areas regrow as forests and continue to produce timber and maintain ecosystem services. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></p>
+  
+  
+      <h2 class="mrgn-tp-md mrgn-bttm-lg" role="img" aria-label="Area planted in Canada chart - Data table in following section">Area planted in Canada</h2>
+        
+        <div class="row">
+            <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+              <label class="wb-inv" id="dropdown-label" for="area_planted-select">Select jurisdiction</label>
+                <select class="form-control" id="area_planted-select">
+                </select>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+              <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <div id="area_planted-chart"></div>
+            <div id="tooltip"></div>
+        </div>
+        
+        <details>
+          <summary>
+            Data table
+          </summary>
+          <div class="table-responsive" style="position: relative;">
+            <table id="area_planted-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+          </div>
+        </details>
+        
+        <hr>
+  
+        <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Area seeded in Canada chart - Data table in following section">Area seeded in Canada</h2>
+        
+        <div class="row">
+            <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+              <label class="wb-inv" id="dropdown-label" for="area_seeded-select">Select jurisdiction</label>
+                <select class="form-control" id="area_seeded-select">
+                </select>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+              <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <div id="area_seeded-chart"></div>
+            <div id="tooltip"></div>
+        </div>
+        
+        <details>
+          <summary>
+            Data table
+          </summary>
+          <div class="table-responsive">
+            <table id="area_seeded-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+          </div>
+        </details>
+     
+  <!-- Sources and information footnote -->
+  <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources and information</h2>
+    <dl>
+      <dt>Footnote 1</dt>
+      <dd id="fn1">
+        <p>Sources:</p>
+        <ul>
+          <li>National Forestry Database. Regeneration, 
+            <a href="http://nfdp.ccfm.org/en/data/regeneration.php">Table 6.3, Area of direct seeding by ownership and application method</a> (accessed June 21, 2022).
+          </li>
+          <li>National Forestry Database. Regeneration, 
+            <a href="http://nfdp.ccfm.org/en/data/regeneration.php">Table 6.5, Area planted by ownership and species group</a> (accessed June 21, 2022).
+          </li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+      </dd>
+    </dl>
+  </aside>
+</div>
+ 

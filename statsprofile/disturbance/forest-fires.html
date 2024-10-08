@@ -1,0 +1,95 @@
+---
+title: Forest fires
+altLangPage: fr/profilstats/perturbations/feux-de-foret.html
+dateModified: 2024-09-26
+layout: no-container
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - forest-fires.js
+  - forest-fires-table.js
+css:
+  - forest-fires-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link: ../overview.html
+---
+
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline mrgn-bttm-md">Forest fires</h1>
+  </hgroup>
+</div>
+        
+<div class="container">
+  <p class="mrgn-bttm-lg">Trends in the area burned and the number of forest fires in Canada. 
+    Understanding forest fires in Canada is important as they are a natural part of the forest 
+    ecosystem and help maintain the health and diversity of the forest, but can also result in 
+    costly economic losses and provide public health and safety concerns. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></p>
+  
+  
+  <div class="row">
+    <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+      <label class="wb-inv" id="dropdown-label" for="dropdown">Select Jurisdiction</label>
+      <select class="form-control" id="dropdown"></select>
+    </div>
+    <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+      <button data-wb-doaction='{ "action": "tocsv", "source": "#area_burned_and_number_of_fires-table", "filename": "StatProfile_Disturbance_Fires_EN.csv" }' type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+    </div>
+  </div>
+  
+  <!-- Forest fires chart -->
+  <div class="table-responsive">
+    <div id="charts"></div>
+    <div id="tooltip"></div>
+  </div>
+    
+  <!-- Data table expand/collapse -->
+  <details>
+    <summary>
+      Data table
+    </summary>
+            
+    <div class="table-responsive">
+      <table id="area_burned_and_number_of_fires-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+    </div>
+  </details>
+
+  <!-- Sources and information footnote -->
+  <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources and information</h2>
+    <dl>
+      <dt>Footnote 1</dt>
+      <dd id="fn1">
+        <p>Sources:</p>
+        <ul>
+          <li>National Forestry Database. Forest fires, 
+            <a href="http://nfdp.ccfm.org/en/data/fires.php">Table 3.1.1, Number of fires by cause class</a>.
+          </li>
+          <li>National Forestry Database. Forest fires, 
+            <a href="http://nfdp.ccfm.org/en/data/fires.php">Table 3.2.1, Area burned by cause class</a>.
+          </li>
+        </ul>
+        <p>Note:</p>
+        <ul>
+          <li>The National Forestry Database sources the latest year’s fire data from the Canadian Interagency Forest Fire Centre, and all years prior to the Canadian Wildland Fire Information System.</li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+      </dd>
+    </dl>
+  </aside>
+
+</div>

@@ -1,0 +1,91 @@
+---
+title: Insectes forestier
+altLangPage: en/statsprofile/disturbance/forest-insects.html
+dateModified: 2024-09-26
+layout: no-container
+language: fr
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - forest-insects.js
+  - forest-insects-table.js
+css:
+  - forest-insects-style.css
+breadcrumbs:
+  - nrcan:
+    title: Ressources naturelles Canada
+    link: https://ressources-naturelles.canada.ca/accueil
+  - home:
+    title: Nos ressources naturelles
+    link: https://ressources-naturelles.canada.ca/nos-ressources-naturelles/21439
+  - home:
+    title: Forêts et foresterie
+    link: https://ressources-naturelles.canada.ca/nos-ressources-naturelles/forets/13498
+  - home:
+    title: Service canadien des forêts
+    link: https://ressources-naturelles.canada.ca/nos-ressources-naturelles/forets-et-foresterie/le-service-canadien-forets
+  - home:
+    title: Données statistiques
+    link: ../apercu.html
+---
+
+
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline mrgn-bttm-md">Insectes forestier</h1>
+  </hgroup>
+</div>
+    
+<div class="container">
+  <p class="mrgn-bttm-lg">Tendances de la défoliation modérée à grave (y compris la mortalité des arbres due aux scolytes) par des insectes au Canada. La surveillance continue de la superficie forestière défoliée et endommagée par les insectes joue un rôle critique dans la détermination des répercussions de ces dommages sur l’approvisionnement en bois, sur les risques d’incendie, sur l’utilisation des forêts à des fins récréatives et sur les autres valeurs forestières. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></p>
+
+  <div class="row">
+    <div class="filter-container col-md-6 col-sm-8 col-xs-8">
+      <label class="wb-inv" id="dropdown-label" for="selectButton">Sélectionner la juridiction</label>
+      <select class="form-control" id="selectButton"></select>
+    </div>
+
+    <div class="col-md-6 col-sm-4 col-xs-4 text-right">
+      <button data-wb-doaction='{ "action": "tocsv", "source": "#insect_defoliation_by_species-table", "filename": "StatProfile_Disturbance_InsectSpp_EN.csv" }' type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Télécharger</button>
+    </div>
+  </div>
+
+  <div class="table-responsive">
+    <div class="chart-container">
+      <div id="tooltip" class="hidden">
+        <p><strong>Année: </strong><span id="year"></span></p>
+        <p><strong>Superficie: </strong><span id="area"></span></p>
+      </div>
+    </div>
+  </div>
+      
+  <details>
+    <summary>
+      Tableau des données
+    </summary>
+
+    <div class="table-responsive">
+      <table id="insect_defoliation_by_species-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+    </div>
+  </details>
+
+  <!-- Sources and information footnote -->
+  <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources et informations</h2>
+    <dl>
+      <dt>Note de bas de page 1</dt>
+      <dd id="fn1">
+        <p>Source:</p>
+        <ul>
+          <li>Base de données nationale sur les forêts. Insectes forestiers,
+            <a href="http://nfdp. ccfm.org/fr/data/insects.php">Tableau 4, Superficie de défoliation modérée à grave (y compris la mortalité des arbres due aux scolytes) par insectes</a>.
+          </li>
+        </ul>
+        <p>Note:</p>
+        <ul>
+          <li>Données de remesure (2017) pour la superficie forestière estimée du Canada.</li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Retour à la note </span>1<span class="wb-inv"> référent</span></a></p>
+      </dd>
+    </dl>
+  </aside>
+</div>

@@ -1,0 +1,162 @@
+---
+title: Revenue from goods manufactured ($)
+altLangPage: /fr/snippets/
+dateModified: 2023-08-02
+layout: no-container 
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - revenue-from-goods-manufactured-logging.js
+  - revenue-from-goods-manufactured-paper-product-manufacturing.js
+  - revenue-from-goods-manufactured-wood-product-manufacturing.js
+  - revenue-from-goods-manufactured-logging-table.js
+  - revenue-from-goods-manufactured-paper-product-manufacturing-table.js
+  - revenue-from-goods-manufactured-wood-product-manufacturing-table.js
+css:
+  - economy-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link:
+---
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline">Revenue from goods manufactured ($)</h1>
+  </hgroup>
+</div>
+
+<div class="container">
+  <p class="mrgn-bttm-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  
+  <div class="panel panel-default px-2">
+    <div class="panel-body">
+      <h2 class="mrgn-tp-md" role="img" aria-label="Logging chart - Data table in following section">Logging</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        
+        <div class="row">
+            <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+              <label class="wb-inv" id="dropdown-label" for="logging-select">Select jurisdiction</label>
+                <select class="form-control" id="logging-select">
+                </select>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+              <button type="button" class="btn btn-default">Download data</button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <div id="logging-chart"></div>
+            <div id="tooltip"></div>
+        </div>
+        
+        <details>
+          <summary>
+            Data table
+          </summary>
+          <div class="table-responsive" style="position: relative;">
+            <table id="logging-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+          </div>
+        </details>
+        <details>
+          <summary>
+            Sources and information
+          </summary>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </details>
+      </div>
+    </div>
+    
+    <div class="panel panel-default px-2">
+      <div class="panel-body">
+        <h2 class="mrgn-tp-md" role="img" aria-label="Pulp and paper product manufacturing chart - Data table in following section">Pulp and paper product manufacturing</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        
+        <div class="row">
+            <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+              <label class="wb-inv" id="dropdown-label" for="plup_paper_product_jurisdiction-select">Select jurisdiction</label>
+                <select class="form-control" id="plup_paper_product_jurisdiction-select">
+                </select>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+              <button type="button" class="btn btn-default">Download data</button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <div id="plup_paper_product-chart"></div>
+            <div id="tooltip"></div>
+        </div>
+        
+        <details>
+          <summary>
+            Data table
+          </summary>
+          <div class="table-responsive">
+            <table id="plup_paper_product-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+          </div>
+        </details>
+        <details>
+          <summary>
+            Sources and information
+          </summary>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </details>
+      </div>
+    </div>
+
+  <div class="panel panel-default px-2">
+    <div class="panel-body">
+      <h2 class="mrgn-tp-md" role="img" aria-label="Wood product manufacturing chart - Data table in following section">Wood product manufacturing</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          
+      <div class="row">
+        <div class="filter-container col-md-9 col-sm-8 col-xs-7">
+          <label class="wb-inv" id="dropdown-label" for="wood_product_manufacturing_jurisdiction-select">Select jurisdiction</label>
+          <select class="form-control" id="wood_product_manufacturing_jurisdiction-select"></select>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-5 text-right">
+          <button type="button" class="btn btn-default">Download data</button>
+        </div>
+      </div>
+  
+      <div class="table-responsive">
+        <div id="wood_product_manufacturing-chart"></div>
+        <div id="tooltip"></div>
+      </div>
+          
+      <details>
+        <summary>
+          Data table
+        </summary>
+        <div class="table-responsive">
+          <table id="wood_product_manufacturing-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+        </div>
+      </details>
+      <details>
+        <summary>
+          Sources and information
+        </summary>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </details>
+    </div>
+  </div>
+</div>

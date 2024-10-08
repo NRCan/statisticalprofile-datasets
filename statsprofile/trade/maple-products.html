@@ -1,0 +1,189 @@
+---
+title: Maple products
+altLangPage: /fr/snippets/
+dateModified: 2024-08-28
+layout: no-container 
+language: en
+script:
+  - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js
+  - maple-products-trade-quantity.js
+  - maple-products-trade-value.js
+  - maple-products-production-quantity.js
+  - maple-products-production-value.js
+  - maple-products-trade-table.js
+  - maple-products-production-quantity-table.js
+  - maple-products-production-value-table.js
+css:
+  - trade-style.css
+breadcrumbs:
+  - nrcan:
+    title: Natural Resources Canada
+    link: https://www.nrcan.gc.ca/home
+  - home:
+    title: Our Natural Resources
+    link: https://www.nrcan.gc.ca/natural-resources/21438
+  - home:
+    title: Forests and forestry
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-foresty/13497
+  - home:
+    title: Canadian Forest Service
+    link: https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/the-canadian-forest-service
+  - home:
+    title: Statistical data
+    link: ../overview.html
+---
+<div class="container">
+  <hgroup>
+    <h1 id="wb-cont" class="gc-thickline mrgn-bttm-md">Maple products</h1>
+  </hgroup>
+</div>
+
+<div class="container">
+  <p class="mrgn-bttm-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+
+        <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Maple products trade quantity chart - Data table in following section">Maple products trade quantity</h2>
+        
+        <div class="row">
+            <div class="filter-container col-md-3 col-sm-3 col-xs-3">
+              <label class="wb-inv" id="dropdown-label" for="maple_products_quantity_commodity-select">Select commodity</label>
+                <select class="form-control" id="maple_products_quantity_commodity-select">
+                </select>
+            </div>
+            <div class="filter-container col-md-7 col-sm-7 col-xs-7">
+                <label class="wb-inv" id="dropdown-label" for="maple_products_quantity_type-select">Select type</label>
+                  <select class="form-control" id="maple_products_quantity_type-select">
+                  </select>
+              </div>
+            <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+              <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <div id="maple_products_quantity-chart"></div>
+            <div id="tooltip"></div>
+        </div>
+        
+        <!-- <details>
+          <summary>
+            Data table
+          </summary>
+          <div class="table-responsive">
+            <table id="maple_products_quantity-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+          </div>
+        </details> -->
+
+
+        <hr>
+
+      <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Maple products trade value chart - Data table in following section">Maple products trade value</h2>
+          
+      <div class="row">
+        <div class="filter-container col-md-3 col-sm-3 col-xs-3">
+            <label class="wb-inv" id="dropdown-label" for="maple_products_value_commodity-select">Select commodity</label>
+              <select class="form-control" id="maple_products_value_commodity-select">
+              </select>
+          </div>
+          <div class="filter-container col-md-7 col-sm-7 col-xs-7">
+              <label class="wb-inv" id="dropdown-label" for="maple_products_value_type-select">Select type</label>
+                <select class="form-control" id="maple_products_value_type-select">
+                </select>
+            </div>
+        <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+          <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+        </div>
+      </div>
+  
+      <div class="table-responsive">
+        <div id="maple_products_value-chart"></div>
+        <div id="tooltip"></div>
+      </div>
+          
+      <details>
+        <summary>
+          Data table
+        </summary>
+        <div class="table-responsive">
+          <table id="maple_products_trade-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+        </div>
+      </details>
+
+      <hr>
+
+      <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Maple products production quantity chart - Data table in following section">Maple products production quantity</h2>
+          
+      <div class="row">
+        <div class="filter-container col-md-10 col-sm-10 col-xs-10">
+            <label class="wb-inv" id="dropdown-label" for="maple_products_production_quantity_jurisdiction-select">Select jurisdiction</label>
+              <select class="form-control" id="maple_products_production_quantity_jurisdiction-select">
+              </select>
+          </div>
+        <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+          <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+        </div>
+      </div>
+  
+      <div class="table-responsive">
+        <div id="maple_products_production_quantity-chart"></div>
+        <div id="tooltip"></div>
+      </div>
+          
+      <details>
+        <summary>
+          Data table
+        </summary>
+        <div class="table-responsive">
+          <table id="maple_products_production_quantity-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+        </div>
+      </details>
+
+      <hr>
+
+      <h2 class="mrgn-tp-lg mrgn-bttm-lg" role="img" aria-label="Maple products production value chart - Data table in following section">Maple products production value</h2>
+          
+      <div class="row">
+        <div class="filter-container col-md-10 col-sm-10 col-xs-10">
+              <label class="wb-inv" id="dropdown-label" for="maple_products_production_value_jurisdiction-select">Select jurisdiction</label>
+                <select class="form-control" id="maple_products_production_value_jurisdiction-select">
+                </select>
+            </div>
+        <div class="col-md-2 col-sm-2 col-xs-2 text-right">
+          <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-save"></span> Download</button>
+        </div>
+      </div>
+  
+      <div class="table-responsive">
+        <div id="maple_products_production_value-chart"></div>
+        <div id="tooltip"></div>
+      </div>
+          
+      <details>
+        <summary>
+          Data table
+        </summary>
+        <div class="table-responsive">
+          <table id="maple_products_production_value-table" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'></table>
+        </div>
+      </details>
+
+  <!-- Sources and information footnote -->
+  <!-- <aside class="wb-fnote" role="note">
+    <h2 id="fn" class="wb-inv">Sources and information</h2>
+    <dl>
+      <dt>Footnote 1</dt>
+      <dd id="fn1">
+        <p>Source:</p>
+        <ul>
+          <li>Statistics Canada. Merchandise trade data (special extraction, March 8, 2022). 
+          </li>
+        </ul>
+        <p>Note:</p>
+        <ul>
+          <li>Balance of trade is the difference between the value of the goods and services that a country exports domestically and the value of the goods and services that it imports. If a country’s exports exceed its imports, it has a trade surplus. If its imports exceed exports, the country has a trade deficit.</li>
+        </ul>
+        <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+      </dd>
+    </dl>
+  </aside> -->
+</div>
