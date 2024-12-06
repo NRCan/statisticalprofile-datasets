@@ -13,7 +13,7 @@ This repository contains English and French datasets for the **Statistical Profi
 
 ## About the Datasets
 
-The datasets provided here are curated for use with the **Statistical Profile** website. The data is collected from a varity of sources such as NFD, Statistics Canada, etc. The data is then processed using Alteryx, a data analytics and visualization platform, and exported as CSVs.
+The datasets provided here are curated for use with the **Statistical Profile** website. The data is collected from a variety of sources such as NFD, Statistics Canada, etc. The data is then processed using Alteryx, a data analytics and visualization platform, and exported as CSVs.
 
 ## Folder Structure
 
