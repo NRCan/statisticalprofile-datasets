@@ -1,0 +1,19 @@
+<<<<<<< HEAD:FSD-FR-datasets/StatProfile_Inventory_Ownership_FR.csv
+﻿Écozone terrestre,Propriété forestière,Pourcentage
+Canada,Autochtone,1.95705878938705e-02
+Canada,Fédéral,1.55279412147272e-02
+Canada,Municipal,2.67609569392241e-03
+Canada,Autre,4.19018285860796e-03
+Canada,Privé,6.23323354751072e-02
+Canada,Provincial,0.766422714481454
+Canada,Territorial,0.12928014238231
+=======
+﻿Écozone terrestre,Propriété forestière,Pourcentage
+Canada,Autochtone,1.95705878938705e-02
+Canada,Fédéral,1.55279412147272e-02
+Canada,Municipal,2.67609569392241e-03
+Canada,Autre,4.19018285860796e-03
+Canada,Privé,6.23323354751072e-02
+Canada,Provincial,0.766422714481454
+Canada,Territorial,0.12928014238231
+>>>>>>> f6fb26f1261cabbfe449eacaf5d6f9c5d1a9200e:StatProfile-FR-datasets/StatProfile_Inventory_Ownership_FR.csv

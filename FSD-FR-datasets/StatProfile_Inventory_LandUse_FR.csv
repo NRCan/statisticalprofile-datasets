@@ -1,0 +1,265 @@
+<<<<<<< HEAD:FSD-FR-datasets/StatProfile_Inventory_LandUse_FR.csv
+﻿Écozone terrestre,Utilisation du sol,Superficie (1 000 hectares)
+Canada,Agriculture,60201.377999999997
+Canada,Conservation,93920.503
+Canada,Foresterie,265354.16200000001
+Canada,Industrie,3484.329
+Canada,Infrastructure,4051.564
+Canada,Défense nationale,2276.8719999999998
+Canada,Autre,None
+Canada,Loisirs,42047.872000000003
+Canada,Populations,4609.7529999999997
+Canada,Inconnu,171711.906
+Atlantique maritime,Agriculture,1444.771
+Atlantique maritime,Conservation,1699.632
+Atlantique maritime,Foresterie,14715.35
+Atlantique maritime,Industrie,46.275
+Atlantique maritime,Infrastructure,532.119
+Atlantique maritime,Défense nationale,71.986999999999995
+Atlantique maritime,Autre,None
+Atlantique maritime,Loisirs,237.779
+Atlantique maritime,Populations,290.27800000000002
+Atlantique maritime,Inconnu,601.887
+Cordillère boréale,Agriculture,2E-3
+Cordillère boréale,Conservation,6268.943
+Cordillère boréale,Foresterie,1037.991
+Cordillère boréale,Industrie,192.096
+Cordillère boréale,Infrastructure,34.109
+Cordillère boréale,Défense nationale,None
+Cordillère boréale,Autre,None
+Cordillère boréale,Loisirs,7959.6390000000001
+Cordillère boréale,Populations,41.292999999999999
+Cordillère boréale,Inconnu,30412.483
+Plaines boréales,Agriculture,12701.885
+Plaines boréales,Conservation,7121.615
+Plaines boréales,Foresterie,39124.506000000001
+Plaines boréales,Industrie,724.898
+Plaines boréales,Infrastructure,408.335
+Plaines boréales,Défense nationale,1053.425
+Plaines boréales,Autre,None
+Plaines boréales,Loisirs,1632.3920000000001
+Plaines boréales,Populations,998.83100000000002
+Plaines boréales,Inconnu,3352.225
+Bouclier boréal,Agriculture,1081.1400000000001
+Bouclier boréal,Conservation,31158.032
+Bouclier boréal,Foresterie,112279.499
+Bouclier boréal,Industrie,1483.741
+Bouclier boréal,Infrastructure,1933.982
+Bouclier boréal,Défense nationale,373.173
+Bouclier boréal,Autre,None
+Bouclier boréal,Loisirs,4962.7650000000003
+Bouclier boréal,Populations,1201.413
+Bouclier boréal,Inconnu,9348.177
+Plaines hudsoniennes,Agriculture,1.2869999999999999
+Plaines hudsoniennes,Conservation,20942.856
+Plaines hudsoniennes,Foresterie,12916.790999999999
+Plaines hudsoniennes,Industrie,31.199
+Plaines hudsoniennes,Infrastructure,14.832
+Plaines hudsoniennes,Défense nationale,None
+Plaines hudsoniennes,Autre,None
+Plaines hudsoniennes,Loisirs,None
+Plaines hudsoniennes,Populations,194.173
+Plaines hudsoniennes,Inconnu,451.261
+Plaines à forêts mixtes,Agriculture,5911.5510000000004
+Plaines à forêts mixtes,Conservation,366.79
+Plaines à forêts mixtes,Foresterie,3382.05
+Plaines à forêts mixtes,Industrie,45.591
+Plaines à forêts mixtes,Infrastructure,579.945
+Plaines à forêts mixtes,Défense nationale,2.3420000000000001
+Plaines à forêts mixtes,Autre,None
+Plaines à forêts mixtes,Loisirs,49.604999999999997
+Plaines à forêts mixtes,Populations,589.875
+Plaines à forêts mixtes,Inconnu,87.219
+Cordillère montagnarde,Agriculture,1248.838
+Cordillère montagnarde,Conservation,9876.381
+Cordillère montagnarde,Foresterie,18032.223999999998
+Cordillère montagnarde,Industrie,48.189
+Cordillère montagnarde,Infrastructure,97.759
+Cordillère montagnarde,Défense nationale,6.4349999999999996
+Cordillère montagnarde,Autre,None
+Cordillère montagnarde,Loisirs,13267.022999999999
+Cordillère montagnarde,Populations,206.44800000000001
+Cordillère montagnarde,Inconnu,4701.55
+Pacifique maritime,Agriculture,241.62799999999999
+Pacifique maritime,Conservation,3179.714
+Pacifique maritime,Foresterie,7043.9750000000004
+Pacifique maritime,Industrie,4.675
+Pacifique maritime,Infrastructure,47.475
+Pacifique maritime,Défense nationale,None
+Pacifique maritime,Autre,None
+Pacifique maritime,Loisirs,8013.6450000000004
+Pacifique maritime,Populations,124.90300000000001
+Pacifique maritime,Inconnu,1691.86
+Prairies,Agriculture,37561.125999999997
+Prairies,Conservation,1731.172
+Prairies,Foresterie,1342.829
+Prairies,Industrie,740.328
+Prairies,Infrastructure,358.66
+Prairies,Défense nationale,403.86599999999999
+Prairies,Autre,None
+Prairies,Loisirs,10.397
+Prairies,Populations,932.17600000000004
+Prairies,Inconnu,1516.51
+Cordillère de la taïga,Agriculture,None
+Cordillère de la taïga,Conservation,2441.998
+Cordillère de la taïga,Foresterie,None
+Cordillère de la taïga,Industrie,4.809
+Cordillère de la taïga,Infrastructure,1.899
+Cordillère de la taïga,Défense nationale,None
+Cordillère de la taïga,Autre,None
+Cordillère de la taïga,Loisirs,407.49
+Cordillère de la taïga,Populations,None
+Cordillère de la taïga,Inconnu,23579.736
+Plaines de la taïga,Agriculture,9.15
+Plaines de la taïga,Conservation,1634.976
+Plaines de la taïga,Foresterie,5744.64
+Plaines de la taïga,Industrie,6.088
+Plaines de la taïga,Infrastructure,10.092
+Plaines de la taïga,Défense nationale,None
+Plaines de la taïga,Autre,None
+Plaines de la taïga,Loisirs,5255.4359999999997
+Plaines de la taïga,Populations,3.9609999999999999
+Plaines de la taïga,Inconnu,44082.79
+Bouclier de la taïga,Agriculture,None
+Bouclier de la taïga,Conservation,7498.394
+Bouclier de la taïga,Foresterie,49734.307000000001
+Bouclier de la taïga,Industrie,156.44
+Bouclier de la taïga,Infrastructure,32.357
+Bouclier de la taïga,Défense nationale,365.64400000000001
+Bouclier de la taïga,Autre,None
+Bouclier de la taïga,Loisirs,251.70099999999999
+Bouclier de la taïga,Populations,26.402000000000001
+Bouclier de la taïga,Inconnu,51886.208
+=======
+﻿Écozone terrestre,Utilisation du sol,Superficie (1 000 hectares)
+Canada,Agriculture,60201.377999999997
+Canada,Conservation,93920.503
+Canada,Foresterie,265354.16200000001
+Canada,Industrie,3484.329
+Canada,Infrastructure,4051.564
+Canada,Défense nationale,2276.8719999999998
+Canada,Autre,None
+Canada,Loisirs,42047.872000000003
+Canada,Populations,4609.7529999999997
+Canada,Inconnu,171711.906
+Atlantique maritime,Agriculture,1444.771
+Atlantique maritime,Conservation,1699.632
+Atlantique maritime,Foresterie,14715.35
+Atlantique maritime,Industrie,46.275
+Atlantique maritime,Infrastructure,532.119
+Atlantique maritime,Défense nationale,71.986999999999995
+Atlantique maritime,Autre,None
+Atlantique maritime,Loisirs,237.779
+Atlantique maritime,Populations,290.27800000000002
+Atlantique maritime,Inconnu,601.887
+Cordillère boréale,Agriculture,2E-3
+Cordillère boréale,Conservation,6268.943
+Cordillère boréale,Foresterie,1037.991
+Cordillère boréale,Industrie,192.096
+Cordillère boréale,Infrastructure,34.109
+Cordillère boréale,Défense nationale,None
+Cordillère boréale,Autre,None
+Cordillère boréale,Loisirs,7959.6390000000001
+Cordillère boréale,Populations,41.292999999999999
+Cordillère boréale,Inconnu,30412.483
+Plaines boréales,Agriculture,12701.885
+Plaines boréales,Conservation,7121.615
+Plaines boréales,Foresterie,39124.506000000001
+Plaines boréales,Industrie,724.898
+Plaines boréales,Infrastructure,408.335
+Plaines boréales,Défense nationale,1053.425
+Plaines boréales,Autre,None
+Plaines boréales,Loisirs,1632.3920000000001
+Plaines boréales,Populations,998.83100000000002
+Plaines boréales,Inconnu,3352.225
+Bouclier boréal,Agriculture,1081.1400000000001
+Bouclier boréal,Conservation,31158.032
+Bouclier boréal,Foresterie,112279.499
+Bouclier boréal,Industrie,1483.741
+Bouclier boréal,Infrastructure,1933.982
+Bouclier boréal,Défense nationale,373.173
+Bouclier boréal,Autre,None
+Bouclier boréal,Loisirs,4962.7650000000003
+Bouclier boréal,Populations,1201.413
+Bouclier boréal,Inconnu,9348.177
+Plaines hudsoniennes,Agriculture,1.2869999999999999
+Plaines hudsoniennes,Conservation,20942.856
+Plaines hudsoniennes,Foresterie,12916.790999999999
+Plaines hudsoniennes,Industrie,31.199
+Plaines hudsoniennes,Infrastructure,14.832
+Plaines hudsoniennes,Défense nationale,None
+Plaines hudsoniennes,Autre,None
+Plaines hudsoniennes,Loisirs,None
+Plaines hudsoniennes,Populations,194.173
+Plaines hudsoniennes,Inconnu,451.261
+Plaines à forêts mixtes,Agriculture,5911.5510000000004
+Plaines à forêts mixtes,Conservation,366.79
+Plaines à forêts mixtes,Foresterie,3382.05
+Plaines à forêts mixtes,Industrie,45.591
+Plaines à forêts mixtes,Infrastructure,579.945
+Plaines à forêts mixtes,Défense nationale,2.3420000000000001
+Plaines à forêts mixtes,Autre,None
+Plaines à forêts mixtes,Loisirs,49.604999999999997
+Plaines à forêts mixtes,Populations,589.875
+Plaines à forêts mixtes,Inconnu,87.219
+Cordillère montagnarde,Agriculture,1248.838
+Cordillère montagnarde,Conservation,9876.381
+Cordillère montagnarde,Foresterie,18032.223999999998
+Cordillère montagnarde,Industrie,48.189
+Cordillère montagnarde,Infrastructure,97.759
+Cordillère montagnarde,Défense nationale,6.4349999999999996
+Cordillère montagnarde,Autre,None
+Cordillère montagnarde,Loisirs,13267.022999999999
+Cordillère montagnarde,Populations,206.44800000000001
+Cordillère montagnarde,Inconnu,4701.55
+Pacifique maritime,Agriculture,241.62799999999999
+Pacifique maritime,Conservation,3179.714
+Pacifique maritime,Foresterie,7043.9750000000004
+Pacifique maritime,Industrie,4.675
+Pacifique maritime,Infrastructure,47.475
+Pacifique maritime,Défense nationale,None
+Pacifique maritime,Autre,None
+Pacifique maritime,Loisirs,8013.6450000000004
+Pacifique maritime,Populations,124.90300000000001
+Pacifique maritime,Inconnu,1691.86
+Prairies,Agriculture,37561.125999999997
+Prairies,Conservation,1731.172
+Prairies,Foresterie,1342.829
+Prairies,Industrie,740.328
+Prairies,Infrastructure,358.66
+Prairies,Défense nationale,403.86599999999999
+Prairies,Autre,None
+Prairies,Loisirs,10.397
+Prairies,Populations,932.17600000000004
+Prairies,Inconnu,1516.51
+Cordillère de la taïga,Agriculture,None
+Cordillère de la taïga,Conservation,2441.998
+Cordillère de la taïga,Foresterie,None
+Cordillère de la taïga,Industrie,4.809
+Cordillère de la taïga,Infrastructure,1.899
+Cordillère de la taïga,Défense nationale,None
+Cordillère de la taïga,Autre,None
+Cordillère de la taïga,Loisirs,407.49
+Cordillère de la taïga,Populations,None
+Cordillère de la taïga,Inconnu,23579.736
+Plaines de la taïga,Agriculture,9.15
+Plaines de la taïga,Conservation,1634.976
+Plaines de la taïga,Foresterie,5744.64
+Plaines de la taïga,Industrie,6.088
+Plaines de la taïga,Infrastructure,10.092
+Plaines de la taïga,Défense nationale,None
+Plaines de la taïga,Autre,None
+Plaines de la taïga,Loisirs,5255.4359999999997
+Plaines de la taïga,Populations,3.9609999999999999
+Plaines de la taïga,Inconnu,44082.79
+Bouclier de la taïga,Agriculture,None
+Bouclier de la taïga,Conservation,7498.394
+Bouclier de la taïga,Foresterie,49734.307000000001
+Bouclier de la taïga,Industrie,156.44
+Bouclier de la taïga,Infrastructure,32.357
+Bouclier de la taïga,Défense nationale,365.64400000000001
+Bouclier de la taïga,Autre,None
+Bouclier de la taïga,Loisirs,251.70099999999999
+Bouclier de la taïga,Populations,26.402000000000001
+Bouclier de la taïga,Inconnu,51886.208
+>>>>>>> f6fb26f1261cabbfe449eacaf5d6f9c5d1a9200e:StatProfile-FR-datasets/StatProfile_Inventory_LandUse_FR.csv
