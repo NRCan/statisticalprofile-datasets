@@ -22,4 +22,4 @@ The repository is structured as follows:
 
 ## License
 
-The data shared is subject to Natural Resources Canada’s Open Science & Technology Repository Terms and Conditions, which can be found at [Terms and conditions - Canada.ca](#https://www.canada.ca/en/transparency/terms.html). Use of the data is for personal use only.
+The data shared is subject to Natural Resources Canada’s Open Science & Technology Repository Terms and Conditions, which can be found at [Terms and conditions - Canada.ca]([url](https://www.canada.ca/en/transparency/terms.html)). Use of the data is for personal use only.
