@@ -6,7 +6,6 @@ This repository contains English and French datasets for the **Forest Statistica
 
 - [About the Datasets](#about-the-datasets)
 - [Folder Structure](#folder-structure)
-- [Dataset Description](#dataset-description)
 - [License](#license)
 
 ## About the Datasets
