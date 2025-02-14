@@ -18,8 +18,10 @@ The repository is structured as follows:
 
 - `FSD-EN-datasets/`: Contains the English datasets.
 - `FSD-FR-datasets/`: Contains the French datasets.
+- `LICENSE.md`: License file.
 - `README.md`: Documentation about the datasets.
 
 ## License
 
 The data shared is subject to Natural Resources Canada’s Open Science & Technology Repository Terms and Conditions, which can be found at [Terms and conditions - Canada.ca](https://www.canada.ca/en/transparency/terms.html). Use of the data is for personal use only.
+Copyright © His Majesty the King in Right of Canada, as represented by the Minister of Natural Resources, 2024.
