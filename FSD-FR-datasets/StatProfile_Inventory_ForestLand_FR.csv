@@ -1,4 +1,3 @@
-<<<<<<< HEAD:FSD-FR-datasets/StatProfile_Inventory_ForestLand_FR.csv
 ﻿Écozone terrestre,Superficie forestière par classification,Superficie (1 000 hectares)
 Canada,Terrain forestier,367582.015
 Canada,Autre terrain avec couverture arborée,7207.959
@@ -39,45 +38,3 @@ Plaines de la taïga,Autre terrain boisé,3106.996
 Bouclier de la taïga,Terrain forestier,48251.576
 Bouclier de la taïga,Autre terrain avec couverture arborée,19.992
 Bouclier de la taïga,Autre terrain boisé,5909.991
-=======
-﻿Écozone terrestre,Superficie forestière par classification,Superficie (1 000 hectares)
-Canada,Terrain forestier,367582.015
-Canada,Autre terrain avec couverture arborée,7207.959
-Canada,Autre terrain boisé,36569.831
-Atlantique maritime,Terrain forestier,16678.66
-Atlantique maritime,Autre terrain avec couverture arborée,85.378
-Atlantique maritime,Autre terrain boisé,313.085
-Cordillère boréale,Terrain forestier,21221.726
-Cordillère boréale,Autre terrain avec couverture arborée,24.51
-Cordillère boréale,Autre terrain boisé,4275.987
-Plaines boréales,Terrain forestier,44078.741
-Plaines boréales,Autre terrain avec couverture arborée,3799.847
-Plaines boréales,Autre terrain boisé,3657.354
-Bouclier boréal,Terrain forestier,132409.587
-Bouclier boréal,Autre terrain avec couverture arborée,837.669
-Bouclier boréal,Autre terrain boisé,8015.099
-Plaines hudsoniennes,Terrain forestier,11589.61
-Plaines hudsoniennes,Autre terrain avec couverture arborée,66.117
-Plaines hudsoniennes,Autre terrain boisé,8056.98
-Plaines à forêts mixtes,Terrain forestier,3422.916
-Plaines à forêts mixtes,Autre terrain avec couverture arborée,90.221
-Plaines à forêts mixtes,Autre terrain boisé,118.768
-Cordillère montagnarde,Terrain forestier,34734.114
-Cordillère montagnarde,Autre terrain avec couverture arborée,522.925
-Cordillère montagnarde,Autre terrain boisé,686.798
-Pacifique maritime,Terrain forestier,11972.945
-Pacifique maritime,Autre terrain avec couverture arborée,52.395
-Pacifique maritime,Autre terrain boisé,286.773
-Prairies,Terrain forestier,1530.632
-Prairies,Autre terrain avec couverture arborée,1701.08
-Prairies,Autre terrain boisé,148.996
-Cordillère de la taïga,Terrain forestier,6399.932
-Cordillère de la taïga,Autre terrain avec couverture arborée,
-Cordillère de la taïga,Autre terrain boisé,1993.004
-Plaines de la taïga,Terrain forestier,35291.576
-Plaines de la taïga,Autre terrain avec couverture arborée,7.825
-Plaines de la taïga,Autre terrain boisé,3106.996
-Bouclier de la taïga,Terrain forestier,48251.576
-Bouclier de la taïga,Autre terrain avec couverture arborée,19.992
-Bouclier de la taïga,Autre terrain boisé,5909.991
->>>>>>> f6fb26f1261cabbfe449eacaf5d6f9c5d1a9200e:StatProfile-FR-datasets/StatProfile_Inventory_ForestLand_FR.csv
