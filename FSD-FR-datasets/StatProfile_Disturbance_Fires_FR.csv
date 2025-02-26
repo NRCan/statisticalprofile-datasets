@@ -1,0 +1,934 @@
+﻿Année,Juridiction,Origine,Superficie (en hectare),Nombre
+2000,Canada,Activité humaine,35498,2754
+2000,Canada,Foudre,486257,2159
+2000,Canada,Brûlage dirigé,18,1
+2000,Canada,Indéterminée,112382,483
+2001,Canada,Activité humaine,193629,4159
+2001,Canada,Foudre,373020,2880
+2001,Canada,Indéterminée,81020,723
+2002,Canada,Activité humaine,364925,3559
+2002,Canada,Foudre,2301358,3436
+2002,Canada,Brûlage dirigé,7,1
+2002,Canada,Indéterminée,97316,882
+2003,Canada,Activité humaine,160357,3555
+2003,Canada,Foudre,1049135,3398
+2003,Canada,Indéterminée,958910,1317
+2004,Canada,Activité humaine,40881,3015
+2004,Canada,Foudre,3125309,3378
+2004,Canada,Brûlage dirigé,0,1
+2004,Canada,Rebrûlage,41,6
+2004,Canada,Indéterminée,16768,88
+2005,Canada,Activité humaine,75683,3608
+2005,Canada,Foudre,1609671,3717
+2005,Canada,Brûlage dirigé,4,2
+2005,Canada,Rebrûlage,0,3
+2005,Canada,Indéterminée,1410,122
+2006,Canada,Activité humaine,294045,4177
+2006,Canada,Foudre,1797131,5404
+2006,Canada,Brûlage dirigé,2,7
+2006,Canada,Rebrûlage,33,22
+2006,Canada,Indéterminée,9470,144
+2007,Canada,Activité humaine,216147,3776
+2007,Canada,Foudre,1568189,2981
+2007,Canada,Brûlage dirigé,25,1
+2007,Canada,Rebrûlage,1,8
+2007,Canada,Indéterminée,1104,153
+2008,Canada,Activité humaine,126735,3214
+2008,Canada,Foudre,1528464,2870
+2008,Canada,Brûlage dirigé,9297,23
+2008,Canada,Rebrûlage,8,9
+2008,Canada,Indéterminée,421,123
+2009,Canada,Activité humaine,60243,3546
+2009,Canada,Foudre,695231,3452
+2009,Canada,Brûlage dirigé,7000,25
+2009,Canada,Rebrûlage,6,9
+2009,Canada,Indéterminée,86,113
+2010,Canada,Activité humaine,287566,3615
+2010,Canada,Foudre,2885380,3330
+2010,Canada,Brûlage dirigé,2112,14
+2010,Canada,Rebrûlage,139,12
+2010,Canada,Indéterminée,2770,345
+2011,Canada,Activité humaine,230341,2621
+2011,Canada,Foudre,1509985,1824
+2011,Canada,Brûlage dirigé,4816,25
+2011,Canada,Rebrûlage,0,5
+2011,Canada,Indéterminée,652285,203
+2012,Canada,Activité humaine,111844,3851
+2012,Canada,Foudre,1665396,3534
+2012,Canada,Brûlage dirigé,2627,16
+2012,Canada,Indéterminée,31823,517
+2013,Canada,Activité humaine,68204,3232
+2013,Canada,Foudre,4194251,2896
+2013,Canada,Brûlage dirigé,1122,20
+2013,Canada,Indéterminée,4925,108
+2014,Canada,Activité humaine,45931,2600
+2014,Canada,Foudre,4486938,2328
+2014,Canada,Brûlage dirigé,3898,17
+2014,Canada,Indéterminée,8891,75
+2015,Canada,Activité humaine,147755,3324
+2015,Canada,Foudre,3749916,3548
+2015,Canada,Brûlage dirigé,10105,30
+2015,Canada,Indéterminée,606,132
+2016,Canada,Activité humaine,119208,3226
+2016,Canada,Foudre,707880,1880
+2016,Canada,Brûlage dirigé,6480,26
+2016,Canada,Indéterminée,486038,135
+2017,Canada,Activité humaine,236686,2672
+2017,Canada,Foudre,3325000,2874
+2017,Canada,Brûlage dirigé,2190,16
+2017,Canada,Indéterminée,25554,96
+2018,Canada,Activité humaine,288789,3183
+2018,Canada,Foudre,1986960,3761
+2018,Canada,Brûlage dirigé,37076,19
+2018,Canada,Indéterminée,16020,140
+2019,Canada,Activité humaine,40285,2400
+2019,Canada,Foudre,907678,1477
+2019,Canada,Brûlage dirigé,308,12
+2019,Canada,Indéterminée,837929,170
+2020,Canada,Activité humaine,135135,2719
+2020,Canada,Foudre,78386,1102
+2020,Canada,Brûlage dirigé,1392,8
+2020,Canada,Indéterminée,3322,172
+2021,Canada,Activité humaine,553176,3091
+2021,Canada,Foudre,3495532,3463
+2021,Canada,Brûlage dirigé,686,17
+2021,Canada,Indéterminée,29502,138
+2022,Canada,Activité humaine,65545,2636
+2022,Canada,Foudre,0,0
+2022,Canada,Cause naturelle,1310303,2477
+2022,Canada,Brûlage dirigé,7638,28
+2022,Canada,Indéterminée,201597,512
+2023,Canada,Indéterminée,17197201,6811
+2000,Alberta,Activité humaine,8658,366
+2000,Alberta,Foudre,16575,481
+2000,Alberta,Indéterminée,19,17
+2001,Alberta,Activité humaine,139800,485
+2001,Alberta,Foudre,27108,516
+2001,Alberta,Indéterminée,78,23
+2002,Alberta,Activité humaine,248041,589
+2002,Alberta,Foudre,252498,886
+2002,Alberta,Brûlage dirigé,7,1
+2002,Alberta,Indéterminée,8,17
+2003,Alberta,Activité humaine,39243,672
+2003,Alberta,Foudre,145144,563
+2003,Alberta,Indéterminée,19958,22
+2004,Alberta,Activité humaine,6649,877
+2004,Alberta,Foudre,425626,788
+2004,Alberta,Brûlage dirigé,0,1
+2004,Alberta,Rebrûlage,41,6
+2004,Alberta,Indéterminée,9,11
+2005,Alberta,Activité humaine,12715,914
+2005,Alberta,Foudre,79604,471
+2005,Alberta,Brûlage dirigé,4,2
+2005,Alberta,Rebrûlage,0,3
+2005,Alberta,Indéterminée,45,35
+2006,Alberta,Activité humaine,23935,1223
+2006,Alberta,Foudre,106317,797
+2006,Alberta,Brûlage dirigé,2,7
+2006,Alberta,Rebrûlage,33,22
+2006,Alberta,Indéterminée,6024,58
+2007,Alberta,Activité humaine,1766,821
+2007,Alberta,Foudre,324225,530
+2007,Alberta,Rebrûlage,1,8
+2007,Alberta,Indéterminée,2,19
+2008,Alberta,Activité humaine,10673,905
+2008,Alberta,Foudre,22869,826
+2008,Alberta,Brûlage dirigé,2914,11
+2008,Alberta,Rebrûlage,8,9
+2008,Alberta,Indéterminée,71,44
+2009,Alberta,Activité humaine,22239,1056
+2009,Alberta,Foudre,67111,588
+2009,Alberta,Brûlage dirigé,5171,13
+2009,Alberta,Rebrûlage,6,9
+2009,Alberta,Indéterminée,31,49
+2010,Alberta,Activité humaine,2271,1119
+2010,Alberta,Foudre,84448,778
+2010,Alberta,Brûlage dirigé,11,3
+2010,Alberta,Rebrûlage,139,12
+2010,Alberta,Indéterminée,83,37
+2011,Alberta,Activité humaine,142950,928
+2011,Alberta,Foudre,97628,232
+2011,Alberta,Brûlage dirigé,1423,13
+2011,Alberta,Rebrûlage,0,5
+2011,Alberta,Indéterminée,650231,30
+2012,Alberta,Activité humaine,7553,1133
+2012,Alberta,Foudre,644115,470
+2012,Alberta,Brûlage dirigé,2,1
+2012,Alberta,Indéterminée,414,42
+2013,Alberta,Activité humaine,2101,892
+2013,Alberta,Foudre,48634,337
+2013,Alberta,Brûlage dirigé,167,7
+2013,Alberta,Indéterminée,4830,43
+2014,Alberta,Activité humaine,1204,865
+2014,Alberta,Foudre,286625,609
+2014,Alberta,Brûlage dirigé,201,3
+2014,Alberta,Indéterminée,19,29
+2015,Alberta,Activité humaine,38618,1033
+2015,Alberta,Foudre,801712,829
+2015,Alberta,Brûlage dirigé,2972,7
+2015,Alberta,Indéterminée,570,83
+2016,Alberta,Activité humaine,1134,878
+2016,Alberta,Foudre,27284,537
+2016,Alberta,Brûlage dirigé,838,7
+2016,Alberta,Indéterminée,485908,63
+2017,Alberta,Activité humaine,6834,834
+2017,Alberta,Foudre,116704,448
+2017,Alberta,Brûlage dirigé,867,3
+2017,Alberta,Indéterminée,25364,45
+2018,Alberta,Activité humaine,1892,782
+2018,Alberta,Foudre,69845,535
+2018,Alberta,Brûlage dirigé,339,2
+2018,Alberta,Indéterminée,12941,63
+2019,Alberta,Activité humaine,3026,728
+2019,Alberta,Foudre,164062,318
+2019,Alberta,Brûlage dirigé,141,2
+2019,Alberta,Indéterminée,836602,33
+2020,Alberta,Activité humaine,2949,681
+2020,Alberta,Foudre,393,89
+2020,Alberta,Brûlage dirigé,1250,2
+2020,Alberta,Indéterminée,206,28
+2021,Alberta,Activité humaine,1512,929
+2021,Alberta,Foudre,52475,441
+2021,Alberta,Brûlage dirigé,296,7
+2021,Alberta,Indéterminée,11858,49
+2022,Alberta,Activité humaine,1062,826
+2022,Alberta,Cause naturelle,142593,498
+2022,Alberta,Brûlage dirigé,6791,11
+2022,Alberta,Indéterminée,7101,37
+2023,Alberta,Indéterminée,1951299,1149
+2000,Colombie-Britannique,Activité humaine,11399,687
+2000,Colombie-Britannique,Foudre,6409,864
+2001,Colombie-Britannique,Activité humaine,5192,831
+2001,Colombie-Britannique,Foudre,8982,489
+2002,Colombie-Britannique,Activité humaine,4367,909
+2002,Colombie-Britannique,Foudre,4219,884
+2002,Colombie-Britannique,Indéterminée,0,2
+2003,Colombie-Britannique,Activité humaine,81752,945
+2003,Colombie-Britannique,Foudre,201650,1545
+2004,Colombie-Britannique,Activité humaine,2175,696
+2004,Colombie-Britannique,Foudre,218121,1721
+2004,Colombie-Britannique,Indéterminée,0,1
+2005,Colombie-Britannique,Activité humaine,9735,616
+2005,Colombie-Britannique,Foudre,27098,390
+2006,Colombie-Britannique,Activité humaine,9715,1037
+2006,Colombie-Britannique,Foudre,129710,1550
+2007,Colombie-Britannique,Activité humaine,12743,718
+2007,Colombie-Britannique,Foudre,17243,922
+2007,Colombie-Britannique,Indéterminée,1,1
+2008,Colombie-Britannique,Activité humaine,8649,869
+2008,Colombie-Britannique,Foudre,4801,1185
+2008,Colombie-Britannique,Brûlage dirigé,1813,2
+2008,Colombie-Britannique,Indéterminée,37,2
+2009,Colombie-Britannique,Activité humaine,26717,904
+2009,Colombie-Britannique,Foudre,220703,2196
+2009,Colombie-Britannique,Brûlage dirigé,100,1
+2010,Colombie-Britannique,Activité humaine,10437,729
+2010,Colombie-Britannique,Foudre,326732,1000
+2010,Colombie-Britannique,Brûlage dirigé,12,1
+2010,Colombie-Britannique,Indéterminée,0,1
+2011,Colombie-Britannique,Activité humaine,1183,470
+2011,Colombie-Britannique,Foudre,11380,210
+2011,Colombie-Britannique,Brûlage dirigé,585,3
+2011,Colombie-Britannique,Indéterminée,5,1
+2012,Colombie-Britannique,Activité humaine,5607,705
+2012,Colombie-Britannique,Foudre,97612,954
+2013,Colombie-Britannique,Activité humaine,4954,572
+2013,Colombie-Britannique,Foudre,13882,1306
+2013,Colombie-Britannique,Indéterminée,0,1
+2014,Colombie-Britannique,Activité humaine,8085,655
+2014,Colombie-Britannique,Foudre,360841,820
+2014,Colombie-Britannique,Brûlage dirigé,1,1
+2014,Colombie-Britannique,Indéterminée,0,2
+2015,Colombie-Britannique,Activité humaine,57127,625
+2015,Colombie-Britannique,Foudre,223741,1245
+2015,Colombie-Britannique,Brûlage dirigé,90,1
+2016,Colombie-Britannique,Activité humaine,93321,584
+2016,Colombie-Britannique,Foudre,7057,489
+2016,Colombie-Britannique,Brûlage dirigé,69,2
+2017,Colombie-Britannique,Activité humaine,225058,574
+2017,Colombie-Britannique,Foudre,1004756,821
+2017,Colombie-Britannique,Brûlage dirigé,45,1
+2017,Colombie-Britannique,Indéterminée,1,4
+2018,Colombie-Britannique,Activité humaine,121608,542
+2018,Colombie-Britannique,Foudre,1236349,1557
+2018,Colombie-Britannique,Brûlage dirigé,15,2
+2018,Colombie-Britannique,Indéterminée,2964,22
+2019,Colombie-Britannique,Activité humaine,4666,360
+2019,Colombie-Britannique,Foudre,15585,380
+2019,Colombie-Britannique,Brûlage dirigé,38,2
+2019,Colombie-Britannique,Indéterminée,1256,101
+2020,Colombie-Britannique,Activité humaine,1012,369
+2020,Colombie-Britannique,Foudre,11336,277
+2020,Colombie-Britannique,Brûlage dirigé,123,2
+2020,Colombie-Britannique,Indéterminée,2201,36
+2021,Colombie-Britannique,Activité humaine,294381,636
+2021,Colombie-Britannique,Foudre,570673,980
+2021,Colombie-Britannique,Indéterminée,1314,47
+2022,Colombie-Britannique,Activité humaine,22293,573
+2022,Colombie-Britannique,Cause naturelle,112840,1223
+2022,Colombie-Britannique,Brûlage dirigé,391,4
+2022,Colombie-Britannique,Indéterminée,102,18
+2023,Colombie-Britannique,Indéterminée,2840830,2269
+2000,Manitoba,Activité humaine,1616,4
+2000,Manitoba,Indéterminée,111699,353
+2001,Manitoba,Activité humaine,499,6
+2001,Manitoba,Indéterminée,80522,527
+2002,Manitoba,Activité humaine,1535,5
+2002,Manitoba,Indéterminée,95405,755
+2003,Manitoba,Activité humaine,3203,2
+2003,Manitoba,Indéterminée,938176,1207
+2004,Manitoba,Activité humaine,1062,16
+2004,Manitoba,Foudre,18074,32
+2004,Manitoba,Indéterminée,8384,9
+2005,Manitoba,Activité humaine,6189,111
+2005,Manitoba,Foudre,69102,143
+2006,Manitoba,Activité humaine,8113,262
+2006,Manitoba,Foudre,159437,422
+2007,Manitoba,Activité humaine,5513,221
+2007,Manitoba,Foudre,331368,162
+2008,Manitoba,Activité humaine,73198,254
+2008,Manitoba,Foudre,77474,143
+2008,Manitoba,Brûlage dirigé,4250,1
+2009,Manitoba,Activité humaine,2230,117
+2009,Manitoba,Foudre,642,67
+2009,Manitoba,Brûlage dirigé,420,2
+2010,Manitoba,Activité humaine,22397,248
+2010,Manitoba,Foudre,165099,338
+2010,Manitoba,Brûlage dirigé,1765,3
+2011,Manitoba,Activité humaine,26229,158
+2011,Manitoba,Foudre,100615,159
+2011,Manitoba,Brûlage dirigé,1967,5
+2011,Manitoba,Indéterminée,0,1
+2012,Manitoba,Activité humaine,21027,205
+2012,Manitoba,Foudre,195861,293
+2012,Manitoba,Indéterminée,620,1
+2013,Manitoba,Activité humaine,896,192
+2013,Manitoba,Foudre,1114519,302
+2013,Manitoba,Brûlage dirigé,42,2
+2014,Manitoba,Activité humaine,1172,115
+2014,Manitoba,Foudre,37936,130
+2014,Manitoba,Brûlage dirigé,100,1
+2015,Manitoba,Activité humaine,6779,164
+2015,Manitoba,Foudre,61353,295
+2015,Manitoba,Brûlage dirigé,1055,2
+2015,Manitoba,Indéterminée,6,2
+2016,Manitoba,Activité humaine,6701,108
+2016,Manitoba,Foudre,31707,96
+2016,Manitoba,Brûlage dirigé,750,2
+2016,Manitoba,Indéterminée,0,1
+2017,Manitoba,Activité humaine,1368,143
+2017,Manitoba,Foudre,223056,423
+2018,Manitoba,Activité humaine,78904,236
+2018,Manitoba,Foudre,155521,245
+2018,Manitoba,Brûlage dirigé,3,1
+2018,Manitoba,Indéterminée,50,1
+2019,Manitoba,Activité humaine,7940,149
+2019,Manitoba,Foudre,63324,133
+2019,Manitoba,Brûlage dirigé,39,1
+2019,Manitoba,Indéterminée,33,1
+2020,Manitoba,Activité humaine,34268,81
+2020,Manitoba,Foudre,15035,74
+2021,Manitoba,Activité humaine,243012,119
+2021,Manitoba,Foudre,883671,369
+2021,Manitoba,Brûlage dirigé,40,1
+2021,Manitoba,Indéterminée,16038,8
+2022,Manitoba,Activité humaine,3809,51
+2022,Manitoba,Cause naturelle,187968,173
+2022,Manitoba,Brûlage dirigé,329,2
+2022,Manitoba,Indéterminée,1,1
+2023,Manitoba,Indéterminée,189913,305
+2000,Nouveau-Brunswick,Activité humaine,372,265
+2000,Nouveau-Brunswick,Foudre,71,20
+2000,Nouveau-Brunswick,Indéterminée,50,57
+2001,Nouveau-Brunswick,Activité humaine,487,343
+2001,Nouveau-Brunswick,Foudre,25,56
+2001,Nouveau-Brunswick,Indéterminée,264,97
+2002,Nouveau-Brunswick,Activité humaine,256,211
+2002,Nouveau-Brunswick,Foudre,33,55
+2002,Nouveau-Brunswick,Indéterminée,37,51
+2003,Nouveau-Brunswick,Activité humaine,215,182
+2003,Nouveau-Brunswick,Foudre,4,22
+2003,Nouveau-Brunswick,Indéterminée,20,26
+2004,Nouveau-Brunswick,Activité humaine,389,212
+2004,Nouveau-Brunswick,Foudre,5,8
+2004,Nouveau-Brunswick,Indéterminée,68,36
+2005,Nouveau-Brunswick,Activité humaine,459,258
+2005,Nouveau-Brunswick,Foudre,10,25
+2005,Nouveau-Brunswick,Indéterminée,33,26
+2006,Nouveau-Brunswick,Activité humaine,574,249
+2006,Nouveau-Brunswick,Foudre,9,27
+2006,Nouveau-Brunswick,Indéterminée,42,34
+2007,Nouveau-Brunswick,Activité humaine,384,254
+2007,Nouveau-Brunswick,Foudre,25,30
+2007,Nouveau-Brunswick,Indéterminée,183,34
+2008,Nouveau-Brunswick,Activité humaine,126,140
+2008,Nouveau-Brunswick,Foudre,7,13
+2008,Nouveau-Brunswick,Indéterminée,10,15
+2009,Nouveau-Brunswick,Activité humaine,234,182
+2009,Nouveau-Brunswick,Foudre,0,2
+2009,Nouveau-Brunswick,Indéterminée,20,13
+2010,Nouveau-Brunswick,Activité humaine,131,143
+2010,Nouveau-Brunswick,Foudre,11,9
+2010,Nouveau-Brunswick,Indéterminée,15,27
+2011,Nouveau-Brunswick,Activité humaine,33,55
+2011,Nouveau-Brunswick,Foudre,2,4
+2011,Nouveau-Brunswick,Indéterminée,2,8
+2012,Nouveau-Brunswick,Activité humaine,288,277
+2012,Nouveau-Brunswick,Foudre,1,6
+2012,Nouveau-Brunswick,Indéterminée,72,55
+2013,Nouveau-Brunswick,Activité humaine,846,315
+2013,Nouveau-Brunswick,Foudre,0,2
+2013,Nouveau-Brunswick,Indéterminée,34,36
+2014,Nouveau-Brunswick,Activité humaine,101,154
+2014,Nouveau-Brunswick,Foudre,1,4
+2014,Nouveau-Brunswick,Indéterminée,11,22
+2015,Nouveau-Brunswick,Activité humaine,198,186
+2015,Nouveau-Brunswick,Foudre,46,8
+2015,Nouveau-Brunswick,Indéterminée,19,28
+2016,Nouveau-Brunswick,Activité humaine,199,238
+2016,Nouveau-Brunswick,Foudre,22,13
+2016,Nouveau-Brunswick,Indéterminée,44,34
+2017,Nouveau-Brunswick,Activité humaine,530,182
+2017,Nouveau-Brunswick,Foudre,20,29
+2017,Nouveau-Brunswick,Indéterminée,18,34
+2018,Nouveau-Brunswick,Activité humaine,250,229
+2018,Nouveau-Brunswick,Foudre,17,19
+2018,Nouveau-Brunswick,Indéterminée,44,37
+2019,Nouveau-Brunswick,Activité humaine,184,152
+2019,Nouveau-Brunswick,Foudre,14,14
+2019,Nouveau-Brunswick,Indéterminée,30,17
+2020,Nouveau-Brunswick,Activité humaine,1224,386
+2020,Nouveau-Brunswick,Foudre,51,28
+2020,Nouveau-Brunswick,Indéterminée,115,52
+2021,Nouveau-Brunswick,Activité humaine,332,148
+2021,Nouveau-Brunswick,Foudre,30,8
+2021,Nouveau-Brunswick,Indéterminée,18,23
+2022,Nouveau-Brunswick,Activité humaine,144,176
+2022,Nouveau-Brunswick,Cause naturelle,2,5
+2022,Nouveau-Brunswick,Indéterminée,30,33
+2023,Nouveau-Brunswick,Indéterminée,854,202
+2000,Terre-Neuve-et-Labrador,Activité humaine,232,124
+2000,Terre-Neuve-et-Labrador,Foudre,103304,25
+2001,Terre-Neuve-et-Labrador,Activité humaine,325,166
+2001,Terre-Neuve-et-Labrador,Foudre,641,16
+2002,Terre-Neuve-et-Labrador,Activité humaine,385,86
+2002,Terre-Neuve-et-Labrador,Foudre,14525,14
+2003,Terre-Neuve-et-Labrador,Activité humaine,683,125
+2003,Terre-Neuve-et-Labrador,Foudre,27028,15
+2004,Terre-Neuve-et-Labrador,Activité humaine,1225,123
+2004,Terre-Neuve-et-Labrador,Foudre,932,2
+2005,Terre-Neuve-et-Labrador,Activité humaine,187,115
+2005,Terre-Neuve-et-Labrador,Foudre,18061,6
+2006,Terre-Neuve-et-Labrador,Activité humaine,154,61
+2006,Terre-Neuve-et-Labrador,Foudre,3312,5
+2007,Terre-Neuve-et-Labrador,Activité humaine,324,59
+2007,Terre-Neuve-et-Labrador,Foudre,11026,6
+2007,Terre-Neuve-et-Labrador,Indéterminée,0,1
+2008,Terre-Neuve-et-Labrador,Activité humaine,98,70
+2008,Terre-Neuve-et-Labrador,Foudre,2,2
+2008,Terre-Neuve-et-Labrador,Brûlage dirigé,29,1
+2009,Terre-Neuve-et-Labrador,Activité humaine,393,148
+2009,Terre-Neuve-et-Labrador,Foudre,16264,2
+2009,Terre-Neuve-et-Labrador,Brûlage dirigé,15,1
+2010,Terre-Neuve-et-Labrador,Activité humaine,39,42
+2010,Terre-Neuve-et-Labrador,Foudre,957,4
+2011,Terre-Neuve-et-Labrador,Activité humaine,39,35
+2011,Terre-Neuve-et-Labrador,Indéterminée,387,7
+2012,Terre-Neuve-et-Labrador,Activité humaine,1672,109
+2012,Terre-Neuve-et-Labrador,Foudre,109,2
+2012,Terre-Neuve-et-Labrador,Indéterminée,27502,27
+2013,Terre-Neuve-et-Labrador,Activité humaine,27669,70
+2013,Terre-Neuve-et-Labrador,Foudre,2475,1
+2014,Terre-Neuve-et-Labrador,Brûlage dirigé,4,1
+2014,Terre-Neuve-et-Labrador,Indéterminée,8832,1
+2015,Terre-Neuve-et-Labrador,Activité humaine,10,6
+2015,Terre-Neuve-et-Labrador,Foudre,3580,19
+2015,Terre-Neuve-et-Labrador,Brûlage dirigé,82,2
+2016,Terre-Neuve-et-Labrador,Activité humaine,0,4
+2016,Terre-Neuve-et-Labrador,Foudre,10603,13
+2016,Terre-Neuve-et-Labrador,Brûlage dirigé,134,1
+2017,Terre-Neuve-et-Labrador,Activité humaine,62,78
+2017,Terre-Neuve-et-Labrador,Foudre,638,3
+2017,Terre-Neuve-et-Labrador,Indéterminée,0,1
+2018,Terre-Neuve-et-Labrador,Activité humaine,355,127
+2018,Terre-Neuve-et-Labrador,Foudre,40,4
+2018,Terre-Neuve-et-Labrador,Indéterminée,0,1
+2019,Terre-Neuve-et-Labrador,Activité humaine,107,89
+2019,Terre-Neuve-et-Labrador,Foudre,209,10
+2020,Terre-Neuve-et-Labrador,Activité humaine,148,72
+2020,Terre-Neuve-et-Labrador,Foudre,4185,24
+2020,Terre-Neuve-et-Labrador,Indéterminée,1,1
+2021,Terre-Neuve-et-Labrador,Activité humaine,244,85
+2021,Terre-Neuve-et-Labrador,Foudre,99,4
+2022,Terre-Neuve-et-Labrador,Activité humaine,0,20
+2022,Terre-Neuve-et-Labrador,Cause naturelle,0,1
+2022,Terre-Neuve-et-Labrador,Indéterminée,23890,102
+2023,Terre-Neuve-et-Labrador,Indéterminée,21913,101
+2000,Territoires du Nord-Ouest,Activité humaine,21,19
+2000,Territoires du Nord-Ouest,Foudre,177796,252
+2000,Territoires du Nord-Ouest,Brûlage dirigé,18,1
+2000,Territoires du Nord-Ouest,Indéterminée,1,3
+2001,Territoires du Nord-Ouest,Activité humaine,5,21
+2001,Territoires du Nord-Ouest,Foudre,116756,107
+2002,Territoires du Nord-Ouest,Activité humaine,18,12
+2002,Territoires du Nord-Ouest,Foudre,27068,70
+2002,Territoires du Nord-Ouest,Indéterminée,4,3
+2003,Territoires du Nord-Ouest,Activité humaine,9,12
+2003,Territoires du Nord-Ouest,Foudre,127812,148
+2004,Territoires du Nord-Ouest,Activité humaine,7638,35
+2004,Territoires du Nord-Ouest,Foudre,501430,254
+2004,Territoires du Nord-Ouest,Indéterminée,8288,10
+2005,Territoires du Nord-Ouest,Activité humaine,9,16
+2005,Territoires du Nord-Ouest,Foudre,216865,239
+2005,Territoires du Nord-Ouest,Indéterminée,1258,6
+2006,Territoires du Nord-Ouest,Activité humaine,69,23
+2006,Territoires du Nord-Ouest,Foudre,61312,140
+2006,Territoires du Nord-Ouest,Indéterminée,16,4
+2007,Territoires du Nord-Ouest,Activité humaine,22183,37
+2007,Territoires du Nord-Ouest,Foudre,422924,141
+2007,Territoires du Nord-Ouest,Indéterminée,22,6
+2008,Territoires du Nord-Ouest,Activité humaine,20,21
+2008,Territoires du Nord-Ouest,Foudre,308546,214
+2008,Territoires du Nord-Ouest,Indéterminée,223,5
+2009,Territoires du Nord-Ouest,Activité humaine,23,15
+2009,Territoires du Nord-Ouest,Foudre,10314,44
+2009,Territoires du Nord-Ouest,Indéterminée,0,1
+2010,Territoires du Nord-Ouest,Activité humaine,153,19
+2010,Territoires du Nord-Ouest,Foudre,350649,201
+2010,Territoires du Nord-Ouest,Indéterminée,125,4
+2011,Territoires du Nord-Ouest,Activité humaine,151,25
+2011,Territoires du Nord-Ouest,Foudre,329462,168
+2011,Territoires du Nord-Ouest,Indéterminée,71,8
+2012,Territoires du Nord-Ouest,Activité humaine,597,29
+2012,Territoires du Nord-Ouest,Foudre,301323,253
+2012,Territoires du Nord-Ouest,Indéterminée,2615,7
+2013,Territoires du Nord-Ouest,Activité humaine,1188,16
+2013,Territoires du Nord-Ouest,Foudre,553871,241
+2014,Territoires du Nord-Ouest,Activité humaine,10616,18
+2014,Territoires du Nord-Ouest,Foudre,3410696,370
+2015,Territoires du Nord-Ouest,Activité humaine,4,16
+2015,Territoires du Nord-Ouest,Foudre,722103,241
+2016,Territoires du Nord-Ouest,Activité humaine,7819,17
+2016,Territoires du Nord-Ouest,Foudre,247705,176
+2017,Territoires du Nord-Ouest,Activité humaine,11,19
+2017,Territoires du Nord-Ouest,Foudre,1033066,249
+2018,Territoires du Nord-Ouest,Activité humaine,170,6
+2018,Territoires du Nord-Ouest,Foudre,22007,57
+2019,Territoires du Nord-Ouest,Activité humaine,5,20
+2019,Territoires du Nord-Ouest,Foudre,105163,126
+2019,Territoires du Nord-Ouest,Indéterminée,0,1
+2020,Territoires du Nord-Ouest,Activité humaine,371,19
+2020,Territoires du Nord-Ouest,Foudre,20768,51
+2021,Territoires du Nord-Ouest,Activité humaine,9,17
+2021,Territoires du Nord-Ouest,Foudre,197480,133
+2021,Territoires du Nord-Ouest,Indéterminée,63,1
+2022,Territoires du Nord-Ouest,Activité humaine,59,33
+2022,Territoires du Nord-Ouest,Cause naturelle,603950,240
+2022,Territoires du Nord-Ouest,Indéterminée,23,1
+2023,Territoires du Nord-Ouest,Indéterminée,4163438,304
+2000,Nouvelle-Écosse,Activité humaine,301,163
+2000,Nouvelle-Écosse,Foudre,2,8
+2000,Nouvelle-Écosse,Indéterminée,185,41
+2001,Nouvelle-Écosse,Activité humaine,471,425
+2001,Nouvelle-Écosse,Foudre,8,16
+2001,Nouvelle-Écosse,Indéterminée,50,48
+2002,Nouvelle-Écosse,Activité humaine,191,224
+2002,Nouvelle-Écosse,Foudre,10,16
+2002,Nouvelle-Écosse,Indéterminée,11,30
+2003,Nouvelle-Écosse,Activité humaine,1236,254
+2003,Nouvelle-Écosse,Foudre,0,4
+2003,Nouvelle-Écosse,Indéterminée,21,14
+2004,Nouvelle-Écosse,Activité humaine,288,250
+2004,Nouvelle-Écosse,Foudre,0,4
+2004,Nouvelle-Écosse,Indéterminée,2,5
+2005,Nouvelle-Écosse,Activité humaine,472,261
+2005,Nouvelle-Écosse,Foudre,0,4
+2005,Nouvelle-Écosse,Indéterminée,23,24
+2006,Nouvelle-Écosse,Activité humaine,1562,203
+2006,Nouvelle-Écosse,Indéterminée,484,13
+2007,Nouvelle-Écosse,Activité humaine,510,324
+2007,Nouvelle-Écosse,Foudre,0,2
+2007,Nouvelle-Écosse,Indéterminée,181,61
+2008,Nouvelle-Écosse,Activité humaine,2638,212
+2008,Nouvelle-Écosse,Foudre,0,1
+2008,Nouvelle-Écosse,Indéterminée,62,35
+2009,Nouvelle-Écosse,Activité humaine,858,161
+2009,Nouvelle-Écosse,Brûlage dirigé,33,1
+2009,Nouvelle-Écosse,Indéterminée,25,29
+2010,Nouvelle-Écosse,Activité humaine,0,1
+2010,Nouvelle-Écosse,Brûlage dirigé,2,1
+2010,Nouvelle-Écosse,Indéterminée,436,248
+2011,Nouvelle-Écosse,Indéterminée,150,114
+2012,Nouvelle-Écosse,Foudre,3,1
+2012,Nouvelle-Écosse,Indéterminée,362,352
+2013,Nouvelle-Écosse,Activité humaine,295,157
+2013,Nouvelle-Écosse,Foudre,0,1
+2013,Nouvelle-Écosse,Brûlage dirigé,6,3
+2013,Nouvelle-Écosse,Indéterminée,6,13
+2014,Nouvelle-Écosse,Activité humaine,537,157
+2014,Nouvelle-Écosse,Indéterminée,28,15
+2015,Nouvelle-Écosse,Activité humaine,512,236
+2015,Nouvelle-Écosse,Brûlage dirigé,34,1
+2015,Nouvelle-Écosse,Indéterminée,5,12
+2016,Nouvelle-Écosse,Activité humaine,775,246
+2016,Nouvelle-Écosse,Foudre,18,11
+2016,Nouvelle-Écosse,Brûlage dirigé,5,2
+2016,Nouvelle-Écosse,Indéterminée,10,12
+2017,Nouvelle-Écosse,Activité humaine,573,176
+2017,Nouvelle-Écosse,Brûlage dirigé,0,1
+2018,Nouvelle-Écosse,Activité humaine,196,189
+2018,Nouvelle-Écosse,Foudre,2,4
+2018,Nouvelle-Écosse,Brûlage dirigé,1,1
+2018,Nouvelle-Écosse,Indéterminée,0,2
+2019,Nouvelle-Écosse,Activité humaine,134,137
+2019,Nouvelle-Écosse,Foudre,1,2
+2019,Nouvelle-Écosse,Indéterminée,2,4
+2020,Nouvelle-Écosse,Activité humaine,678,161
+2020,Nouvelle-Écosse,Foudre,18,16
+2020,Nouvelle-Écosse,Indéterminée,1,1
+2021,Nouvelle-Écosse,Activité humaine,192,107
+2021,Nouvelle-Écosse,Foudre,5,6
+2022,Nouvelle-Écosse,Activité humaine,3357,118
+2022,Nouvelle-Écosse,Cause naturelle,1,3
+2022,Nouvelle-Écosse,Indéterminée,25,31
+2023,Nouvelle-Écosse,Indéterminée,25093,220
+2000,Ontario,Activité humaine,1421,443
+2000,Ontario,Foudre,5293,199
+2000,Ontario,Indéterminée,65,11
+2001,Ontario,Activité humaine,1520,545
+2001,Ontario,Foudre,9256,1037
+2001,Ontario,Indéterminée,90,14
+2002,Ontario,Activité humaine,2352,439
+2002,Ontario,Foudre,178042,703
+2002,Ontario,Indéterminée,1851,21
+2003,Ontario,Activité humaine,8398,477
+2003,Ontario,Foudre,309985,519
+2003,Ontario,Indéterminée,734,47
+2004,Ontario,Activité humaine,1588,309
+2004,Ontario,Foudre,120,113
+2004,Ontario,Indéterminée,10,13
+2005,Ontario,Activité humaine,3168,593
+2005,Ontario,Foudre,39139,1358
+2005,Ontario,Indéterminée,44,27
+2006,Ontario,Activité humaine,2113,500
+2006,Ontario,Foudre,145303,1761
+2006,Ontario,Indéterminée,2573,31
+2007,Ontario,Activité humaine,33191,565
+2007,Ontario,Foudre,6747,533
+2007,Ontario,Brûlage dirigé,25,1
+2007,Ontario,Indéterminée,714,30
+2008,Ontario,Activité humaine,107,204
+2008,Ontario,Foudre,1194,118
+2008,Ontario,Brûlage dirigé,100,1
+2008,Ontario,Indéterminée,17,21
+2009,Ontario,Activité humaine,375,251
+2009,Ontario,Foudre,20308,121
+2009,Ontario,Brûlage dirigé,1,1
+2009,Ontario,Indéterminée,9,18
+2010,Ontario,Activité humaine,2609,541
+2010,Ontario,Foudre,10109,363
+2010,Ontario,Brûlage dirigé,7,1
+2010,Ontario,Indéterminée,2111,28
+2011,Ontario,Activité humaine,1852,458
+2011,Ontario,Foudre,632087,847
+2011,Ontario,Brûlage dirigé,600,2
+2011,Ontario,Indéterminée,1438,33
+2012,Ontario,Activité humaine,43439,614
+2012,Ontario,Foudre,107923,985
+2012,Ontario,Brûlage dirigé,1444,6
+2012,Ontario,Indéterminée,236,30
+2013,Ontario,Activité humaine,824,330
+2013,Ontario,Foudre,50216,239
+2013,Ontario,Brûlage dirigé,1,1
+2013,Ontario,Indéterminée,50,12
+2014,Ontario,Activité humaine,242,180
+2014,Ontario,Foudre,5144,117
+2014,Ontario,Brûlage dirigé,985,6
+2014,Ontario,Indéterminée,1,6
+2015,Ontario,Activité humaine,1244,345
+2015,Ontario,Foudre,38064,319
+2015,Ontario,Brûlage dirigé,3421,4
+2015,Ontario,Indéterminée,6,7
+2016,Ontario,Activité humaine,6116,454
+2016,Ontario,Foudre,76922,174
+2016,Ontario,Brûlage dirigé,3096,5
+2016,Ontario,Indéterminée,76,24
+2017,Ontario,Activité humaine,87,209
+2017,Ontario,Foudre,112233,556
+2017,Ontario,Brûlage dirigé,445,4
+2017,Ontario,Indéterminée,164,12
+2018,Ontario,Activité humaine,15994,378
+2018,Ontario,Foudre,249676,943
+2018,Ontario,Brûlage dirigé,7,6
+2018,Ontario,Indéterminée,20,12
+2019,Ontario,Activité humaine,16274,278
+2019,Ontario,Foudre,253446,255
+2019,Ontario,Brûlage dirigé,1,2
+2019,Ontario,Indéterminée,6,6
+2020,Ontario,Activité humaine,985,231
+2020,Ontario,Foudre,14471,368
+2020,Ontario,Brûlage dirigé,4,2
+2020,Ontario,Indéterminée,24,13
+2021,Ontario,Activité humaine,5536,262
+2021,Ontario,Foudre,779024,934
+2021,Ontario,Brûlage dirigé,2,4
+2021,Ontario,Indéterminée,6,6
+2022,Ontario,Activité humaine,2288,186
+2022,Ontario,Cause naturelle,270,88
+2022,Ontario,Brûlage dirigé,1,2
+2022,Ontario,Indéterminée,68,5
+2023,Ontario,Indéterminée,441474,743
+2000,Île-du-Prince-Édouard,Activité humaine,0,0
+2000,Île-du-Prince-Édouard,Foudre,0,0
+2000,Île-du-Prince-Édouard,Indéterminée,0,0
+2001,Île-du-Prince-Édouard,Activité humaine,13,32
+2001,Île-du-Prince-Édouard,Foudre,0,0
+2001,Île-du-Prince-Édouard,Indéterminée,16,14
+2002,Île-du-Prince-Édouard,Activité humaine,132,26
+2002,Île-du-Prince-Édouard,Foudre,0,0
+2002,Île-du-Prince-Édouard,Indéterminée,0,3
+2003,Île-du-Prince-Édouard,Activité humaine,11,13
+2003,Île-du-Prince-Édouard,Foudre,0,0
+2003,Île-du-Prince-Édouard,Indéterminée,1,1
+2004,Île-du-Prince-Édouard,Activité humaine,13,18
+2004,Île-du-Prince-Édouard,Foudre,0,0
+2004,Île-du-Prince-Édouard,Indéterminée,2,2
+2005,Île-du-Prince-Édouard,Activité humaine,44,11
+2005,Île-du-Prince-Édouard,Foudre,0,0
+2005,Île-du-Prince-Édouard,Indéterminée,6,2
+2006,Île-du-Prince-Édouard,Activité humaine,48,35
+2006,Île-du-Prince-Édouard,Foudre,0,0
+2006,Île-du-Prince-Édouard,Indéterminée,3,1
+2007,Île-du-Prince-Édouard,Activité humaine,18,8
+2007,Île-du-Prince-Édouard,Foudre,0,0
+2007,Île-du-Prince-Édouard,Indéterminée,1,1
+2008,Île-du-Prince-Édouard,Activité humaine,4,5
+2008,Île-du-Prince-Édouard,Foudre,0,0
+2008,Île-du-Prince-Édouard,Indéterminée,1,1
+2009,Île-du-Prince-Édouard,Activité humaine,3,7
+2009,Île-du-Prince-Édouard,Foudre,0,0
+2009,Île-du-Prince-Édouard,Indéterminée,0,1
+2010,Île-du-Prince-Édouard,Activité humaine,5,4
+2010,Île-du-Prince-Édouard,Foudre,0,0
+2010,Île-du-Prince-Édouard,Indéterminée,0,0
+2011,Île-du-Prince-Édouard,Activité humaine,5,3
+2011,Île-du-Prince-Édouard,Foudre,0,0
+2011,Île-du-Prince-Édouard,Indéterminée,1,1
+2012,Île-du-Prince-Édouard,Activité humaine,11,7
+2012,Île-du-Prince-Édouard,Foudre,0,0
+2012,Île-du-Prince-Édouard,Indéterminée,1,1
+2013,Île-du-Prince-Édouard,Activité humaine,76,9
+2013,Île-du-Prince-Édouard,Foudre,0,0
+2013,Île-du-Prince-Édouard,Indéterminée,5,2
+2014,Île-du-Prince-Édouard,Activité humaine,3,4
+2014,Île-du-Prince-Édouard,Foudre,0,0
+2014,Île-du-Prince-Édouard,Indéterminée,0,0
+2015,Île-du-Prince-Édouard,Activité humaine,3,5
+2015,Île-du-Prince-Édouard,Foudre,0,0
+2015,Île-du-Prince-Édouard,Indéterminée,0,0
+2016,Île-du-Prince-Édouard,Activité humaine,33,8
+2016,Île-du-Prince-Édouard,Foudre,0,0
+2016,Île-du-Prince-Édouard,Indéterminée,0,0
+2017,Île-du-Prince-Édouard,Activité humaine,0,4
+2017,Île-du-Prince-Édouard,Foudre,0,0
+2017,Île-du-Prince-Édouard,Indéterminée,7,0
+2018,Île-du-Prince-Édouard,Activité humaine,0,0
+2018,Île-du-Prince-Édouard,Foudre,0,0
+2018,Île-du-Prince-Édouard,Indéterminée,0,0
+2019,Île-du-Prince-Édouard,Activité humaine,0,0
+2019,Île-du-Prince-Édouard,Foudre,0,0
+2019,Île-du-Prince-Édouard,Indéterminée,0,0
+2020,Île-du-Prince-Édouard,Activité humaine,0,0
+2020,Île-du-Prince-Édouard,Foudre,0,0
+2020,Île-du-Prince-Édouard,Indéterminée,0,0
+2021,Île-du-Prince-Édouard,Activité humaine,0,0
+2021,Île-du-Prince-Édouard,Foudre,0,0
+2021,Île-du-Prince-Édouard,Indéterminée,0,0
+2022,Île-du-Prince-Édouard,Activité humaine,0,0
+2022,Île-du-Prince-Édouard,Foudre,0,0
+2022,Île-du-Prince-Édouard,Indéterminée,0,0
+2023,Île-du-Prince-Édouard,Indéterminée,8,8
+2000,Québec,Activité humaine,673,412
+2000,Québec,Foudre,38536,105
+2001,Québec,Activité humaine,5901,740
+2001,Québec,Foudre,27191,265
+2002,Québec,Activité humaine,5943,572
+2002,Québec,Foudre,1007807,327
+2003,Québec,Activité humaine,9783,526
+2003,Québec,Foudre,78462,194
+2004,Québec,Activité humaine,816,280
+2004,Québec,Foudre,2242,42
+2005,Québec,Activité humaine,33370,550
+2005,Québec,Foudre,766771,825
+2006,Québec,Activité humaine,65212,385
+2006,Québec,Foudre,71141,299
+2007,Québec,Activité humaine,120758,510
+2007,Québec,Foudre,221957,429
+2008,Québec,Activité humaine,148,188
+2008,Québec,Foudre,1333,34
+2008,Québec,Brûlage dirigé,115,1
+2009,Québec,Activité humaine,2246,338
+2009,Québec,Foudre,91725,145
+2009,Québec,Brûlage dirigé,29,2
+2010,Québec,Activité humaine,36000,497
+2010,Québec,Foudre,278884,242
+2010,Québec,Brûlage dirigé,30,1
+2011,Québec,Activité humaine,2273,232
+2011,Québec,Foudre,10125,98
+2011,Québec,Brûlage dirigé,1,1
+2012,Québec,Activité humaine,24782,522
+2012,Québec,Foudre,39261,274
+2012,Québec,Brûlage dirigé,1,2
+2013,Québec,Activité humaine,17131,377
+2013,Québec,Foudre,1855712,151
+2014,Québec,Activité humaine,8417,225
+2014,Québec,Foudre,55304,68
+2014,Québec,Brûlage dirigé,182,3
+2015,Québec,Activité humaine,1461,340
+2015,Québec,Foudre,3919,46
+2015,Québec,Brûlage dirigé,778,6
+2016,Québec,Activité humaine,334,433
+2016,Québec,Foudre,33036,171
+2016,Québec,Brûlage dirigé,563,3
+2017,Québec,Activité humaine,1693,236
+2017,Québec,Foudre,36699,83
+2017,Québec,Brûlage dirigé,53,3
+2018,Québec,Activité humaine,15772,400
+2018,Québec,Foudre,70489,194
+2018,Québec,Brûlage dirigé,55,2
+2018,Québec,Indéterminée,1,1
+2019,Québec,Activité humaine,5087,276
+2019,Québec,Foudre,4517,81
+2019,Québec,Brûlage dirigé,89,5
+2020,Québec,Activité humaine,52090,572
+2020,Québec,Foudre,7897,138
+2020,Québec,Brûlage dirigé,15,2
+2021,Québec,Activité humaine,1113,517
+2021,Québec,Foudre,48370,109
+2021,Québec,Brûlage dirigé,220,2
+2021,Québec,Indéterminée,4,1
+2022,Québec,Activité humaine,19246,413
+2022,Québec,Cause naturelle,10393,39
+2022,Québec,Brûlage dirigé,76,1
+2023,Québec,Indéterminée,4322888,713
+2000,Saskatchewan,Activité humaine,10795,240
+2000,Saskatchewan,Foudre,130628,182
+2001,Saskatchewan,Activité humaine,39409,547
+2001,Saskatchewan,Foudre,165725,328
+2002,Saskatchewan,Activité humaine,101682,447
+2002,Saskatchewan,Foudre,780975,450
+2003,Saskatchewan,Activité humaine,12884,299
+2003,Saskatchewan,Foudre,113205,359
+2004,Saskatchewan,Activité humaine,7407,166
+2004,Saskatchewan,Foudre,250726,165
+2004,Saskatchewan,Indéterminée,5,1
+2005,Saskatchewan,Activité humaine,9333,137
+2005,Saskatchewan,Foudre,205584,199
+2005,Saskatchewan,Indéterminée,1,2
+2006,Saskatchewan,Activité humaine,182546,173
+2006,Saskatchewan,Foudre,1025561,349
+2006,Saskatchewan,Indéterminée,328,3
+2007,Saskatchewan,Activité humaine,4768,239
+2007,Saskatchewan,Foudre,208305,135
+2008,Saskatchewan,Activité humaine,31062,319
+2008,Saskatchewan,Foudre,1099182,285
+2008,Saskatchewan,Brûlage dirigé,76,6
+2009,Saskatchewan,Activité humaine,4922,334
+2009,Saskatchewan,Foudre,37655,202
+2009,Saskatchewan,Brûlage dirigé,1231,4
+2009,Saskatchewan,Indéterminée,1,2
+2010,Saskatchewan,Activité humaine,208262,233
+2010,Saskatchewan,Foudre,1526789,345
+2010,Saskatchewan,Brûlage dirigé,285,4
+2011,Saskatchewan,Activité humaine,55506,241
+2011,Saskatchewan,Foudre,288342,66
+2011,Saskatchewan,Brûlage dirigé,240,1
+2012,Saskatchewan,Activité humaine,6861,215
+2012,Saskatchewan,Foudre,220914,204
+2012,Saskatchewan,Brûlage dirigé,1180,7
+2012,Saskatchewan,Indéterminée,1,2
+2013,Saskatchewan,Activité humaine,12218,281
+2013,Saskatchewan,Foudre,356635,160
+2013,Saskatchewan,Brûlage dirigé,906,7
+2013,Saskatchewan,Indéterminée,0,1
+2014,Saskatchewan,Activité humaine,15530,209
+2014,Saskatchewan,Foudre,327254,194
+2014,Saskatchewan,Brûlage dirigé,2425,2
+2015,Saskatchewan,Activité humaine,41757,344
+2015,Saskatchewan,Foudre,1725597,384
+2015,Saskatchewan,Brûlage dirigé,1673,7
+2016,Saskatchewan,Activité humaine,2774,232
+2016,Saskatchewan,Foudre,251991,171
+2016,Saskatchewan,Brûlage dirigé,1025,4
+2016,Saskatchewan,Indéterminée,0,1
+2017,Saskatchewan,Activité humaine,451,195
+2017,Saskatchewan,Foudre,398567,169
+2017,Saskatchewan,Brûlage dirigé,780,4
+2018,Saskatchewan,Activité humaine,47161,276
+2018,Saskatchewan,Foudre,108916,170
+2018,Saskatchewan,Brûlage dirigé,36656,5
+2018,Saskatchewan,Indéterminée,0,1
+2019,Saskatchewan,Activité humaine,1531,178
+2019,Saskatchewan,Foudre,46622,73
+2019,Saskatchewan,Indéterminée,0,7
+2020,Saskatchewan,Activité humaine,41398,136
+2020,Saskatchewan,Foudre,780,24
+2020,Saskatchewan,Indéterminée,774,41
+2021,Saskatchewan,Activité humaine,6822,256
+2021,Saskatchewan,Foudre,949453,381
+2021,Saskatchewan,Brûlage dirigé,128,3
+2021,Saskatchewan,Indéterminée,1,2
+2022,Saskatchewan,Activité humaine,13287,240
+2022,Saskatchewan,Cause naturelle,252286,207
+2022,Saskatchewan,Brûlage dirigé,40,1
+2022,Saskatchewan,Indéterminée,0,2
+2023,Saskatchewan,Indéterminée,1850829,462
+2000,Yukon,Activité humaine,10,31
+2000,Yukon,Foudre,7643,23
+2000,Yukon,Indéterminée,363,1
+2001,Yukon,Activité humaine,7,18
+2001,Yukon,Foudre,17328,50
+2002,Yukon,Activité humaine,23,39
+2002,Yukon,Foudre,36181,31
+2003,Yukon,Activité humaine,2940,48
+2003,Yukon,Foudre,45845,29
+2004,Yukon,Activité humaine,11631,33
+2004,Yukon,Foudre,1708033,249
+2005,Yukon,Activité humaine,2,26
+2005,Yukon,Foudre,187437,57
+2006,Yukon,Activité humaine,4,26
+2006,Yukon,Foudre,95029,54
+2007,Yukon,Activité humaine,13989,20
+2007,Yukon,Foudre,24369,91
+2008,Yukon,Activité humaine,12,27
+2008,Yukon,Foudre,13056,49
+2009,Yukon,Activité humaine,3,33
+2009,Yukon,Foudre,230509,85
+2010,Yukon,Activité humaine,5262,39
+2010,Yukon,Foudre,141702,50
+2011,Yukon,Activité humaine,120,16
+2011,Yukon,Foudre,40344,40
+2012,Yukon,Activité humaine,7,35
+2012,Yukon,Foudre,58274,92
+2013,Yukon,Activité humaine,6,21
+2013,Yukon,Foudre,198307,156
+2014,Yukon,Activité humaine,24,18
+2014,Yukon,Foudre,3137,16
+2015,Yukon,Activité humaine,42,24
+2015,Yukon,Foudre,169801,162
+2016,Yukon,Activité humaine,2,24
+2016,Yukon,Foudre,21535,29
+2017,Yukon,Activité humaine,19,22
+2017,Yukon,Foudre,399261,93
+2018,Yukon,Activité humaine,6487,18
+2018,Yukon,Foudre,74098,33
+2019,Yukon,Activité humaine,1331,33
+2019,Yukon,Foudre,254735,85
+2020,Yukon,Activité humaine,12,11
+2020,Yukon,Foudre,3452,13
+2021,Yukon,Activité humaine,23,15
+2021,Yukon,Foudre,14252,98
+2021,Yukon,Indéterminée,200,1
+2022,Yukon,Brûlage dirigé,10,7
+2022,Yukon,Indéterminée,170357,282
+2023,Yukon,Indéterminée,373920,218
