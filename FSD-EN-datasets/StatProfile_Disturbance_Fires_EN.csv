@@ -1,4 +1,7 @@
 ﻿Year,Jurisdiction,Cause,Area (hectares),Number
+2000,Alberta,Human activity,8658,366
+2000,Alberta,Lightning,16575,481
+2000,Alberta,Unspecified,19,17
 2001,Alberta,Human activity,139800,485
 2001,Alberta,Lightning,27108,516
 2001,Alberta,Unspecified,78,23
@@ -93,6 +96,8 @@
 2022,Alberta,Prescribed burn,6791,11
 2022,Alberta,Unspecified,7101,37
 2023,Alberta,Unspecified,1951299,1149
+2000,British Columbia,Human activity,11399,687
+2000,British Columbia,Lightning,6409,864
 2001,British Columbia,Human activity,5192,831
 2001,British Columbia,Lightning,8982,489
 2002,British Columbia,Human activity,4367,909
@@ -164,6 +169,8 @@
 2022,British Columbia,Prescribed burn,391,4
 2022,British Columbia,Unspecified,102,18
 2023,British Columbia,Unspecified,2840830,2269
+2000,Manitoba,Human activity,1616,4
+2000,Manitoba,Unspecified,111699,353
 2001,Manitoba,Human activity,499,6
 2001,Manitoba,Unspecified,80522,527
 2002,Manitoba,Human activity,1535,5
@@ -230,6 +237,9 @@
 2022,Manitoba,Prescribed burn,329,2
 2022,Manitoba,Unspecified,1,1
 2023,Manitoba,Unspecified,189913,305
+2000,New Brunswick,Human activity,372,265
+2000,New Brunswick,Lightning,71,20
+2000,New Brunswick,Unspecified,50,57
 2001,New Brunswick,Human activity,487,343
 2001,New Brunswick,Lightning,25,56
 2001,New Brunswick,Unspecified,264,97
@@ -297,6 +307,8 @@
 2022,New Brunswick,Natural cause,2,5
 2022,New Brunswick,Unspecified,30,33
 2023,New Brunswick,Unspecified,854,202
+2000,Newfoundland and Labrador,Human activity,232,124
+2000,Newfoundland and Labrador,Lightning,103304,25
 2001,Newfoundland and Labrador,Human activity,325,166
 2001,Newfoundland and Labrador,Lightning,641,16
 2002,Newfoundland and Labrador,Human activity,385,86
@@ -352,6 +364,10 @@
 2022,Newfoundland and Labrador,Natural cause,0,1
 2022,Newfoundland and Labrador,Unspecified,23890,102
 2023,Newfoundland and Labrador,Unspecified,21913,101
+2000,Northwest Territories,Human activity,21,19
+2000,Northwest Territories,Lightning,177796,252
+2000,Northwest Territories,Prescribed burn,18,1
+2000,Northwest Territories,Unspecified,1,3
 2001,Northwest Territories,Human activity,5,21
 2001,Northwest Territories,Lightning,116756,107
 2002,Northwest Territories,Human activity,18,12
@@ -410,6 +426,9 @@
 2022,Northwest Territories,Natural cause,603950,240
 2022,Northwest Territories,Unspecified,23,1
 2023,Northwest Territories,Unspecified,4163438,304
+2000,Nova Scotia,Human activity,301,163
+2000,Nova Scotia,Lightning,2,8
+2000,Nova Scotia,Unspecified,185,41
 2001,Nova Scotia,Human activity,471,425
 2001,Nova Scotia,Lightning,8,16
 2001,Nova Scotia,Unspecified,50,48
@@ -473,6 +492,9 @@
 2022,Nova Scotia,Natural cause,1,3
 2022,Nova Scotia,Unspecified,25,31
 2023,Nova Scotia,Unspecified,25093,220
+2000,Ontario,Human activity,1421,443
+2000,Ontario,Lightning,5293,199
+2000,Ontario,Unspecified,65,11
 2001,Ontario,Human activity,1520,545
 2001,Ontario,Lightning,9256,1037
 2001,Ontario,Unspecified,90,14
@@ -556,6 +578,9 @@
 2022,Ontario,Prescribed burn,1,2
 2022,Ontario,Unspecified,68,5
 2023,Ontario,Unspecified,441474,743
+2000,Prince Edward Island,Human activity,0,0
+2000,Prince Edward Island,Lightning,0,0
+2000,Prince Edward Island,Unspecified,0,0
 2001,Prince Edward Island,Human activity,13,32
 2001,Prince Edward Island,Lightning,0,0
 2001,Prince Edward Island,Unspecified,16,14
@@ -623,6 +648,8 @@
 2022,Prince Edward Island,Lightning,0,0
 2022,Prince Edward Island,Unspecified,0,0
 2023,Prince Edward Island,Unspecified,8,8
+2000,Quebec,Human activity,673,412
+2000,Quebec,Lightning,38536,105
 2001,Quebec,Human activity,5901,740
 2001,Quebec,Lightning,27191,265
 2002,Quebec,Human activity,5943,572
@@ -684,6 +711,8 @@
 2022,Quebec,Natural cause,10393,39
 2022,Quebec,Prescribed burn,76,1
 2023,Quebec,Unspecified,4322888,713
+2000,Saskatchewan,Human activity,10795,240
+2000,Saskatchewan,Lightning,130628,182
 2001,Saskatchewan,Human activity,39409,547
 2001,Saskatchewan,Lightning,165725,328
 2002,Saskatchewan,Human activity,101682,447
@@ -754,6 +783,9 @@
 2022,Saskatchewan,Prescribed burn,40,1
 2022,Saskatchewan,Unspecified,0,2
 2023,Saskatchewan,Unspecified,1850829,462
+2000,Yukon,Human activity,10,31
+2000,Yukon,Lightning,7643,23
+2000,Yukon,Unspecified,363,1
 2001,Yukon,Human activity,7,18
 2001,Yukon,Lightning,17328,50
 2002,Yukon,Human activity,23,39
