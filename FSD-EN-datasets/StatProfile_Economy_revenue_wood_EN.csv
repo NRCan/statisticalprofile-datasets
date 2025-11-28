@@ -559,22 +559,22 @@
 2021,Yukon,Wood product manufacturing,Sawmills and wood preservation,0
 2021,Yukon,Wood product manufacturing,Veneer plywood and engineered wood product,0
 2021,Yukon,Wood product manufacturing,Other wood product manufacturing,0
-2022,Canada,Wood product manufacturing,Total wood product manufacturing,90426932
-2022,Canada,Wood product manufacturing,Sawmills and wood preservation,50206788
-2022,Canada,Wood product manufacturing,Veneer plywood and engineered wood product,27106316
-2022,Canada,Wood product manufacturing,Other wood product manufacturing,13113828
-2022,Alberta,Wood product manufacturing,Total wood product manufacturing,13525725
-2022,Alberta,Wood product manufacturing,Sawmills and wood preservation,6536372
-2022,Alberta,Wood product manufacturing,Veneer plywood and engineered wood product,5836988
-2022,Alberta,Wood product manufacturing,Other wood product manufacturing,1152365
-2022,British Columbia,Wood product manufacturing,Total wood product manufacturing,28771685
-2022,British Columbia,Wood product manufacturing,Sawmills and wood preservation,20089450
-2022,British Columbia,Wood product manufacturing,Veneer plywood and engineered wood product,5854726
-2022,British Columbia,Wood product manufacturing,Other wood product manufacturing,2827509
-2022,Manitoba,Wood product manufacturing,Total wood product manufacturing,1273622
-2022,Manitoba,Wood product manufacturing,Sawmills and wood preservation,677170
-2022,Manitoba,Wood product manufacturing,Veneer plywood and engineered wood product,239714
-2022,Manitoba,Wood product manufacturing,Other wood product manufacturing,356738
+2022,Canada,Wood product manufacturing,Total wood product manufacturing,90862374
+2022,Canada,Wood product manufacturing,Sawmills and wood preservation,49798068
+2022,Canada,Wood product manufacturing,Veneer plywood and engineered wood product,27954440
+2022,Canada,Wood product manufacturing,Other wood product manufacturing,13109866
+2022,Alberta,Wood product manufacturing,Total wood product manufacturing,13479722
+2022,Alberta,Wood product manufacturing,Sawmills and wood preservation,6541930
+2022,Alberta,Wood product manufacturing,Veneer plywood and engineered wood product,5836758
+2022,Alberta,Wood product manufacturing,Other wood product manufacturing,1101034
+2022,British Columbia,Wood product manufacturing,Total wood product manufacturing,28843509
+2022,British Columbia,Wood product manufacturing,Sawmills and wood preservation,20047928
+2022,British Columbia,Wood product manufacturing,Veneer plywood and engineered wood product,6058528
+2022,British Columbia,Wood product manufacturing,Other wood product manufacturing,2737053
+2022,Manitoba,Wood product manufacturing,Total wood product manufacturing,1269367
+2022,Manitoba,Wood product manufacturing,Sawmills and wood preservation,211418
+2022,Manitoba,Wood product manufacturing,Veneer plywood and engineered wood product,707422
+2022,Manitoba,Wood product manufacturing,Other wood product manufacturing,350527
 2022,New Brunswick,Wood product manufacturing,Total wood product manufacturing,0
 2022,New Brunswick,Wood product manufacturing,Sawmills and wood preservation,0
 2022,New Brunswick,Wood product manufacturing,Veneer plywood and engineered wood product,0
@@ -587,31 +587,87 @@
 2022,Northwest Territories,Wood product manufacturing,Sawmills and wood preservation,0
 2022,Northwest Territories,Wood product manufacturing,Veneer plywood and engineered wood product,0
 2022,Northwest Territories,Wood product manufacturing,Other wood product manufacturing,0
-2022,Nova Scotia,Wood product manufacturing,Total wood product manufacturing,259302
+2022,Nova Scotia,Wood product manufacturing,Total wood product manufacturing,136892
 2022,Nova Scotia,Wood product manufacturing,Sawmills and wood preservation,0
-2022,Nova Scotia,Wood product manufacturing,Veneer plywood and engineered wood product,259302
-2022,Nova Scotia,Wood product manufacturing,Other wood product manufacturing,0
+2022,Nova Scotia,Wood product manufacturing,Veneer plywood and engineered wood product,0
+2022,Nova Scotia,Wood product manufacturing,Other wood product manufacturing,136892
 2022,Nunavut,Wood product manufacturing,Total wood product manufacturing,0
 2022,Nunavut,Wood product manufacturing,Sawmills and wood preservation,0
 2022,Nunavut,Wood product manufacturing,Veneer plywood and engineered wood product,0
 2022,Nunavut,Wood product manufacturing,Other wood product manufacturing,0
-2022,Ontario,Wood product manufacturing,Total wood product manufacturing,13269910
-2022,Ontario,Wood product manufacturing,Sawmills and wood preservation,4992388
-2022,Ontario,Wood product manufacturing,Veneer plywood and engineered wood product,5150736
-2022,Ontario,Wood product manufacturing,Other wood product manufacturing,3126786
-2022,Prince Edward Island,Wood product manufacturing,Total wood product manufacturing,4210
-2022,Prince Edward Island,Wood product manufacturing,Sawmills and wood preservation,4210
+2022,Ontario,Wood product manufacturing,Total wood product manufacturing,13538415
+2022,Ontario,Wood product manufacturing,Sawmills and wood preservation,5034784
+2022,Ontario,Wood product manufacturing,Veneer plywood and engineered wood product,5228716
+2022,Ontario,Wood product manufacturing,Other wood product manufacturing,3274915
+2022,Prince Edward Island,Wood product manufacturing,Total wood product manufacturing,0
+2022,Prince Edward Island,Wood product manufacturing,Sawmills and wood preservation,0
 2022,Prince Edward Island,Wood product manufacturing,Veneer plywood and engineered wood product,0
 2022,Prince Edward Island,Wood product manufacturing,Other wood product manufacturing,0
-2022,Quebec,Wood product manufacturing,Total wood product manufacturing,24834279
-2022,Quebec,Wood product manufacturing,Sawmills and wood preservation,13035730
-2022,Quebec,Wood product manufacturing,Veneer plywood and engineered wood product,6777160
-2022,Quebec,Wood product manufacturing,Other wood product manufacturing,5021389
-2022,Saskatchewan,Wood product manufacturing,Total wood product manufacturing,2471524
-2022,Saskatchewan,Wood product manufacturing,Sawmills and wood preservation,629192
-2022,Saskatchewan,Wood product manufacturing,Veneer plywood and engineered wood product,1752750
-2022,Saskatchewan,Wood product manufacturing,Other wood product manufacturing,89582
+2022,Quebec,Wood product manufacturing,Total wood product manufacturing,24978787
+2022,Quebec,Wood product manufacturing,Sawmills and wood preservation,13080796
+2022,Quebec,Wood product manufacturing,Veneer plywood and engineered wood product,6876558
+2022,Quebec,Wood product manufacturing,Other wood product manufacturing,5021433
+2022,Saskatchewan,Wood product manufacturing,Total wood product manufacturing,2469644
+2022,Saskatchewan,Wood product manufacturing,Sawmills and wood preservation,629150
+2022,Saskatchewan,Wood product manufacturing,Veneer plywood and engineered wood product,1751920
+2022,Saskatchewan,Wood product manufacturing,Other wood product manufacturing,88574
 2022,Yukon,Wood product manufacturing,Total wood product manufacturing,0
 2022,Yukon,Wood product manufacturing,Sawmills and wood preservation,0
 2022,Yukon,Wood product manufacturing,Veneer plywood and engineered wood product,0
 2022,Yukon,Wood product manufacturing,Other wood product manufacturing,0
+2023,Canada,Wood product manufacturing,Total wood product manufacturing,66577934
+2023,Canada,Wood product manufacturing,Sawmills and wood preservation,33405110
+2023,Canada,Wood product manufacturing,Veneer plywood and engineered wood product,21071368
+2023,Canada,Wood product manufacturing,Other wood product manufacturing,12101456
+2023,Alberta,Wood product manufacturing,Total wood product manufacturing,8732412
+2023,Alberta,Wood product manufacturing,Sawmills and wood preservation,4278124
+2023,Alberta,Wood product manufacturing,Veneer plywood and engineered wood product,3375840
+2023,Alberta,Wood product manufacturing,Other wood product manufacturing,1078448
+2023,British Columbia,Wood product manufacturing,Total wood product manufacturing,20162480
+2023,British Columbia,Wood product manufacturing,Sawmills and wood preservation,12357096
+2023,British Columbia,Wood product manufacturing,Veneer plywood and engineered wood product,5282528
+2023,British Columbia,Wood product manufacturing,Other wood product manufacturing,2522856
+2023,Manitoba,Wood product manufacturing,Total wood product manufacturing,1292390
+2023,Manitoba,Wood product manufacturing,Sawmills and wood preservation,180944
+2023,Manitoba,Wood product manufacturing,Veneer plywood and engineered wood product,737794
+2023,Manitoba,Wood product manufacturing,Other wood product manufacturing,373652
+2023,New Brunswick,Wood product manufacturing,Total wood product manufacturing,3383316
+2023,New Brunswick,Wood product manufacturing,Sawmills and wood preservation,2210962
+2023,New Brunswick,Wood product manufacturing,Veneer plywood and engineered wood product,833752
+2023,New Brunswick,Wood product manufacturing,Other wood product manufacturing,338602
+2023,Newfoundland and Labrador,Wood product manufacturing,Total wood product manufacturing,0
+2023,Newfoundland and Labrador,Wood product manufacturing,Sawmills and wood preservation,0
+2023,Newfoundland and Labrador,Wood product manufacturing,Veneer plywood and engineered wood product,0
+2023,Newfoundland and Labrador,Wood product manufacturing,Other wood product manufacturing,0
+2023,Northwest Territories,Wood product manufacturing,Total wood product manufacturing,0
+2023,Northwest Territories,Wood product manufacturing,Sawmills and wood preservation,0
+2023,Northwest Territories,Wood product manufacturing,Veneer plywood and engineered wood product,0
+2023,Northwest Territories,Wood product manufacturing,Other wood product manufacturing,0
+2023,Nova Scotia,Wood product manufacturing,Total wood product manufacturing,205590
+2023,Nova Scotia,Wood product manufacturing,Sawmills and wood preservation,0
+2023,Nova Scotia,Wood product manufacturing,Veneer plywood and engineered wood product,205590
+2023,Nova Scotia,Wood product manufacturing,Other wood product manufacturing,0
+2023,Nunavut,Wood product manufacturing,Total wood product manufacturing,0
+2023,Nunavut,Wood product manufacturing,Sawmills and wood preservation,0
+2023,Nunavut,Wood product manufacturing,Veneer plywood and engineered wood product,0
+2023,Nunavut,Wood product manufacturing,Other wood product manufacturing,0
+2023,Ontario,Wood product manufacturing,Total wood product manufacturing,11170875
+2023,Ontario,Wood product manufacturing,Sawmills and wood preservation,3811940
+2023,Ontario,Wood product manufacturing,Veneer plywood and engineered wood product,4190922
+2023,Ontario,Wood product manufacturing,Other wood product manufacturing,3168013
+2023,Prince Edward Island,Wood product manufacturing,Total wood product manufacturing,0
+2023,Prince Edward Island,Wood product manufacturing,Sawmills and wood preservation,0
+2023,Prince Edward Island,Wood product manufacturing,Veneer plywood and engineered wood product,0
+2023,Prince Edward Island,Wood product manufacturing,Other wood product manufacturing,0
+2023,Quebec,Wood product manufacturing,Total wood product manufacturing,19019245
+2023,Quebec,Wood product manufacturing,Sawmills and wood preservation,9320728
+2023,Quebec,Wood product manufacturing,Veneer plywood and engineered wood product,5344332
+2023,Quebec,Wood product manufacturing,Other wood product manufacturing,4354185
+2023,Saskatchewan,Wood product manufacturing,Total wood product manufacturing,1570126
+2023,Saskatchewan,Wood product manufacturing,Sawmills and wood preservation,439824
+2023,Saskatchewan,Wood product manufacturing,Veneer plywood and engineered wood product,1030302
+2023,Saskatchewan,Wood product manufacturing,Other wood product manufacturing,100000
+2023,Yukon,Wood product manufacturing,Total wood product manufacturing,0
+2023,Yukon,Wood product manufacturing,Sawmills and wood preservation,0
+2023,Yukon,Wood product manufacturing,Veneer plywood and engineered wood product,0
+2023,Yukon,Wood product manufacturing,Other wood product manufacturing,0

@@ -419,45 +419,84 @@
 2021,Yukon,Logging,0
 2021,Yukon,Paper manufacturing,0
 2021,Yukon,Wood product manufacturing,0
-2022,Canada,Logging,1829853
-2022,Canada,Paper manufacturing,4107307
-2022,Canada,Wood product manufacturing,6253470
-2022,Alberta,Logging,211805
-2022,Alberta,Paper manufacturing,0
-2022,Alberta,Wood product manufacturing,775448
-2022,British Columbia,Logging,829314
+2022,Canada,Logging,1799081
+2022,Canada,Paper manufacturing,4091603
+2022,Canada,Wood product manufacturing,6275856
+2022,Alberta,Logging,213064
+2022,Alberta,Paper manufacturing,295817
+2022,Alberta,Wood product manufacturing,764220
+2022,British Columbia,Logging,821524
 2022,British Columbia,Paper manufacturing,0
-2022,British Columbia,Wood product manufacturing,1629232
-2022,Manitoba,Logging,18242
+2022,British Columbia,Wood product manufacturing,1646300
+2022,Manitoba,Logging,16856
 2022,Manitoba,Paper manufacturing,0
 2022,Manitoba,Wood product manufacturing,0
-2022,New Brunswick,Logging,128130
+2022,New Brunswick,Logging,124656
 2022,New Brunswick,Paper manufacturing,0
 2022,New Brunswick,Wood product manufacturing,0
-2022,Newfoundland and Labrador,Logging,10437
+2022,Newfoundland and Labrador,Logging,10304
 2022,Newfoundland and Labrador,Paper manufacturing,0
 2022,Newfoundland and Labrador,Wood product manufacturing,0
 2022,Northwest Territories,Logging,0
 2022,Northwest Territories,Paper manufacturing,0
 2022,Northwest Territories,Wood product manufacturing,0
-2022,Nova Scotia,Logging,28656
+2022,Nova Scotia,Logging,27343
 2022,Nova Scotia,Paper manufacturing,0
-2022,Nova Scotia,Wood product manufacturing,0
+2022,Nova Scotia,Wood product manufacturing,93608
 2022,Nunavut,Logging,0
 2022,Nunavut,Paper manufacturing,0
 2022,Nunavut,Wood product manufacturing,0
-2022,Ontario,Logging,186333
-2022,Ontario,Paper manufacturing,1398705
+2022,Ontario,Logging,188718
+2022,Ontario,Paper manufacturing,1393777
 2022,Ontario,Wood product manufacturing,0
-2022,Prince Edward Island,Logging,2344
+2022,Prince Edward Island,Logging,2279
 2022,Prince Edward Island,Paper manufacturing,0
 2022,Prince Edward Island,Wood product manufacturing,0
-2022,Quebec,Logging,388092
-2022,Quebec,Paper manufacturing,1280070
-2022,Quebec,Wood product manufacturing,1904291
-2022,Saskatchewan,Logging,26328
+2022,Quebec,Logging,366106
+2022,Quebec,Paper manufacturing,1265572
+2022,Quebec,Wood product manufacturing,1891501
+2022,Saskatchewan,Logging,28132
 2022,Saskatchewan,Paper manufacturing,0
-2022,Saskatchewan,Wood product manufacturing,114312
-2022,Yukon,Logging,164
+2022,Saskatchewan,Wood product manufacturing,0
+2022,Yukon,Logging,92
 2022,Yukon,Paper manufacturing,0
 2022,Yukon,Wood product manufacturing,0
+2023,Canada,Logging,1746846
+2023,Canada,Paper manufacturing,3977707
+2023,Canada,Wood product manufacturing,5789780
+2023,Alberta,Logging,234632
+2023,Alberta,Paper manufacturing,295095
+2023,Alberta,Wood product manufacturing,747400
+2023,British Columbia,Logging,751880
+2023,British Columbia,Paper manufacturing,555391
+2023,British Columbia,Wood product manufacturing,1523351
+2023,Manitoba,Logging,14371
+2023,Manitoba,Paper manufacturing,0
+2023,Manitoba,Wood product manufacturing,148801
+2023,New Brunswick,Logging,116983
+2023,New Brunswick,Paper manufacturing,0
+2023,New Brunswick,Wood product manufacturing,0
+2023,Newfoundland and Labrador,Logging,9722
+2023,Newfoundland and Labrador,Paper manufacturing,0
+2023,Newfoundland and Labrador,Wood product manufacturing,0
+2023,Northwest Territories,Logging,0
+2023,Northwest Territories,Wood product manufacturing,0
+2023,Nova Scotia,Logging,26726
+2023,Nova Scotia,Paper manufacturing,61120
+2023,Nova Scotia,Wood product manufacturing,89995
+2023,Nunavut,Logging,0
+2023,Nunavut,Wood product manufacturing,0
+2023,Ontario,Logging,188304
+2023,Ontario,Paper manufacturing,1386856
+2023,Ontario,Wood product manufacturing,1183188
+2023,Prince Edward Island,Logging,2225
+2023,Prince Edward Island,Paper manufacturing,0
+2023,Prince Edward Island,Wood product manufacturing,0
+2023,Quebec,Logging,372055
+2023,Quebec,Paper manufacturing,1208640
+2023,Quebec,Wood product manufacturing,1692540
+2023,Saskatchewan,Logging,29719
+2023,Saskatchewan,Paper manufacturing,0
+2023,Saskatchewan,Wood product manufacturing,95663
+2023,Yukon,Logging,211
+2023,Yukon,Wood product manufacturing,0

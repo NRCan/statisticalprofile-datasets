@@ -155,12 +155,12 @@
 2020,Canada,Bruce spanworm,277391
 2020,Canada,Forest tent caterpillar,89607
 2020,Canada,Hemlock looper,159
-2020,Canada,Jack pine budworm,3666497
+2020,Canada,Jack pine budworm,3665327
 2020,Canada,Large aspen tortrix,396538
 2020,Canada,Mountain pine beetle,189600
 2020,Canada,Spongy moth,583158
 2020,Canada,Spruce beetle,528124
-2020,Canada,Spruce budworm,6983518
+2020,Canada,Spruce budworm,6987016
 2020,Canada,Swaine jack pine sawfly,0
 2020,Canada,Two-year-cycle spruce budworm,62711
 2020,Canada,Western spruce budworm,13981
@@ -170,12 +170,12 @@
 2021,Canada,Bruce spanworm,0
 2021,Canada,Forest tent caterpillar,71801
 2021,Canada,Hemlock looper,799
-2021,Canada,Jack pine budworm,2412875
+2021,Canada,Jack pine budworm,2407838
 2021,Canada,Large aspen tortrix,382166
 2021,Canada,Mountain pine beetle,96289
-2021,Canada,Spongy moth,1780378
+2021,Canada,Spongy moth,1780000
 2021,Canada,Spruce beetle,475039
-2021,Canada,Spruce budworm,5174730
+2021,Canada,Spruce budworm,5178648
 2021,Canada,Swaine jack pine sawfly,0
 2021,Canada,Two-year-cycle spruce budworm,310976
 2021,Canada,Western spruce budworm,0
@@ -185,15 +185,30 @@
 2022,Canada,Bruce spanworm,0
 2022,Canada,Forest tent caterpillar,414053
 2022,Canada,Hemlock looper,37639
-2022,Canada,Jack pine budworm,807616
+2022,Canada,Jack pine budworm,819071
 2022,Canada,Large aspen tortrix,125185
 2022,Canada,Mountain pine beetle,59801
 2022,Canada,Spongy moth,57078
 2022,Canada,Spruce beetle,144407
-2022,Canada,Spruce budworm,6813504
+2022,Canada,Spruce budworm,6816144
 2022,Canada,Swaine jack pine sawfly,0
 2022,Canada,Two-year-cycle spruce budworm,60585
 2022,Canada,Western spruce budworm,141611
+2023,Canada,Aspen twoleaf tier,53346
+2023,Canada,Balsam fir sawfly,0
+2023,Canada,Blackheaded budworm,22155
+2023,Canada,Bruce spanworm,0
+2023,Canada,Forest tent caterpillar,564170
+2023,Canada,Hemlock looper,68192
+2023,Canada,Jack pine budworm,789156
+2023,Canada,Large aspen tortrix,45135
+2023,Canada,Mountain pine beetle,44779
+2023,Canada,Spongy moth,2542
+2023,Canada,Spruce beetle,96605
+2023,Canada,Spruce budworm,5900893
+2023,Canada,Swaine jack pine sawfly,0
+2023,Canada,Two-year-cycle spruce budworm,284756
+2023,Canada,Western spruce budworm,319397
 2010,Alberta,Aspen twoleaf tier,0
 2010,Alberta,Balsam fir sawfly,0
 2010,Alberta,Blackheaded budworm,0
@@ -389,6 +404,21 @@
 2022,Alberta,Swaine jack pine sawfly,0
 2022,Alberta,Two-year-cycle spruce budworm,0
 2022,Alberta,Western spruce budworm,0
+2023,Alberta,Aspen twoleaf tier,53346
+2023,Alberta,Balsam fir sawfly,0
+2023,Alberta,Blackheaded budworm,0
+2023,Alberta,Bruce spanworm,0
+2023,Alberta,Forest tent caterpillar,0
+2023,Alberta,Hemlock looper,0
+2023,Alberta,Jack pine budworm,0
+2023,Alberta,Large aspen tortrix,23133
+2023,Alberta,Mountain pine beetle,1934
+2023,Alberta,Spongy moth,0
+2023,Alberta,Spruce beetle,0
+2023,Alberta,Spruce budworm,73183
+2023,Alberta,Swaine jack pine sawfly,0
+2023,Alberta,Two-year-cycle spruce budworm,0
+2023,Alberta,Western spruce budworm,0
 2010,British Columbia,Aspen twoleaf tier,0
 2010,British Columbia,Balsam fir sawfly,0
 2010,British Columbia,Blackheaded budworm,93241
@@ -584,6 +614,21 @@
 2022,British Columbia,Swaine jack pine sawfly,0
 2022,British Columbia,Two-year-cycle spruce budworm,60585
 2022,British Columbia,Western spruce budworm,141611
+2023,British Columbia,Aspen twoleaf tier,0
+2023,British Columbia,Balsam fir sawfly,0
+2023,British Columbia,Blackheaded budworm,22155
+2023,British Columbia,Bruce spanworm,0
+2023,British Columbia,Forest tent caterpillar,0
+2023,British Columbia,Hemlock looper,68192
+2023,British Columbia,Jack pine budworm,0
+2023,British Columbia,Large aspen tortrix,17292
+2023,British Columbia,Mountain pine beetle,42845
+2023,British Columbia,Spongy moth,0
+2023,British Columbia,Spruce beetle,95633
+2023,British Columbia,Spruce budworm,3221
+2023,British Columbia,Swaine jack pine sawfly,0
+2023,British Columbia,Two-year-cycle spruce budworm,284756
+2023,British Columbia,Western spruce budworm,319397
 2010,Manitoba,Aspen twoleaf tier,0
 2010,Manitoba,Balsam fir sawfly,0
 2010,Manitoba,Blackheaded budworm,0
@@ -740,7 +785,7 @@
 2020,Manitoba,Bruce spanworm,0
 2020,Manitoba,Forest tent caterpillar,3067
 2020,Manitoba,Hemlock looper,0
-2020,Manitoba,Jack pine budworm,2580547
+2020,Manitoba,Jack pine budworm,2580000
 2020,Manitoba,Large aspen tortrix,0
 2020,Manitoba,Mountain pine beetle,0
 2020,Manitoba,Spongy moth,0
@@ -755,7 +800,7 @@
 2021,Manitoba,Bruce spanworm,0
 2021,Manitoba,Forest tent caterpillar,34937
 2021,Manitoba,Hemlock looper,0
-2021,Manitoba,Jack pine budworm,2035037
+2021,Manitoba,Jack pine budworm,2030000
 2021,Manitoba,Large aspen tortrix,0
 2021,Manitoba,Mountain pine beetle,0
 2021,Manitoba,Spongy moth,0
@@ -779,6 +824,21 @@
 2022,Manitoba,Swaine jack pine sawfly,0
 2022,Manitoba,Two-year-cycle spruce budworm,0
 2022,Manitoba,Western spruce budworm,0
+2023,Manitoba,Aspen twoleaf tier,0
+2023,Manitoba,Balsam fir sawfly,0
+2023,Manitoba,Blackheaded budworm,0
+2023,Manitoba,Bruce spanworm,0
+2023,Manitoba,Forest tent caterpillar,151956
+2023,Manitoba,Hemlock looper,0
+2023,Manitoba,Jack pine budworm,673851
+2023,Manitoba,Large aspen tortrix,0
+2023,Manitoba,Mountain pine beetle,0
+2023,Manitoba,Spongy moth,0
+2023,Manitoba,Spruce beetle,0
+2023,Manitoba,Spruce budworm,19422
+2023,Manitoba,Swaine jack pine sawfly,0
+2023,Manitoba,Two-year-cycle spruce budworm,0
+2023,Manitoba,Western spruce budworm,0
 2010,New Brunswick,Aspen twoleaf tier,0
 2010,New Brunswick,Balsam fir sawfly,46600
 2010,New Brunswick,Blackheaded budworm,0
@@ -974,6 +1034,21 @@
 2022,New Brunswick,Swaine jack pine sawfly,0
 2022,New Brunswick,Two-year-cycle spruce budworm,0
 2022,New Brunswick,Western spruce budworm,0
+2023,New Brunswick,Aspen twoleaf tier,0
+2023,New Brunswick,Balsam fir sawfly,0
+2023,New Brunswick,Blackheaded budworm,0
+2023,New Brunswick,Bruce spanworm,0
+2023,New Brunswick,Forest tent caterpillar,7500
+2023,New Brunswick,Hemlock looper,0
+2023,New Brunswick,Jack pine budworm,0
+2023,New Brunswick,Large aspen tortrix,0
+2023,New Brunswick,Mountain pine beetle,0
+2023,New Brunswick,Spongy moth,0
+2023,New Brunswick,Spruce beetle,0
+2023,New Brunswick,Spruce budworm,100
+2023,New Brunswick,Swaine jack pine sawfly,0
+2023,New Brunswick,Two-year-cycle spruce budworm,0
+2023,New Brunswick,Western spruce budworm,0
 2010,Newfoundland and Labrador,Aspen twoleaf tier,0
 2010,Newfoundland and Labrador,Balsam fir sawfly,4709
 2010,Newfoundland and Labrador,Blackheaded budworm,0
@@ -1169,6 +1244,21 @@
 2022,Newfoundland and Labrador,Swaine jack pine sawfly,0
 2022,Newfoundland and Labrador,Two-year-cycle spruce budworm,0
 2022,Newfoundland and Labrador,Western spruce budworm,0
+2023,Newfoundland and Labrador,Aspen twoleaf tier,0
+2023,Newfoundland and Labrador,Balsam fir sawfly,0
+2023,Newfoundland and Labrador,Blackheaded budworm,0
+2023,Newfoundland and Labrador,Bruce spanworm,0
+2023,Newfoundland and Labrador,Forest tent caterpillar,0
+2023,Newfoundland and Labrador,Hemlock looper,0
+2023,Newfoundland and Labrador,Jack pine budworm,0
+2023,Newfoundland and Labrador,Large aspen tortrix,0
+2023,Newfoundland and Labrador,Mountain pine beetle,0
+2023,Newfoundland and Labrador,Spongy moth,0
+2023,Newfoundland and Labrador,Spruce beetle,0
+2023,Newfoundland and Labrador,Spruce budworm,73356
+2023,Newfoundland and Labrador,Swaine jack pine sawfly,0
+2023,Newfoundland and Labrador,Two-year-cycle spruce budworm,0
+2023,Newfoundland and Labrador,Western spruce budworm,0
 2010,Northwest Territories,Aspen twoleaf tier,0
 2010,Northwest Territories,Balsam fir sawfly,0
 2010,Northwest Territories,Blackheaded budworm,0
@@ -1345,7 +1435,7 @@
 2021,Northwest Territories,Mountain pine beetle,0
 2021,Northwest Territories,Spongy moth,0
 2021,Northwest Territories,Spruce beetle,0
-2021,Northwest Territories,Spruce budworm,1025150
+2021,Northwest Territories,Spruce budworm,1030000
 2021,Northwest Territories,Swaine jack pine sawfly,0
 2021,Northwest Territories,Two-year-cycle spruce budworm,0
 2021,Northwest Territories,Western spruce budworm,0
@@ -1364,6 +1454,21 @@
 2022,Northwest Territories,Swaine jack pine sawfly,0
 2022,Northwest Territories,Two-year-cycle spruce budworm,0
 2022,Northwest Territories,Western spruce budworm,0
+2023,Northwest Territories,Aspen twoleaf tier,0
+2023,Northwest Territories,Balsam fir sawfly,0
+2023,Northwest Territories,Blackheaded budworm,0
+2023,Northwest Territories,Bruce spanworm,0
+2023,Northwest Territories,Forest tent caterpillar,0
+2023,Northwest Territories,Hemlock looper,0
+2023,Northwest Territories,Jack pine budworm,0
+2023,Northwest Territories,Large aspen tortrix,0
+2023,Northwest Territories,Mountain pine beetle,0
+2023,Northwest Territories,Spongy moth,0
+2023,Northwest Territories,Spruce beetle,0
+2023,Northwest Territories,Spruce budworm,529000
+2023,Northwest Territories,Swaine jack pine sawfly,0
+2023,Northwest Territories,Two-year-cycle spruce budworm,0
+2023,Northwest Territories,Western spruce budworm,0
 2010,Nova Scotia,Aspen twoleaf tier,0
 2010,Nova Scotia,Balsam fir sawfly,0
 2010,Nova Scotia,Blackheaded budworm,0
@@ -1538,7 +1643,7 @@
 2021,Nova Scotia,Jack pine budworm,0
 2021,Nova Scotia,Large aspen tortrix,0
 2021,Nova Scotia,Mountain pine beetle,0
-2021,Nova Scotia,Spongy moth,30
+2021,Nova Scotia,Spongy moth,0
 2021,Nova Scotia,Spruce beetle,0
 2021,Nova Scotia,Spruce budworm,0
 2021,Nova Scotia,Swaine jack pine sawfly,0
@@ -1559,6 +1664,21 @@
 2022,Nova Scotia,Swaine jack pine sawfly,0
 2022,Nova Scotia,Two-year-cycle spruce budworm,0
 2022,Nova Scotia,Western spruce budworm,0
+2023,Nova Scotia,Aspen twoleaf tier,0
+2023,Nova Scotia,Balsam fir sawfly,0
+2023,Nova Scotia,Blackheaded budworm,0
+2023,Nova Scotia,Bruce spanworm,0
+2023,Nova Scotia,Forest tent caterpillar,0
+2023,Nova Scotia,Hemlock looper,0
+2023,Nova Scotia,Jack pine budworm,0
+2023,Nova Scotia,Large aspen tortrix,0
+2023,Nova Scotia,Mountain pine beetle,0
+2023,Nova Scotia,Spongy moth,0
+2023,Nova Scotia,Spruce beetle,0
+2023,Nova Scotia,Spruce budworm,0
+2023,Nova Scotia,Swaine jack pine sawfly,0
+2023,Nova Scotia,Two-year-cycle spruce budworm,0
+2023,Nova Scotia,Western spruce budworm,0
 2010,Ontario,Aspen twoleaf tier,92
 2010,Ontario,Balsam fir sawfly,0
 2010,Ontario,Blackheaded budworm,0
@@ -1715,7 +1835,7 @@
 2020,Ontario,Bruce spanworm,0
 2020,Ontario,Forest tent caterpillar,0
 2020,Ontario,Hemlock looper,0
-2020,Ontario,Jack pine budworm,1060623
+2020,Ontario,Jack pine budworm,1060000
 2020,Ontario,Large aspen tortrix,22642
 2020,Ontario,Mountain pine beetle,0
 2020,Ontario,Spongy moth,583158
@@ -1733,9 +1853,9 @@
 2021,Ontario,Jack pine budworm,345389
 2021,Ontario,Large aspen tortrix,5457
 2021,Ontario,Mountain pine beetle,0
-2021,Ontario,Spongy moth,1780348
+2021,Ontario,Spongy moth,1780000
 2021,Ontario,Spruce beetle,0
-2021,Ontario,Spruce budworm,1327513
+2021,Ontario,Spruce budworm,1330000
 2021,Ontario,Swaine jack pine sawfly,0
 2021,Ontario,Two-year-cycle spruce budworm,0
 2021,Ontario,Western spruce budworm,0
@@ -1750,10 +1870,25 @@
 2022,Ontario,Mountain pine beetle,0
 2022,Ontario,Spongy moth,57078
 2022,Ontario,Spruce beetle,0
-2022,Ontario,Spruce budworm,2035849
+2022,Ontario,Spruce budworm,2040000
 2022,Ontario,Swaine jack pine sawfly,0
 2022,Ontario,Two-year-cycle spruce budworm,0
 2022,Ontario,Western spruce budworm,0
+2023,Ontario,Aspen twoleaf tier,0
+2023,Ontario,Balsam fir sawfly,0
+2023,Ontario,Blackheaded budworm,0
+2023,Ontario,Bruce spanworm,0
+2023,Ontario,Forest tent caterpillar,404714
+2023,Ontario,Hemlock looper,0
+2023,Ontario,Jack pine budworm,61431
+2023,Ontario,Large aspen tortrix,0
+2023,Ontario,Mountain pine beetle,0
+2023,Ontario,Spongy moth,2542
+2023,Ontario,Spruce beetle,0
+2023,Ontario,Spruce budworm,1990000
+2023,Ontario,Swaine jack pine sawfly,0
+2023,Ontario,Two-year-cycle spruce budworm,0
+2023,Ontario,Western spruce budworm,0
 2010,Prince Edward Island,Aspen twoleaf tier,0
 2010,Prince Edward Island,Balsam fir sawfly,0
 2010,Prince Edward Island,Blackheaded budworm,0
@@ -1949,6 +2084,21 @@
 2022,Prince Edward Island,Swaine jack pine sawfly,0
 2022,Prince Edward Island,Two-year-cycle spruce budworm,0
 2022,Prince Edward Island,Western spruce budworm,0
+2023,Prince Edward Island,Aspen twoleaf tier,0
+2023,Prince Edward Island,Balsam fir sawfly,0
+2023,Prince Edward Island,Blackheaded budworm,0
+2023,Prince Edward Island,Bruce spanworm,0
+2023,Prince Edward Island,Forest tent caterpillar,0
+2023,Prince Edward Island,Hemlock looper,0
+2023,Prince Edward Island,Jack pine budworm,0
+2023,Prince Edward Island,Large aspen tortrix,0
+2023,Prince Edward Island,Mountain pine beetle,0
+2023,Prince Edward Island,Spongy moth,0
+2023,Prince Edward Island,Spruce beetle,0
+2023,Prince Edward Island,Spruce budworm,1
+2023,Prince Edward Island,Swaine jack pine sawfly,0
+2023,Prince Edward Island,Two-year-cycle spruce budworm,0
+2023,Prince Edward Island,Western spruce budworm,0
 2010,Quebec,Aspen twoleaf tier,0
 2010,Quebec,Balsam fir sawfly,0
 2010,Quebec,Blackheaded budworm,0
@@ -2110,7 +2260,7 @@
 2020,Quebec,Mountain pine beetle,0
 2020,Quebec,Spongy moth,0
 2020,Quebec,Spruce beetle,0
-2020,Quebec,Spruce budworm,6246502
+2020,Quebec,Spruce budworm,6250000
 2020,Quebec,Swaine jack pine sawfly,0
 2020,Quebec,Two-year-cycle spruce budworm,0
 2020,Quebec,Western spruce budworm,0
@@ -2125,7 +2275,7 @@
 2021,Quebec,Mountain pine beetle,0
 2021,Quebec,Spongy moth,0
 2021,Quebec,Spruce beetle,0
-2021,Quebec,Spruce budworm,2463419
+2021,Quebec,Spruce budworm,2460000
 2021,Quebec,Swaine jack pine sawfly,0
 2021,Quebec,Two-year-cycle spruce budworm,0
 2021,Quebec,Western spruce budworm,0
@@ -2140,10 +2290,25 @@
 2022,Quebec,Mountain pine beetle,0
 2022,Quebec,Spongy moth,0
 2022,Quebec,Spruce beetle,0
-2022,Quebec,Spruce budworm,3211755
+2022,Quebec,Spruce budworm,3210000
 2022,Quebec,Swaine jack pine sawfly,0
 2022,Quebec,Two-year-cycle spruce budworm,0
 2022,Quebec,Western spruce budworm,0
+2023,Quebec,Aspen twoleaf tier,0
+2023,Quebec,Balsam fir sawfly,0
+2023,Quebec,Blackheaded budworm,0
+2023,Quebec,Bruce spanworm,0
+2023,Quebec,Forest tent caterpillar,0
+2023,Quebec,Hemlock looper,0
+2023,Quebec,Jack pine budworm,0
+2023,Quebec,Large aspen tortrix,0
+2023,Quebec,Mountain pine beetle,0
+2023,Quebec,Spongy moth,0
+2023,Quebec,Spruce beetle,0
+2023,Quebec,Spruce budworm,3210000
+2023,Quebec,Swaine jack pine sawfly,0
+2023,Quebec,Two-year-cycle spruce budworm,0
+2023,Quebec,Western spruce budworm,0
 2010,Saskatchewan,Aspen twoleaf tier,0
 2010,Saskatchewan,Balsam fir sawfly,0
 2010,Saskatchewan,Blackheaded budworm,0
@@ -2330,15 +2495,30 @@
 2022,Saskatchewan,Bruce spanworm,0
 2022,Saskatchewan,Forest tent caterpillar,0
 2022,Saskatchewan,Hemlock looper,0
-2022,Saskatchewan,Jack pine budworm,293
+2022,Saskatchewan,Jack pine budworm,11748
 2022,Saskatchewan,Large aspen tortrix,0
 2022,Saskatchewan,Mountain pine beetle,0
 2022,Saskatchewan,Spongy moth,0
 2022,Saskatchewan,Spruce beetle,0
-2022,Saskatchewan,Spruce budworm,0
+2022,Saskatchewan,Spruce budworm,244
 2022,Saskatchewan,Swaine jack pine sawfly,0
 2022,Saskatchewan,Two-year-cycle spruce budworm,0
 2022,Saskatchewan,Western spruce budworm,0
+2023,Saskatchewan,Aspen twoleaf tier,0
+2023,Saskatchewan,Balsam fir sawfly,0
+2023,Saskatchewan,Blackheaded budworm,0
+2023,Saskatchewan,Bruce spanworm,0
+2023,Saskatchewan,Forest tent caterpillar,0
+2023,Saskatchewan,Hemlock looper,0
+2023,Saskatchewan,Jack pine budworm,53874
+2023,Saskatchewan,Large aspen tortrix,0
+2023,Saskatchewan,Mountain pine beetle,0
+2023,Saskatchewan,Spongy moth,0
+2023,Saskatchewan,Spruce beetle,0
+2023,Saskatchewan,Spruce budworm,2610
+2023,Saskatchewan,Swaine jack pine sawfly,0
+2023,Saskatchewan,Two-year-cycle spruce budworm,0
+2023,Saskatchewan,Western spruce budworm,0
 2010,Yukon,Aspen twoleaf tier,0
 2010,Yukon,Balsam fir sawfly,0
 2010,Yukon,Blackheaded budworm,0
@@ -2534,3 +2714,18 @@
 2022,Yukon,Swaine jack pine sawfly,0
 2022,Yukon,Two-year-cycle spruce budworm,0
 2022,Yukon,Western spruce budworm,0
+2023,Yukon,Aspen twoleaf tier,0
+2023,Yukon,Balsam fir sawfly,0
+2023,Yukon,Blackheaded budworm,0
+2023,Yukon,Bruce spanworm,0
+2023,Yukon,Forest tent caterpillar,0
+2023,Yukon,Hemlock looper,0
+2023,Yukon,Jack pine budworm,0
+2023,Yukon,Large aspen tortrix,4710
+2023,Yukon,Mountain pine beetle,0
+2023,Yukon,Spongy moth,0
+2023,Yukon,Spruce beetle,972
+2023,Yukon,Spruce budworm,0
+2023,Yukon,Swaine jack pine sawfly,0
+2023,Yukon,Two-year-cycle spruce budworm,0
+2023,Yukon,Western spruce budworm,0

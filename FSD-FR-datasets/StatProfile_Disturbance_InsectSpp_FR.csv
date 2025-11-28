@@ -155,12 +155,12 @@
 2020,Canada,Arpenteuse de Bruce,277391
 2020,Canada,Livrée des forêts,89607
 2020,Canada,Arpenteuse de la pruche,159
-2020,Canada,Tordeuse du pin gris,3666497
+2020,Canada,Tordeuse du pin gris,3665327
 2020,Canada,Tordeuse du tremble,396538
 2020,Canada,Dendroctone du pin ponderosa,189600
 2020,Canada,Spongieuse,583158
 2020,Canada,"Dendroctone de l'épinette",528124
-2020,Canada,"Tordeuse des bourgeons de l'épinette",6983518
+2020,Canada,"Tordeuse des bourgeons de l'épinette",6987016
 2020,Canada,Diprion de Swaine,0
 2020,Canada,Tordeuse bisannuelle de l’épinette,62711
 2020,Canada,"Tordeuse occidentale de l'épinette",13981
@@ -170,12 +170,12 @@
 2021,Canada,Arpenteuse de Bruce,0
 2021,Canada,Livrée des forêts,71801
 2021,Canada,Arpenteuse de la pruche,799
-2021,Canada,Tordeuse du pin gris,2412875
+2021,Canada,Tordeuse du pin gris,2407838
 2021,Canada,Tordeuse du tremble,382166
 2021,Canada,Dendroctone du pin ponderosa,96289
-2021,Canada,Spongieuse,1780378
+2021,Canada,Spongieuse,1780000
 2021,Canada,"Dendroctone de l'épinette",475039
-2021,Canada,"Tordeuse des bourgeons de l'épinette",5174730
+2021,Canada,"Tordeuse des bourgeons de l'épinette",5178648
 2021,Canada,Diprion de Swaine,0
 2021,Canada,Tordeuse bisannuelle de l’épinette,310976
 2021,Canada,"Tordeuse occidentale de l'épinette",0
@@ -185,15 +185,30 @@
 2022,Canada,Arpenteuse de Bruce,0
 2022,Canada,Livrée des forêts,414053
 2022,Canada,Arpenteuse de la pruche,37639
-2022,Canada,Tordeuse du pin gris,807616
+2022,Canada,Tordeuse du pin gris,819071
 2022,Canada,Tordeuse du tremble,125185
 2022,Canada,Dendroctone du pin ponderosa,59801
 2022,Canada,Spongieuse,57078
 2022,Canada,"Dendroctone de l'épinette",144407
-2022,Canada,"Tordeuse des bourgeons de l'épinette",6813504
+2022,Canada,"Tordeuse des bourgeons de l'épinette",6816144
 2022,Canada,Diprion de Swaine,0
 2022,Canada,Tordeuse bisannuelle de l’épinette,60585
 2022,Canada,"Tordeuse occidentale de l'épinette",141611
+2023,Canada,Noctuelle décolorée,53346
+2023,Canada,Diprion du sapin,0
+2023,Canada,"Tordeuse à tête noire de l'Ouest",22155
+2023,Canada,Arpenteuse de Bruce,0
+2023,Canada,Livrée des forêts,564170
+2023,Canada,Arpenteuse de la pruche,68192
+2023,Canada,Tordeuse du pin gris,789156
+2023,Canada,Tordeuse du tremble,45135
+2023,Canada,Dendroctone du pin ponderosa,44779
+2023,Canada,Spongieuse,2542
+2023,Canada,"Dendroctone de l'épinette",96605
+2023,Canada,"Tordeuse des bourgeons de l'épinette",5900893
+2023,Canada,Diprion de Swaine,0
+2023,Canada,Tordeuse bisannuelle de l’épinette,284756
+2023,Canada,"Tordeuse occidentale de l'épinette",319397
 2010,Alberta,Noctuelle décolorée,0
 2010,Alberta,Diprion du sapin,0
 2010,Alberta,"Tordeuse à tête noire de l'Ouest",0
@@ -389,6 +404,21 @@
 2022,Alberta,Diprion de Swaine,0
 2022,Alberta,Tordeuse bisannuelle de l’épinette,0
 2022,Alberta,"Tordeuse occidentale de l'épinette",0
+2023,Alberta,Noctuelle décolorée,53346
+2023,Alberta,Diprion du sapin,0
+2023,Alberta,"Tordeuse à tête noire de l'Ouest",0
+2023,Alberta,Arpenteuse de Bruce,0
+2023,Alberta,Livrée des forêts,0
+2023,Alberta,Arpenteuse de la pruche,0
+2023,Alberta,Tordeuse du pin gris,0
+2023,Alberta,Tordeuse du tremble,23133
+2023,Alberta,Dendroctone du pin ponderosa,1934
+2023,Alberta,Spongieuse,0
+2023,Alberta,"Dendroctone de l'épinette",0
+2023,Alberta,"Tordeuse des bourgeons de l'épinette",73183
+2023,Alberta,Diprion de Swaine,0
+2023,Alberta,Tordeuse bisannuelle de l’épinette,0
+2023,Alberta,"Tordeuse occidentale de l'épinette",0
 2010,Colombie-Britannique,Noctuelle décolorée,0
 2010,Colombie-Britannique,Diprion du sapin,0
 2010,Colombie-Britannique,"Tordeuse à tête noire de l'Ouest",93241
@@ -584,6 +614,21 @@
 2022,Colombie-Britannique,Diprion de Swaine,0
 2022,Colombie-Britannique,Tordeuse bisannuelle de l’épinette,60585
 2022,Colombie-Britannique,"Tordeuse occidentale de l'épinette",141611
+2023,Colombie-Britannique,Noctuelle décolorée,0
+2023,Colombie-Britannique,Diprion du sapin,0
+2023,Colombie-Britannique,"Tordeuse à tête noire de l'Ouest",22155
+2023,Colombie-Britannique,Arpenteuse de Bruce,0
+2023,Colombie-Britannique,Livrée des forêts,0
+2023,Colombie-Britannique,Arpenteuse de la pruche,68192
+2023,Colombie-Britannique,Tordeuse du pin gris,0
+2023,Colombie-Britannique,Tordeuse du tremble,17292
+2023,Colombie-Britannique,Dendroctone du pin ponderosa,42845
+2023,Colombie-Britannique,Spongieuse,0
+2023,Colombie-Britannique,"Dendroctone de l'épinette",95633
+2023,Colombie-Britannique,"Tordeuse des bourgeons de l'épinette",3221
+2023,Colombie-Britannique,Diprion de Swaine,0
+2023,Colombie-Britannique,Tordeuse bisannuelle de l’épinette,284756
+2023,Colombie-Britannique,"Tordeuse occidentale de l'épinette",319397
 2010,Manitoba,Noctuelle décolorée,0
 2010,Manitoba,Diprion du sapin,0
 2010,Manitoba,"Tordeuse à tête noire de l'Ouest",0
@@ -740,7 +785,7 @@
 2020,Manitoba,Arpenteuse de Bruce,0
 2020,Manitoba,Livrée des forêts,3067
 2020,Manitoba,Arpenteuse de la pruche,0
-2020,Manitoba,Tordeuse du pin gris,2580547
+2020,Manitoba,Tordeuse du pin gris,2580000
 2020,Manitoba,Tordeuse du tremble,0
 2020,Manitoba,Dendroctone du pin ponderosa,0
 2020,Manitoba,Spongieuse,0
@@ -755,7 +800,7 @@
 2021,Manitoba,Arpenteuse de Bruce,0
 2021,Manitoba,Livrée des forêts,34937
 2021,Manitoba,Arpenteuse de la pruche,0
-2021,Manitoba,Tordeuse du pin gris,2035037
+2021,Manitoba,Tordeuse du pin gris,2030000
 2021,Manitoba,Tordeuse du tremble,0
 2021,Manitoba,Dendroctone du pin ponderosa,0
 2021,Manitoba,Spongieuse,0
@@ -779,6 +824,21 @@
 2022,Manitoba,Diprion de Swaine,0
 2022,Manitoba,Tordeuse bisannuelle de l’épinette,0
 2022,Manitoba,"Tordeuse occidentale de l'épinette",0
+2023,Manitoba,Noctuelle décolorée,0
+2023,Manitoba,Diprion du sapin,0
+2023,Manitoba,"Tordeuse à tête noire de l'Ouest",0
+2023,Manitoba,Arpenteuse de Bruce,0
+2023,Manitoba,Livrée des forêts,151956
+2023,Manitoba,Arpenteuse de la pruche,0
+2023,Manitoba,Tordeuse du pin gris,673851
+2023,Manitoba,Tordeuse du tremble,0
+2023,Manitoba,Dendroctone du pin ponderosa,0
+2023,Manitoba,Spongieuse,0
+2023,Manitoba,"Dendroctone de l'épinette",0
+2023,Manitoba,"Tordeuse des bourgeons de l'épinette",19422
+2023,Manitoba,Diprion de Swaine,0
+2023,Manitoba,Tordeuse bisannuelle de l’épinette,0
+2023,Manitoba,"Tordeuse occidentale de l'épinette",0
 2010,Nouveau-Brunswick,Noctuelle décolorée,0
 2010,Nouveau-Brunswick,Diprion du sapin,46600
 2010,Nouveau-Brunswick,"Tordeuse à tête noire de l'Ouest",0
@@ -974,6 +1034,21 @@
 2022,Nouveau-Brunswick,Diprion de Swaine,0
 2022,Nouveau-Brunswick,Tordeuse bisannuelle de l’épinette,0
 2022,Nouveau-Brunswick,"Tordeuse occidentale de l'épinette",0
+2023,Nouveau-Brunswick,Noctuelle décolorée,0
+2023,Nouveau-Brunswick,Diprion du sapin,0
+2023,Nouveau-Brunswick,"Tordeuse à tête noire de l'Ouest",0
+2023,Nouveau-Brunswick,Arpenteuse de Bruce,0
+2023,Nouveau-Brunswick,Livrée des forêts,7500
+2023,Nouveau-Brunswick,Arpenteuse de la pruche,0
+2023,Nouveau-Brunswick,Tordeuse du pin gris,0
+2023,Nouveau-Brunswick,Tordeuse du tremble,0
+2023,Nouveau-Brunswick,Dendroctone du pin ponderosa,0
+2023,Nouveau-Brunswick,Spongieuse,0
+2023,Nouveau-Brunswick,"Dendroctone de l'épinette",0
+2023,Nouveau-Brunswick,"Tordeuse des bourgeons de l'épinette",100
+2023,Nouveau-Brunswick,Diprion de Swaine,0
+2023,Nouveau-Brunswick,Tordeuse bisannuelle de l’épinette,0
+2023,Nouveau-Brunswick,"Tordeuse occidentale de l'épinette",0
 2010,Terre-Neuve-et-Labrador,Noctuelle décolorée,0
 2010,Terre-Neuve-et-Labrador,Diprion du sapin,4709
 2010,Terre-Neuve-et-Labrador,"Tordeuse à tête noire de l'Ouest",0
@@ -1169,6 +1244,21 @@
 2022,Terre-Neuve-et-Labrador,Diprion de Swaine,0
 2022,Terre-Neuve-et-Labrador,Tordeuse bisannuelle de l’épinette,0
 2022,Terre-Neuve-et-Labrador,"Tordeuse occidentale de l'épinette",0
+2023,Terre-Neuve-et-Labrador,Noctuelle décolorée,0
+2023,Terre-Neuve-et-Labrador,Diprion du sapin,0
+2023,Terre-Neuve-et-Labrador,"Tordeuse à tête noire de l'Ouest",0
+2023,Terre-Neuve-et-Labrador,Arpenteuse de Bruce,0
+2023,Terre-Neuve-et-Labrador,Livrée des forêts,0
+2023,Terre-Neuve-et-Labrador,Arpenteuse de la pruche,0
+2023,Terre-Neuve-et-Labrador,Tordeuse du pin gris,0
+2023,Terre-Neuve-et-Labrador,Tordeuse du tremble,0
+2023,Terre-Neuve-et-Labrador,Dendroctone du pin ponderosa,0
+2023,Terre-Neuve-et-Labrador,Spongieuse,0
+2023,Terre-Neuve-et-Labrador,"Dendroctone de l'épinette",0
+2023,Terre-Neuve-et-Labrador,"Tordeuse des bourgeons de l'épinette",73356
+2023,Terre-Neuve-et-Labrador,Diprion de Swaine,0
+2023,Terre-Neuve-et-Labrador,Tordeuse bisannuelle de l’épinette,0
+2023,Terre-Neuve-et-Labrador,"Tordeuse occidentale de l'épinette",0
 2010,Territoires du Nord-Ouest,Noctuelle décolorée,0
 2010,Territoires du Nord-Ouest,Diprion du sapin,0
 2010,Territoires du Nord-Ouest,"Tordeuse à tête noire de l'Ouest",0
@@ -1345,7 +1435,7 @@
 2021,Territoires du Nord-Ouest,Dendroctone du pin ponderosa,0
 2021,Territoires du Nord-Ouest,Spongieuse,0
 2021,Territoires du Nord-Ouest,"Dendroctone de l'épinette",0
-2021,Territoires du Nord-Ouest,"Tordeuse des bourgeons de l'épinette",1025150
+2021,Territoires du Nord-Ouest,"Tordeuse des bourgeons de l'épinette",1030000
 2021,Territoires du Nord-Ouest,Diprion de Swaine,0
 2021,Territoires du Nord-Ouest,Tordeuse bisannuelle de l’épinette,0
 2021,Territoires du Nord-Ouest,"Tordeuse occidentale de l'épinette",0
@@ -1364,6 +1454,21 @@
 2022,Territoires du Nord-Ouest,Diprion de Swaine,0
 2022,Territoires du Nord-Ouest,Tordeuse bisannuelle de l’épinette,0
 2022,Territoires du Nord-Ouest,"Tordeuse occidentale de l'épinette",0
+2023,Territoires du Nord-Ouest,Noctuelle décolorée,0
+2023,Territoires du Nord-Ouest,Diprion du sapin,0
+2023,Territoires du Nord-Ouest,"Tordeuse à tête noire de l'Ouest",0
+2023,Territoires du Nord-Ouest,Arpenteuse de Bruce,0
+2023,Territoires du Nord-Ouest,Livrée des forêts,0
+2023,Territoires du Nord-Ouest,Arpenteuse de la pruche,0
+2023,Territoires du Nord-Ouest,Tordeuse du pin gris,0
+2023,Territoires du Nord-Ouest,Tordeuse du tremble,0
+2023,Territoires du Nord-Ouest,Dendroctone du pin ponderosa,0
+2023,Territoires du Nord-Ouest,Spongieuse,0
+2023,Territoires du Nord-Ouest,"Dendroctone de l'épinette",0
+2023,Territoires du Nord-Ouest,"Tordeuse des bourgeons de l'épinette",529000
+2023,Territoires du Nord-Ouest,Diprion de Swaine,0
+2023,Territoires du Nord-Ouest,Tordeuse bisannuelle de l’épinette,0
+2023,Territoires du Nord-Ouest,"Tordeuse occidentale de l'épinette",0
 2010,Nouvelle-Écosse,Noctuelle décolorée,0
 2010,Nouvelle-Écosse,Diprion du sapin,0
 2010,Nouvelle-Écosse,"Tordeuse à tête noire de l'Ouest",0
@@ -1538,7 +1643,7 @@
 2021,Nouvelle-Écosse,Tordeuse du pin gris,0
 2021,Nouvelle-Écosse,Tordeuse du tremble,0
 2021,Nouvelle-Écosse,Dendroctone du pin ponderosa,0
-2021,Nouvelle-Écosse,Spongieuse,30
+2021,Nouvelle-Écosse,Spongieuse,0
 2021,Nouvelle-Écosse,"Dendroctone de l'épinette",0
 2021,Nouvelle-Écosse,"Tordeuse des bourgeons de l'épinette",0
 2021,Nouvelle-Écosse,Diprion de Swaine,0
@@ -1559,6 +1664,21 @@
 2022,Nouvelle-Écosse,Diprion de Swaine,0
 2022,Nouvelle-Écosse,Tordeuse bisannuelle de l’épinette,0
 2022,Nouvelle-Écosse,"Tordeuse occidentale de l'épinette",0
+2023,Nouvelle-Écosse,Noctuelle décolorée,0
+2023,Nouvelle-Écosse,Diprion du sapin,0
+2023,Nouvelle-Écosse,"Tordeuse à tête noire de l'Ouest",0
+2023,Nouvelle-Écosse,Arpenteuse de Bruce,0
+2023,Nouvelle-Écosse,Livrée des forêts,0
+2023,Nouvelle-Écosse,Arpenteuse de la pruche,0
+2023,Nouvelle-Écosse,Tordeuse du pin gris,0
+2023,Nouvelle-Écosse,Tordeuse du tremble,0
+2023,Nouvelle-Écosse,Dendroctone du pin ponderosa,0
+2023,Nouvelle-Écosse,Spongieuse,0
+2023,Nouvelle-Écosse,"Dendroctone de l'épinette",0
+2023,Nouvelle-Écosse,"Tordeuse des bourgeons de l'épinette",0
+2023,Nouvelle-Écosse,Diprion de Swaine,0
+2023,Nouvelle-Écosse,Tordeuse bisannuelle de l’épinette,0
+2023,Nouvelle-Écosse,"Tordeuse occidentale de l'épinette",0
 2010,Ontario,Noctuelle décolorée,92
 2010,Ontario,Diprion du sapin,0
 2010,Ontario,"Tordeuse à tête noire de l'Ouest",0
@@ -1715,7 +1835,7 @@
 2020,Ontario,Arpenteuse de Bruce,0
 2020,Ontario,Livrée des forêts,0
 2020,Ontario,Arpenteuse de la pruche,0
-2020,Ontario,Tordeuse du pin gris,1060623
+2020,Ontario,Tordeuse du pin gris,1060000
 2020,Ontario,Tordeuse du tremble,22642
 2020,Ontario,Dendroctone du pin ponderosa,0
 2020,Ontario,Spongieuse,583158
@@ -1733,9 +1853,9 @@
 2021,Ontario,Tordeuse du pin gris,345389
 2021,Ontario,Tordeuse du tremble,5457
 2021,Ontario,Dendroctone du pin ponderosa,0
-2021,Ontario,Spongieuse,1780348
+2021,Ontario,Spongieuse,1780000
 2021,Ontario,"Dendroctone de l'épinette",0
-2021,Ontario,"Tordeuse des bourgeons de l'épinette",1327513
+2021,Ontario,"Tordeuse des bourgeons de l'épinette",1330000
 2021,Ontario,Diprion de Swaine,0
 2021,Ontario,Tordeuse bisannuelle de l’épinette,0
 2021,Ontario,"Tordeuse occidentale de l'épinette",0
@@ -1750,10 +1870,25 @@
 2022,Ontario,Dendroctone du pin ponderosa,0
 2022,Ontario,Spongieuse,57078
 2022,Ontario,"Dendroctone de l'épinette",0
-2022,Ontario,"Tordeuse des bourgeons de l'épinette",2035849
+2022,Ontario,"Tordeuse des bourgeons de l'épinette",2040000
 2022,Ontario,Diprion de Swaine,0
 2022,Ontario,Tordeuse bisannuelle de l’épinette,0
 2022,Ontario,"Tordeuse occidentale de l'épinette",0
+2023,Ontario,Noctuelle décolorée,0
+2023,Ontario,Diprion du sapin,0
+2023,Ontario,"Tordeuse à tête noire de l'Ouest",0
+2023,Ontario,Arpenteuse de Bruce,0
+2023,Ontario,Livrée des forêts,404714
+2023,Ontario,Arpenteuse de la pruche,0
+2023,Ontario,Tordeuse du pin gris,61431
+2023,Ontario,Tordeuse du tremble,0
+2023,Ontario,Dendroctone du pin ponderosa,0
+2023,Ontario,Spongieuse,2542
+2023,Ontario,"Dendroctone de l'épinette",0
+2023,Ontario,"Tordeuse des bourgeons de l'épinette",1990000
+2023,Ontario,Diprion de Swaine,0
+2023,Ontario,Tordeuse bisannuelle de l’épinette,0
+2023,Ontario,"Tordeuse occidentale de l'épinette",0
 2010,Île-du-Prince-Édouard,Noctuelle décolorée,0
 2010,Île-du-Prince-Édouard,Diprion du sapin,0
 2010,Île-du-Prince-Édouard,"Tordeuse à tête noire de l'Ouest",0
@@ -1949,6 +2084,21 @@
 2022,Île-du-Prince-Édouard,Diprion de Swaine,0
 2022,Île-du-Prince-Édouard,Tordeuse bisannuelle de l’épinette,0
 2022,Île-du-Prince-Édouard,"Tordeuse occidentale de l'épinette",0
+2023,Île-du-Prince-Édouard,Noctuelle décolorée,0
+2023,Île-du-Prince-Édouard,Diprion du sapin,0
+2023,Île-du-Prince-Édouard,"Tordeuse à tête noire de l'Ouest",0
+2023,Île-du-Prince-Édouard,Arpenteuse de Bruce,0
+2023,Île-du-Prince-Édouard,Livrée des forêts,0
+2023,Île-du-Prince-Édouard,Arpenteuse de la pruche,0
+2023,Île-du-Prince-Édouard,Tordeuse du pin gris,0
+2023,Île-du-Prince-Édouard,Tordeuse du tremble,0
+2023,Île-du-Prince-Édouard,Dendroctone du pin ponderosa,0
+2023,Île-du-Prince-Édouard,Spongieuse,0
+2023,Île-du-Prince-Édouard,"Dendroctone de l'épinette",0
+2023,Île-du-Prince-Édouard,"Tordeuse des bourgeons de l'épinette",1
+2023,Île-du-Prince-Édouard,Diprion de Swaine,0
+2023,Île-du-Prince-Édouard,Tordeuse bisannuelle de l’épinette,0
+2023,Île-du-Prince-Édouard,"Tordeuse occidentale de l'épinette",0
 2010,Québec,Noctuelle décolorée,0
 2010,Québec,Diprion du sapin,0
 2010,Québec,"Tordeuse à tête noire de l'Ouest",0
@@ -2110,7 +2260,7 @@
 2020,Québec,Dendroctone du pin ponderosa,0
 2020,Québec,Spongieuse,0
 2020,Québec,"Dendroctone de l'épinette",0
-2020,Québec,"Tordeuse des bourgeons de l'épinette",6246502
+2020,Québec,"Tordeuse des bourgeons de l'épinette",6250000
 2020,Québec,Diprion de Swaine,0
 2020,Québec,Tordeuse bisannuelle de l’épinette,0
 2020,Québec,"Tordeuse occidentale de l'épinette",0
@@ -2125,7 +2275,7 @@
 2021,Québec,Dendroctone du pin ponderosa,0
 2021,Québec,Spongieuse,0
 2021,Québec,"Dendroctone de l'épinette",0
-2021,Québec,"Tordeuse des bourgeons de l'épinette",2463419
+2021,Québec,"Tordeuse des bourgeons de l'épinette",2460000
 2021,Québec,Diprion de Swaine,0
 2021,Québec,Tordeuse bisannuelle de l’épinette,0
 2021,Québec,"Tordeuse occidentale de l'épinette",0
@@ -2140,10 +2290,25 @@
 2022,Québec,Dendroctone du pin ponderosa,0
 2022,Québec,Spongieuse,0
 2022,Québec,"Dendroctone de l'épinette",0
-2022,Québec,"Tordeuse des bourgeons de l'épinette",3211755
+2022,Québec,"Tordeuse des bourgeons de l'épinette",3210000
 2022,Québec,Diprion de Swaine,0
 2022,Québec,Tordeuse bisannuelle de l’épinette,0
 2022,Québec,"Tordeuse occidentale de l'épinette",0
+2023,Québec,Noctuelle décolorée,0
+2023,Québec,Diprion du sapin,0
+2023,Québec,"Tordeuse à tête noire de l'Ouest",0
+2023,Québec,Arpenteuse de Bruce,0
+2023,Québec,Livrée des forêts,0
+2023,Québec,Arpenteuse de la pruche,0
+2023,Québec,Tordeuse du pin gris,0
+2023,Québec,Tordeuse du tremble,0
+2023,Québec,Dendroctone du pin ponderosa,0
+2023,Québec,Spongieuse,0
+2023,Québec,"Dendroctone de l'épinette",0
+2023,Québec,"Tordeuse des bourgeons de l'épinette",3210000
+2023,Québec,Diprion de Swaine,0
+2023,Québec,Tordeuse bisannuelle de l’épinette,0
+2023,Québec,"Tordeuse occidentale de l'épinette",0
 2010,Saskatchewan,Noctuelle décolorée,0
 2010,Saskatchewan,Diprion du sapin,0
 2010,Saskatchewan,"Tordeuse à tête noire de l'Ouest",0
@@ -2330,15 +2495,30 @@
 2022,Saskatchewan,Arpenteuse de Bruce,0
 2022,Saskatchewan,Livrée des forêts,0
 2022,Saskatchewan,Arpenteuse de la pruche,0
-2022,Saskatchewan,Tordeuse du pin gris,293
+2022,Saskatchewan,Tordeuse du pin gris,11748
 2022,Saskatchewan,Tordeuse du tremble,0
 2022,Saskatchewan,Dendroctone du pin ponderosa,0
 2022,Saskatchewan,Spongieuse,0
 2022,Saskatchewan,"Dendroctone de l'épinette",0
-2022,Saskatchewan,"Tordeuse des bourgeons de l'épinette",0
+2022,Saskatchewan,"Tordeuse des bourgeons de l'épinette",244
 2022,Saskatchewan,Diprion de Swaine,0
 2022,Saskatchewan,Tordeuse bisannuelle de l’épinette,0
 2022,Saskatchewan,"Tordeuse occidentale de l'épinette",0
+2023,Saskatchewan,Noctuelle décolorée,0
+2023,Saskatchewan,Diprion du sapin,0
+2023,Saskatchewan,"Tordeuse à tête noire de l'Ouest",0
+2023,Saskatchewan,Arpenteuse de Bruce,0
+2023,Saskatchewan,Livrée des forêts,0
+2023,Saskatchewan,Arpenteuse de la pruche,0
+2023,Saskatchewan,Tordeuse du pin gris,53874
+2023,Saskatchewan,Tordeuse du tremble,0
+2023,Saskatchewan,Dendroctone du pin ponderosa,0
+2023,Saskatchewan,Spongieuse,0
+2023,Saskatchewan,"Dendroctone de l'épinette",0
+2023,Saskatchewan,"Tordeuse des bourgeons de l'épinette",2610
+2023,Saskatchewan,Diprion de Swaine,0
+2023,Saskatchewan,Tordeuse bisannuelle de l’épinette,0
+2023,Saskatchewan,"Tordeuse occidentale de l'épinette",0
 2010,Yukon,Noctuelle décolorée,0
 2010,Yukon,Diprion du sapin,0
 2010,Yukon,"Tordeuse à tête noire de l'Ouest",0
@@ -2534,3 +2714,18 @@
 2022,Yukon,Diprion de Swaine,0
 2022,Yukon,Tordeuse bisannuelle de l’épinette,0
 2022,Yukon,"Tordeuse occidentale de l'épinette",0
+2023,Yukon,Noctuelle décolorée,0
+2023,Yukon,Diprion du sapin,0
+2023,Yukon,"Tordeuse à tête noire de l'Ouest",0
+2023,Yukon,Arpenteuse de Bruce,0
+2023,Yukon,Livrée des forêts,0
+2023,Yukon,Arpenteuse de la pruche,0
+2023,Yukon,Tordeuse du pin gris,0
+2023,Yukon,Tordeuse du tremble,4710
+2023,Yukon,Dendroctone du pin ponderosa,0
+2023,Yukon,Spongieuse,0
+2023,Yukon,"Dendroctone de l'épinette",972
+2023,Yukon,"Tordeuse des bourgeons de l'épinette",0
+2023,Yukon,Diprion de Swaine,0
+2023,Yukon,Tordeuse bisannuelle de l’épinette,0
+2023,Yukon,"Tordeuse occidentale de l'épinette",0

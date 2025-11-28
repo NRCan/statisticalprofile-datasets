@@ -1,53 +1,53 @@
 ﻿Écozone terrestre,Type de forêt,Pourcentage
-Canada,Non arboré,5.05803827208467e-02
-Canada,Feuillus arborescents,0.113735074878459
-Canada,Résineux arborescents,0.699610773938437
-Canada,Mixtes arborescents,0.136073768462257
-Atlantique maritime,Non arboré,4.12870673491115e-02
-Atlantique maritime,Feuillus arborescents,0.199175401430606
-Atlantique maritime,Résineux arborescents,0.41714835501483
-Atlantique maritime,Mixtes arborescents,0.342389176205452
-Cordillère boréale,Non arboré,4.92719653347657e-02
-Cordillère boréale,Feuillus arborescents,6.83788022301488e-02
-Cordillère boréale,Résineux arborescents,0.769026341546349
-Cordillère boréale,Mixtes arborescents,0.113322890888737
-Plaines boréales,Non arboré,3.81677434102641e-02
-Plaines boréales,Feuillus arborescents,0.276065587992433
-Plaines boréales,Résineux arborescents,0.550584716137184
-Plaines boréales,Mixtes arborescents,0.135181952460119
-Bouclier boréal,Non arboré,5.11099003394701e-02
-Bouclier boréal,Feuillus arborescents,0.114747284431987
-Bouclier boréal,Résineux arborescents,0.645221107887872
-Bouclier boréal,Mixtes arborescents,0.188921707340671
-Plaines hudsoniennes,Non arboré,5.03623547610623e-02
-Plaines hudsoniennes,Feuillus arborescents,1.04785243402085e-02
-Plaines hudsoniennes,Résineux arborescents,0.754044247739505
-Plaines hudsoniennes,Mixtes arborescents,0.185114873159224
-Plaines à forêts mixtes,Non arboré,4.89964994779308e-02
-Plaines à forêts mixtes,Feuillus arborescents,0.571943587313514
-Plaines à forêts mixtes,Résineux arborescents,0.135705558824371
-Plaines à forêts mixtes,Mixtes arborescents,0.243354354384183
-Cordillère montagnarde,Non arboré,6.01770098512955e-02
-Cordillère montagnarde,Feuillus arborescents,2.45340085274096e-02
-Cordillère montagnarde,Résineux arborescents,0.857944057991176
-Cordillère montagnarde,Mixtes arborescents,5.7344923630119e-02
-Pacifique maritime,Non arboré,4.61862178591999e-02
-Pacifique maritime,Feuillus arborescents,2.78335052765636e-02
-Pacifique maritime,Résineux arborescents,0.900739283504542
-Pacifique maritime,Mixtes arborescents,2.5240993359695e-02
-Prairies,Non arboré,0.18556007293724
-Prairies,Feuillus arborescents,0.759770316947716
-Prairies,Résineux arborescents,3.88486839741257e-02
-Prairies,Mixtes arborescents,1.58209261409184e-02
-Cordillère de la taïga,Non arboré,2.28313291980824e-02
-Cordillère de la taïga,Feuillus arborescents,2.46374415736162e-02
-Cordillère de la taïga,Résineux arborescents,0.899802091709071
-Cordillère de la taïga,Mixtes arborescents,5.27291375192307e-02
-Plaines de la taïga,Non arboré,6.02157863394936e-03
-Plaines de la taïga,Feuillus arborescents,0.10872384956682
-Plaines de la taïga,Résineux arborescents,0.778591468966985
-Plaines de la taïga,Mixtes arborescents,0.106663102832245
-Bouclier de la taïga,Non arboré,9.05905728221069e-02
-Bouclier de la taïga,Feuillus arborescents,2.58933091451084e-02
-Bouclier de la taïga,Résineux arborescents,0.851793610807788
-Bouclier de la taïga,Mixtes arborescents,3.1722507224997e-02
+Canada,Non arboré,0.049167218
+Canada,Feuillus arborescents,0.11366211
+Canada,Résineux arborescents,0.701547438
+Canada,Mixtes arborescents,0.135623231
+Atlantique maritime,Non arboré,0.041293135
+Atlantique maritime,Feuillus arborescents,0.198955001
+Atlantique maritime,Résineux arborescents,0.417147734
+Atlantique maritime,Mixtes arborescents,0.34260413
+Cordillère boréale,Non arboré,0.04475005
+Cordillère boréale,Feuillus arborescents,0.068434753
+Cordillère boréale,Résineux arborescents,0.773829032
+Cordillère boréale,Mixtes arborescents,0.112986165
+Plaines boréales,Non arboré,0.037529241
+Plaines boréales,Feuillus arborescents,0.27696659
+Plaines boréales,Résineux arborescents,0.550598777
+Plaines boréales,Mixtes arborescents,0.134905392
+Bouclier boréal,Non arboré,0.049870404
+Bouclier boréal,Feuillus arborescents,0.114236334
+Bouclier boréal,Résineux arborescents,0.647333569
+Bouclier boréal,Mixtes arborescents,0.188559685
+Plaines hudsoniennes,Non arboré,0.050377383
+Plaines hudsoniennes,Feuillus arborescents,0.010478765
+Plaines hudsoniennes,Résineux arborescents,0.75411919
+Plaines hudsoniennes,Mixtes arborescents,0.185024662
+Plaines à forêts mixtes,Non arboré,0.048998704
+Plaines à forêts mixtes,Feuillus arborescents,0.571877618
+Plaines à forêts mixtes,Résineux arborescents,0.13571613
+Plaines à forêts mixtes,Mixtes arborescents,0.243407256
+Cordillère montagnarde,Non arboré,0.063120967
+Cordillère montagnarde,Feuillus arborescents,0.026575631
+Cordillère montagnarde,Résineux arborescents,0.852051712
+Cordillère montagnarde,Mixtes arborescents,0.058251719
+Pacifique maritime,Non arboré,0.022593969
+Pacifique maritime,Feuillus arborescents,0.029190569
+Pacifique maritime,Résineux arborescents,0.921842821
+Pacifique maritime,Mixtes arborescents,0.02637264
+Prairies,Non arboré,0.185579572
+Prairies,Feuillus arborescents,0.759736853
+Prairies,Résineux arborescents,0.038854635
+Prairies,Mixtes arborescents,0.015828287
+Cordillère de la taïga,Non arboré,0.021841554
+Cordillère de la taïga,Feuillus arborescents,0.026132773
+Cordillère de la taïga,Résineux arborescents,0.900798892
+Cordillère de la taïga,Mixtes arborescents,0.051226631
+Plaines de la taïga,Non arboré,0.005407885
+Plaines de la taïga,Feuillus arborescents,0.107481666
+Plaines de la taïga,Résineux arborescents,0.782482741
+Plaines de la taïga,Mixtes arborescents,0.104627709
+Bouclier de la taïga,Non arboré,0.090578906
+Bouclier de la taïga,Feuillus arborescents,0.025871442
+Bouclier de la taïga,Résineux arborescents,0.851828928
+Bouclier de la taïga,Mixtes arborescents,0.031720723

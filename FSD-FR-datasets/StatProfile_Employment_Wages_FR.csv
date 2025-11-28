@@ -419,45 +419,84 @@
 2021,Yukon,0,Exploitation forestière
 2021,Yukon,0,Fabrication du papier
 2021,Yukon,0,Fabrication de produits en bois
-2022,Canada,1829853,Exploitation forestière
-2022,Canada,4107307,Fabrication du papier
-2022,Canada,6253470,Fabrication de produits en bois
-2022,Alberta,211805,Exploitation forestière
-2022,Alberta,0,Fabrication du papier
-2022,Alberta,775448,Fabrication de produits en bois
-2022,Colombie-Britannique,829314,Exploitation forestière
+2022,Canada,1799081,Exploitation forestière
+2022,Canada,4091603,Fabrication du papier
+2022,Canada,6275856,Fabrication de produits en bois
+2022,Alberta,213064,Exploitation forestière
+2022,Alberta,295817,Fabrication du papier
+2022,Alberta,764220,Fabrication de produits en bois
+2022,Colombie-Britannique,821524,Exploitation forestière
 2022,Colombie-Britannique,0,Fabrication du papier
-2022,Colombie-Britannique,1629232,Fabrication de produits en bois
-2022,Manitoba,18242,Exploitation forestière
+2022,Colombie-Britannique,1646300,Fabrication de produits en bois
+2022,Manitoba,16856,Exploitation forestière
 2022,Manitoba,0,Fabrication du papier
 2022,Manitoba,0,Fabrication de produits en bois
-2022,Nouveau-Brunswick,128130,Exploitation forestière
+2022,Nouveau-Brunswick,124656,Exploitation forestière
 2022,Nouveau-Brunswick,0,Fabrication du papier
 2022,Nouveau-Brunswick,0,Fabrication de produits en bois
-2022,Terre-Neuve-et-Labrador,10437,Exploitation forestière
+2022,Terre-Neuve-et-Labrador,10304,Exploitation forestière
 2022,Terre-Neuve-et-Labrador,0,Fabrication du papier
 2022,Terre-Neuve-et-Labrador,0,Fabrication de produits en bois
 2022,Territoires du Nord-Ouest,0,Exploitation forestière
 2022,Territoires du Nord-Ouest,0,Fabrication du papier
 2022,Territoires du Nord-Ouest,0,Fabrication de produits en bois
-2022,Nouvelle-Écosse,28656,Exploitation forestière
+2022,Nouvelle-Écosse,27343,Exploitation forestière
 2022,Nouvelle-Écosse,0,Fabrication du papier
-2022,Nouvelle-Écosse,0,Fabrication de produits en bois
+2022,Nouvelle-Écosse,93608,Fabrication de produits en bois
 2022,Nunavut,0,Exploitation forestière
 2022,Nunavut,0,Fabrication du papier
 2022,Nunavut,0,Fabrication de produits en bois
-2022,Ontario,186333,Exploitation forestière
-2022,Ontario,1398705,Fabrication du papier
+2022,Ontario,188718,Exploitation forestière
+2022,Ontario,1393777,Fabrication du papier
 2022,Ontario,0,Fabrication de produits en bois
-2022,Île-du-Prince-Édouard,2344,Exploitation forestière
+2022,Île-du-Prince-Édouard,2279,Exploitation forestière
 2022,Île-du-Prince-Édouard,0,Fabrication du papier
 2022,Île-du-Prince-Édouard,0,Fabrication de produits en bois
-2022,Québec,388092,Exploitation forestière
-2022,Québec,1280070,Fabrication du papier
-2022,Québec,1904291,Fabrication de produits en bois
-2022,Saskatchewan,26328,Exploitation forestière
+2022,Québec,366106,Exploitation forestière
+2022,Québec,1265572,Fabrication du papier
+2022,Québec,1891501,Fabrication de produits en bois
+2022,Saskatchewan,28132,Exploitation forestière
 2022,Saskatchewan,0,Fabrication du papier
-2022,Saskatchewan,114312,Fabrication de produits en bois
-2022,Yukon,164,Exploitation forestière
+2022,Saskatchewan,0,Fabrication de produits en bois
+2022,Yukon,92,Exploitation forestière
 2022,Yukon,0,Fabrication du papier
 2022,Yukon,0,Fabrication de produits en bois
+2023,Canada,1746846,Exploitation forestière
+2023,Canada,3977707,Fabrication du papier
+2023,Canada,5789780,Fabrication de produits en bois
+2023,Alberta,234632,Exploitation forestière
+2023,Alberta,295095,Fabrication du papier
+2023,Alberta,747400,Fabrication de produits en bois
+2023,Colombie-Britannique,751880,Exploitation forestière
+2023,Colombie-Britannique,555391,Fabrication du papier
+2023,Colombie-Britannique,1523351,Fabrication de produits en bois
+2023,Manitoba,14371,Exploitation forestière
+2023,Manitoba,0,Fabrication du papier
+2023,Manitoba,148801,Fabrication de produits en bois
+2023,Nouveau-Brunswick,116983,Exploitation forestière
+2023,Nouveau-Brunswick,0,Fabrication du papier
+2023,Nouveau-Brunswick,0,Fabrication de produits en bois
+2023,Terre-Neuve-et-Labrador,9722,Exploitation forestière
+2023,Terre-Neuve-et-Labrador,0,Fabrication du papier
+2023,Terre-Neuve-et-Labrador,0,Fabrication de produits en bois
+2023,Territoires du Nord-Ouest,0,Exploitation forestière
+2023,Territoires du Nord-Ouest,0,Fabrication de produits en bois
+2023,Nouvelle-Écosse,26726,Exploitation forestière
+2023,Nouvelle-Écosse,61120,Fabrication du papier
+2023,Nouvelle-Écosse,89995,Fabrication de produits en bois
+2023,Nunavut,0,Exploitation forestière
+2023,Nunavut,0,Fabrication de produits en bois
+2023,Ontario,188304,Exploitation forestière
+2023,Ontario,1386856,Fabrication du papier
+2023,Ontario,1183188,Fabrication de produits en bois
+2023,Île-du-Prince-Édouard,2225,Exploitation forestière
+2023,Île-du-Prince-Édouard,0,Fabrication du papier
+2023,Île-du-Prince-Édouard,0,Fabrication de produits en bois
+2023,Québec,372055,Exploitation forestière
+2023,Québec,1208640,Fabrication du papier
+2023,Québec,1692540,Fabrication de produits en bois
+2023,Saskatchewan,29719,Exploitation forestière
+2023,Saskatchewan,0,Fabrication du papier
+2023,Saskatchewan,95663,Fabrication de produits en bois
+2023,Yukon,211,Exploitation forestière
+2023,Yukon,0,Fabrication de produits en bois

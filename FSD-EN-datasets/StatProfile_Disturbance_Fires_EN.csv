@@ -1,174 +1,145 @@
 ﻿Year,Jurisdiction,Cause,Area (hectares),Number
 2000,Alberta,Human activity,8658,366
-2000,Alberta,Lightning,16575,481
+2000,Alberta,Natural cause,16575,481
 2000,Alberta,Unspecified,19,17
 2001,Alberta,Human activity,139800,485
-2001,Alberta,Lightning,27108,516
+2001,Alberta,Natural cause,27108,516
 2001,Alberta,Unspecified,78,23
-2002,Alberta,Human activity,248041,589
-2002,Alberta,Lightning,252498,886
-2002,Alberta,Prescribed burn,7,1
+2002,Alberta,Human activity,248048,590
+2002,Alberta,Natural cause,252498,886
 2002,Alberta,Unspecified,8,17
 2003,Alberta,Human activity,39243,672
-2003,Alberta,Lightning,145144,563
+2003,Alberta,Natural cause,145144,563
 2003,Alberta,Unspecified,19958,22
-2004,Alberta,Human activity,6649,877
-2004,Alberta,Lightning,425626,788
-2004,Alberta,Prescribed burn,0,1
-2004,Alberta,Reburn,41,6
-2004,Alberta,Unspecified,9,11
-2005,Alberta,Human activity,12715,914
-2005,Alberta,Lightning,79604,471
-2005,Alberta,Prescribed burn,4,2
-2005,Alberta,Reburn,0,3
-2005,Alberta,Unspecified,45,35
-2006,Alberta,Human activity,23935,1223
-2006,Alberta,Lightning,106317,797
-2006,Alberta,Prescribed burn,2,7
-2006,Alberta,Reburn,33,22
-2006,Alberta,Unspecified,6024,58
+2004,Alberta,Human activity,6649,878
+2004,Alberta,Natural cause,425626,788
+2004,Alberta,Unspecified,50,17
+2005,Alberta,Human activity,12719,916
+2005,Alberta,Natural cause,79604,471
+2005,Alberta,Unspecified,46,38
+2006,Alberta,Human activity,23937,1230
+2006,Alberta,Natural cause,106317,797
+2006,Alberta,Unspecified,6058,80
 2007,Alberta,Human activity,1766,821
-2007,Alberta,Lightning,324225,530
-2007,Alberta,Reburn,1,8
-2007,Alberta,Unspecified,2,19
-2008,Alberta,Human activity,10673,905
-2008,Alberta,Lightning,22869,826
-2008,Alberta,Prescribed burn,2914,11
-2008,Alberta,Reburn,8,9
-2008,Alberta,Unspecified,71,44
-2009,Alberta,Human activity,22239,1056
-2009,Alberta,Lightning,67111,588
-2009,Alberta,Prescribed burn,5171,13
-2009,Alberta,Reburn,6,9
-2009,Alberta,Unspecified,31,49
-2010,Alberta,Human activity,2271,1119
-2010,Alberta,Lightning,84448,778
-2010,Alberta,Prescribed burn,11,3
-2010,Alberta,Reburn,139,12
-2010,Alberta,Unspecified,83,37
-2011,Alberta,Human activity,142950,928
-2011,Alberta,Lightning,97628,232
-2011,Alberta,Prescribed burn,1423,13
-2011,Alberta,Reburn,0,5
-2011,Alberta,Unspecified,650231,30
-2012,Alberta,Human activity,7553,1133
-2012,Alberta,Lightning,644115,470
-2012,Alberta,Prescribed burn,2,1
+2007,Alberta,Natural cause,324225,530
+2007,Alberta,Unspecified,3,27
+2008,Alberta,Human activity,13587,916
+2008,Alberta,Natural cause,22869,826
+2008,Alberta,Unspecified,79,53
+2009,Alberta,Human activity,27410,1069
+2009,Alberta,Natural cause,67111,588
+2009,Alberta,Unspecified,37,58
+2010,Alberta,Human activity,2282,1122
+2010,Alberta,Natural cause,84448,778
+2010,Alberta,Unspecified,222,49
+2011,Alberta,Human activity,144373,941
+2011,Alberta,Natural cause,97628,232
+2011,Alberta,Unspecified,650231,35
+2012,Alberta,Human activity,7555,1134
+2012,Alberta,Natural cause,644115,470
 2012,Alberta,Unspecified,414,42
-2013,Alberta,Human activity,2101,892
-2013,Alberta,Lightning,48634,337
-2013,Alberta,Prescribed burn,167,7
+2013,Alberta,Human activity,2268,899
+2013,Alberta,Natural cause,48634,337
 2013,Alberta,Unspecified,4830,43
-2014,Alberta,Human activity,1204,865
-2014,Alberta,Lightning,286625,609
-2014,Alberta,Prescribed burn,201,3
+2014,Alberta,Human activity,1405,868
+2014,Alberta,Natural cause,286625,609
 2014,Alberta,Unspecified,19,29
-2015,Alberta,Human activity,38618,1033
-2015,Alberta,Lightning,801712,829
-2015,Alberta,Prescribed burn,2972,7
+2015,Alberta,Human activity,41590,1040
+2015,Alberta,Natural cause,801712,829
 2015,Alberta,Unspecified,570,83
-2016,Alberta,Human activity,1134,878
-2016,Alberta,Lightning,27284,537
-2016,Alberta,Prescribed burn,838,7
+2016,Alberta,Human activity,1972,885
+2016,Alberta,Natural cause,27284,537
 2016,Alberta,Unspecified,485908,63
-2017,Alberta,Human activity,6834,834
-2017,Alberta,Lightning,116704,448
-2017,Alberta,Prescribed burn,867,3
+2017,Alberta,Human activity,7701,837
+2017,Alberta,Natural cause,116704,448
 2017,Alberta,Unspecified,25364,45
-2018,Alberta,Human activity,1892,782
-2018,Alberta,Lightning,69845,535
-2018,Alberta,Prescribed burn,339,2
+2018,Alberta,Human activity,2231,784
+2018,Alberta,Natural cause,69845,535
 2018,Alberta,Unspecified,12941,63
-2019,Alberta,Human activity,3026,728
-2019,Alberta,Lightning,164062,318
-2019,Alberta,Prescribed burn,141,2
+2019,Alberta,Human activity,3167,730
+2019,Alberta,Natural cause,164062,318
 2019,Alberta,Unspecified,836602,33
-2020,Alberta,Human activity,2949,681
-2020,Alberta,Lightning,393,89
-2020,Alberta,Prescribed burn,1250,2
+2020,Alberta,Human activity,4199,683
+2020,Alberta,Natural cause,393,89
 2020,Alberta,Unspecified,206,28
-2021,Alberta,Human activity,1512,929
-2021,Alberta,Lightning,52475,441
-2021,Alberta,Prescribed burn,296,7
+2021,Alberta,Human activity,1808,936
+2021,Alberta,Natural cause,52475,441
 2021,Alberta,Unspecified,11858,49
-2022,Alberta,Human activity,1062,826
+2022,Alberta,Human activity,7853,837
 2022,Alberta,Natural cause,142593,498
-2022,Alberta,Prescribed burn,6791,11
 2022,Alberta,Unspecified,7101,37
-2023,Alberta,Unspecified,1951299,1149
+2023,Alberta,Human activity,56420,665
+2023,Alberta,Natural cause,2655641,421
+2023,Alberta,Unspecified,429722,115
+2024,Alberta,Human activity,29727,692
+2024,Alberta,Natural cause,735092,581
+2024,Alberta,Unspecified,21013,57
 2000,British Columbia,Human activity,11399,687
-2000,British Columbia,Lightning,6409,864
+2000,British Columbia,Natural cause,6409,864
 2001,British Columbia,Human activity,5192,831
-2001,British Columbia,Lightning,8982,489
+2001,British Columbia,Natural cause,8982,489
 2002,British Columbia,Human activity,4367,909
-2002,British Columbia,Lightning,4219,884
+2002,British Columbia,Natural cause,4219,884
 2002,British Columbia,Unspecified,0,2
 2003,British Columbia,Human activity,81752,945
-2003,British Columbia,Lightning,201650,1545
+2003,British Columbia,Natural cause,201650,1545
 2004,British Columbia,Human activity,2175,696
-2004,British Columbia,Lightning,218121,1721
+2004,British Columbia,Natural cause,218121,1721
 2004,British Columbia,Unspecified,0,1
 2005,British Columbia,Human activity,9735,616
-2005,British Columbia,Lightning,27098,390
+2005,British Columbia,Natural cause,27098,390
 2006,British Columbia,Human activity,9715,1037
-2006,British Columbia,Lightning,129710,1550
+2006,British Columbia,Natural cause,129710,1550
 2007,British Columbia,Human activity,12743,718
-2007,British Columbia,Lightning,17243,922
+2007,British Columbia,Natural cause,17243,922
 2007,British Columbia,Unspecified,1,1
-2008,British Columbia,Human activity,8649,869
-2008,British Columbia,Lightning,4801,1185
-2008,British Columbia,Prescribed burn,1813,2
+2008,British Columbia,Human activity,10462,871
+2008,British Columbia,Natural cause,4801,1185
 2008,British Columbia,Unspecified,37,2
-2009,British Columbia,Human activity,26717,904
-2009,British Columbia,Lightning,220703,2196
-2009,British Columbia,Prescribed burn,100,1
-2010,British Columbia,Human activity,10437,729
-2010,British Columbia,Lightning,326732,1000
-2010,British Columbia,Prescribed burn,12,1
+2009,British Columbia,Human activity,26817,905
+2009,British Columbia,Natural cause,220703,2196
+2010,British Columbia,Human activity,10449,730
+2010,British Columbia,Natural cause,326732,1000
 2010,British Columbia,Unspecified,0,1
-2011,British Columbia,Human activity,1183,470
-2011,British Columbia,Lightning,11380,210
-2011,British Columbia,Prescribed burn,585,3
+2011,British Columbia,Human activity,1768,473
+2011,British Columbia,Natural cause,11380,210
 2011,British Columbia,Unspecified,5,1
 2012,British Columbia,Human activity,5607,705
-2012,British Columbia,Lightning,97612,954
+2012,British Columbia,Natural cause,97612,954
 2013,British Columbia,Human activity,4954,572
-2013,British Columbia,Lightning,13882,1306
+2013,British Columbia,Natural cause,13882,1306
 2013,British Columbia,Unspecified,0,1
-2014,British Columbia,Human activity,8085,655
-2014,British Columbia,Lightning,360841,820
-2014,British Columbia,Prescribed burn,1,1
+2014,British Columbia,Human activity,8086,656
+2014,British Columbia,Natural cause,360841,820
 2014,British Columbia,Unspecified,0,2
-2015,British Columbia,Human activity,57127,625
-2015,British Columbia,Lightning,223741,1245
-2015,British Columbia,Prescribed burn,90,1
-2016,British Columbia,Human activity,93321,584
-2016,British Columbia,Lightning,7057,489
-2016,British Columbia,Prescribed burn,69,2
-2017,British Columbia,Human activity,225058,574
-2017,British Columbia,Lightning,1004756,821
-2017,British Columbia,Prescribed burn,45,1
+2015,British Columbia,Human activity,57217,626
+2015,British Columbia,Natural cause,223741,1245
+2016,British Columbia,Human activity,93389,586
+2016,British Columbia,Natural cause,7057,489
+2017,British Columbia,Human activity,225103,575
+2017,British Columbia,Natural cause,1004756,821
 2017,British Columbia,Unspecified,1,4
-2018,British Columbia,Human activity,121608,542
-2018,British Columbia,Lightning,1236349,1557
-2018,British Columbia,Prescribed burn,15,2
+2018,British Columbia,Human activity,121623,544
+2018,British Columbia,Natural cause,1236349,1557
 2018,British Columbia,Unspecified,2964,22
-2019,British Columbia,Human activity,4666,360
-2019,British Columbia,Lightning,15585,380
-2019,British Columbia,Prescribed burn,38,2
+2019,British Columbia,Human activity,4703,362
+2019,British Columbia,Natural cause,15585,380
 2019,British Columbia,Unspecified,1256,101
-2020,British Columbia,Human activity,1012,369
-2020,British Columbia,Lightning,11336,277
-2020,British Columbia,Prescribed burn,123,2
+2020,British Columbia,Human activity,1135,371
+2020,British Columbia,Natural cause,11336,277
 2020,British Columbia,Unspecified,2201,36
 2021,British Columbia,Human activity,294381,636
-2021,British Columbia,Lightning,570673,980
+2021,British Columbia,Natural cause,570673,980
 2021,British Columbia,Unspecified,1314,47
-2022,British Columbia,Human activity,22293,573
+2022,British Columbia,Human activity,22684,577
 2022,British Columbia,Natural cause,112840,1223
-2022,British Columbia,Prescribed burn,391,4
 2022,British Columbia,Unspecified,102,18
-2023,British Columbia,Unspecified,2840830,2269
+2023,British Columbia,Human activity,55736,602
+2023,British Columbia,Natural cause,2757348,1651
+2023,British Columbia,Unspecified,29438,48
+2024,British Columbia,Human activity,17878,503
+2024,British Columbia,Natural cause,1054766,1218
+2024,British Columbia,Unspecified,8615,20
 2000,Manitoba,Human activity,1616,4
 2000,Manitoba,Unspecified,111699,353
 2001,Manitoba,Human activity,499,6
@@ -178,406 +149,395 @@
 2003,Manitoba,Human activity,3203,2
 2003,Manitoba,Unspecified,938176,1207
 2004,Manitoba,Human activity,1062,16
-2004,Manitoba,Lightning,18074,32
+2004,Manitoba,Natural cause,18074,32
 2004,Manitoba,Unspecified,8384,9
 2005,Manitoba,Human activity,6189,111
-2005,Manitoba,Lightning,69102,143
+2005,Manitoba,Natural cause,69102,143
 2006,Manitoba,Human activity,8113,262
-2006,Manitoba,Lightning,159437,422
+2006,Manitoba,Natural cause,159437,422
 2007,Manitoba,Human activity,5513,221
-2007,Manitoba,Lightning,331368,162
-2008,Manitoba,Human activity,73198,254
-2008,Manitoba,Lightning,77474,143
-2008,Manitoba,Prescribed burn,4250,1
-2009,Manitoba,Human activity,2230,117
-2009,Manitoba,Lightning,642,67
-2009,Manitoba,Prescribed burn,420,2
-2010,Manitoba,Human activity,22397,248
-2010,Manitoba,Lightning,165099,338
-2010,Manitoba,Prescribed burn,1765,3
-2011,Manitoba,Human activity,26229,158
-2011,Manitoba,Lightning,100615,159
-2011,Manitoba,Prescribed burn,1967,5
+2007,Manitoba,Natural cause,331368,162
+2008,Manitoba,Human activity,77448,255
+2008,Manitoba,Natural cause,77474,143
+2009,Manitoba,Human activity,2650,119
+2009,Manitoba,Natural cause,642,67
+2010,Manitoba,Human activity,24162,251
+2010,Manitoba,Natural cause,165099,338
+2011,Manitoba,Human activity,28196,163
+2011,Manitoba,Natural cause,100615,159
 2011,Manitoba,Unspecified,0,1
 2012,Manitoba,Human activity,21027,205
-2012,Manitoba,Lightning,195861,293
+2012,Manitoba,Natural cause,195861,293
 2012,Manitoba,Unspecified,620,1
-2013,Manitoba,Human activity,896,192
-2013,Manitoba,Lightning,1114519,302
-2013,Manitoba,Prescribed burn,42,2
-2014,Manitoba,Human activity,1172,115
-2014,Manitoba,Lightning,37936,130
-2014,Manitoba,Prescribed burn,100,1
-2015,Manitoba,Human activity,6779,164
-2015,Manitoba,Lightning,61353,295
-2015,Manitoba,Prescribed burn,1055,2
+2013,Manitoba,Human activity,938,194
+2013,Manitoba,Natural cause,1114519,302
+2014,Manitoba,Human activity,1271,116
+2014,Manitoba,Natural cause,37936,130
+2015,Manitoba,Human activity,7834,166
+2015,Manitoba,Natural cause,61353,295
 2015,Manitoba,Unspecified,6,2
-2016,Manitoba,Human activity,6701,108
-2016,Manitoba,Lightning,31707,96
-2016,Manitoba,Prescribed burn,750,2
+2016,Manitoba,Human activity,7451,110
+2016,Manitoba,Natural cause,31707,96
 2016,Manitoba,Unspecified,0,1
 2017,Manitoba,Human activity,1368,143
-2017,Manitoba,Lightning,223056,423
-2018,Manitoba,Human activity,78904,236
-2018,Manitoba,Lightning,155521,245
-2018,Manitoba,Prescribed burn,3,1
+2017,Manitoba,Natural cause,223056,423
+2018,Manitoba,Human activity,78907,237
+2018,Manitoba,Natural cause,155521,245
 2018,Manitoba,Unspecified,50,1
-2019,Manitoba,Human activity,7940,149
-2019,Manitoba,Lightning,63324,133
-2019,Manitoba,Prescribed burn,39,1
+2019,Manitoba,Human activity,7979,150
+2019,Manitoba,Natural cause,63324,133
 2019,Manitoba,Unspecified,33,1
 2020,Manitoba,Human activity,34268,81
-2020,Manitoba,Lightning,15035,74
-2021,Manitoba,Human activity,243012,119
-2021,Manitoba,Lightning,883671,369
-2021,Manitoba,Prescribed burn,40,1
+2020,Manitoba,Natural cause,15035,74
+2021,Manitoba,Human activity,243052,120
+2021,Manitoba,Natural cause,883671,369
 2021,Manitoba,Unspecified,16038,8
-2022,Manitoba,Human activity,3809,51
+2022,Manitoba,Human activity,4138,53
 2022,Manitoba,Natural cause,187968,173
-2022,Manitoba,Prescribed burn,329,2
 2022,Manitoba,Unspecified,1,1
-2023,Manitoba,Unspecified,189913,305
+2023,Manitoba,Human activity,6457,102
+2023,Manitoba,Natural cause,192740,198
+2023,Manitoba,Unspecified,2,2
+2024,Manitoba,Human activity,3999,119
+2024,Manitoba,Natural cause,233347,208
 2000,New Brunswick,Human activity,372,265
-2000,New Brunswick,Lightning,71,20
+2000,New Brunswick,Natural cause,71,20
 2000,New Brunswick,Unspecified,50,57
 2001,New Brunswick,Human activity,487,343
-2001,New Brunswick,Lightning,25,56
+2001,New Brunswick,Natural cause,25,56
 2001,New Brunswick,Unspecified,264,97
-2002,New Brunswick,Human activity,256,211
-2002,New Brunswick,Lightning,33,55
+2002,New Brunswick,Human activity,255,211
+2002,New Brunswick,Natural cause,33,55
 2002,New Brunswick,Unspecified,37,51
 2003,New Brunswick,Human activity,215,182
-2003,New Brunswick,Lightning,4,22
+2003,New Brunswick,Natural cause,4,22
 2003,New Brunswick,Unspecified,20,26
 2004,New Brunswick,Human activity,389,212
-2004,New Brunswick,Lightning,5,8
+2004,New Brunswick,Natural cause,5,8
 2004,New Brunswick,Unspecified,68,36
 2005,New Brunswick,Human activity,459,258
-2005,New Brunswick,Lightning,10,25
+2005,New Brunswick,Natural cause,10,25
 2005,New Brunswick,Unspecified,33,26
 2006,New Brunswick,Human activity,574,249
-2006,New Brunswick,Lightning,9,27
+2006,New Brunswick,Natural cause,9,27
 2006,New Brunswick,Unspecified,42,34
 2007,New Brunswick,Human activity,384,254
-2007,New Brunswick,Lightning,25,30
+2007,New Brunswick,Natural cause,25,30
 2007,New Brunswick,Unspecified,183,34
 2008,New Brunswick,Human activity,126,140
-2008,New Brunswick,Lightning,7,13
+2008,New Brunswick,Natural cause,7,13
 2008,New Brunswick,Unspecified,10,15
 2009,New Brunswick,Human activity,234,182
-2009,New Brunswick,Lightning,0,2
+2009,New Brunswick,Natural cause,0,2
 2009,New Brunswick,Unspecified,20,13
-2010,New Brunswick,Human activity,131,143
-2010,New Brunswick,Lightning,11,9
+2010,New Brunswick,Human activity,130,143
+2010,New Brunswick,Natural cause,11,9
 2010,New Brunswick,Unspecified,15,27
 2011,New Brunswick,Human activity,33,55
-2011,New Brunswick,Lightning,2,4
+2011,New Brunswick,Natural cause,2,4
 2011,New Brunswick,Unspecified,2,8
 2012,New Brunswick,Human activity,288,277
-2012,New Brunswick,Lightning,1,6
+2012,New Brunswick,Natural cause,1,6
 2012,New Brunswick,Unspecified,72,55
 2013,New Brunswick,Human activity,846,315
-2013,New Brunswick,Lightning,0,2
+2013,New Brunswick,Natural cause,0,2
 2013,New Brunswick,Unspecified,34,36
 2014,New Brunswick,Human activity,101,154
-2014,New Brunswick,Lightning,1,4
+2014,New Brunswick,Natural cause,1,4
 2014,New Brunswick,Unspecified,11,22
 2015,New Brunswick,Human activity,198,186
-2015,New Brunswick,Lightning,46,8
+2015,New Brunswick,Natural cause,46,8
 2015,New Brunswick,Unspecified,19,28
 2016,New Brunswick,Human activity,199,238
-2016,New Brunswick,Lightning,22,13
+2016,New Brunswick,Natural cause,22,13
 2016,New Brunswick,Unspecified,44,34
 2017,New Brunswick,Human activity,530,182
-2017,New Brunswick,Lightning,20,29
+2017,New Brunswick,Natural cause,20,29
 2017,New Brunswick,Unspecified,18,34
 2018,New Brunswick,Human activity,250,229
-2018,New Brunswick,Lightning,17,19
+2018,New Brunswick,Natural cause,16,19
 2018,New Brunswick,Unspecified,44,37
 2019,New Brunswick,Human activity,184,152
-2019,New Brunswick,Lightning,14,14
+2019,New Brunswick,Natural cause,14,14
 2019,New Brunswick,Unspecified,30,17
 2020,New Brunswick,Human activity,1224,386
-2020,New Brunswick,Lightning,51,28
+2020,New Brunswick,Natural cause,51,28
 2020,New Brunswick,Unspecified,115,52
 2021,New Brunswick,Human activity,332,148
-2021,New Brunswick,Lightning,30,8
+2021,New Brunswick,Natural cause,30,8
 2021,New Brunswick,Unspecified,18,23
 2022,New Brunswick,Human activity,144,176
 2022,New Brunswick,Natural cause,2,5
 2022,New Brunswick,Unspecified,30,33
-2023,New Brunswick,Unspecified,854,202
+2023,New Brunswick,Human activity,832,181
+2023,New Brunswick,Natural cause,14,10
+2023,New Brunswick,Unspecified,8,11
+2024,New Brunswick,Human activity,247,236
+2024,New Brunswick,Natural cause,1,3
+2024,New Brunswick,Unspecified,46,48
 2000,Newfoundland and Labrador,Human activity,232,124
-2000,Newfoundland and Labrador,Lightning,103304,25
+2000,Newfoundland and Labrador,Natural cause,103304,25
 2001,Newfoundland and Labrador,Human activity,325,166
-2001,Newfoundland and Labrador,Lightning,641,16
+2001,Newfoundland and Labrador,Natural cause,641,16
 2002,Newfoundland and Labrador,Human activity,385,86
-2002,Newfoundland and Labrador,Lightning,14525,14
+2002,Newfoundland and Labrador,Natural cause,14525,14
 2003,Newfoundland and Labrador,Human activity,683,125
-2003,Newfoundland and Labrador,Lightning,27028,15
+2003,Newfoundland and Labrador,Natural cause,27028,15
 2004,Newfoundland and Labrador,Human activity,1225,123
-2004,Newfoundland and Labrador,Lightning,932,2
+2004,Newfoundland and Labrador,Natural cause,932,2
 2005,Newfoundland and Labrador,Human activity,187,115
-2005,Newfoundland and Labrador,Lightning,18061,6
+2005,Newfoundland and Labrador,Natural cause,18061,6
 2006,Newfoundland and Labrador,Human activity,154,61
-2006,Newfoundland and Labrador,Lightning,3312,5
+2006,Newfoundland and Labrador,Natural cause,3312,5
 2007,Newfoundland and Labrador,Human activity,324,59
-2007,Newfoundland and Labrador,Lightning,11026,6
+2007,Newfoundland and Labrador,Natural cause,11026,6
 2007,Newfoundland and Labrador,Unspecified,0,1
-2008,Newfoundland and Labrador,Human activity,98,70
-2008,Newfoundland and Labrador,Lightning,2,2
-2008,Newfoundland and Labrador,Prescribed burn,29,1
-2009,Newfoundland and Labrador,Human activity,393,148
-2009,Newfoundland and Labrador,Lightning,16264,2
-2009,Newfoundland and Labrador,Prescribed burn,15,1
+2008,Newfoundland and Labrador,Human activity,127,71
+2008,Newfoundland and Labrador,Natural cause,2,2
+2009,Newfoundland and Labrador,Human activity,408,149
+2009,Newfoundland and Labrador,Natural cause,16264,2
 2010,Newfoundland and Labrador,Human activity,39,42
-2010,Newfoundland and Labrador,Lightning,957,4
+2010,Newfoundland and Labrador,Natural cause,957,4
 2011,Newfoundland and Labrador,Human activity,39,35
 2011,Newfoundland and Labrador,Unspecified,387,7
 2012,Newfoundland and Labrador,Human activity,1672,109
-2012,Newfoundland and Labrador,Lightning,109,2
+2012,Newfoundland and Labrador,Natural cause,109,2
 2012,Newfoundland and Labrador,Unspecified,27502,27
 2013,Newfoundland and Labrador,Human activity,27669,70
-2013,Newfoundland and Labrador,Lightning,2475,1
-2014,Newfoundland and Labrador,Prescribed burn,4,1
+2013,Newfoundland and Labrador,Natural cause,2475,1
+2014,Newfoundland and Labrador,Human activity,4,1
 2014,Newfoundland and Labrador,Unspecified,8832,1
-2015,Newfoundland and Labrador,Human activity,10,6
-2015,Newfoundland and Labrador,Lightning,3580,19
-2015,Newfoundland and Labrador,Prescribed burn,82,2
-2016,Newfoundland and Labrador,Human activity,0,4
-2016,Newfoundland and Labrador,Lightning,10603,13
-2016,Newfoundland and Labrador,Prescribed burn,134,1
+2015,Newfoundland and Labrador,Human activity,91,8
+2015,Newfoundland and Labrador,Natural cause,3580,19
+2016,Newfoundland and Labrador,Human activity,134,5
+2016,Newfoundland and Labrador,Natural cause,10603,13
 2017,Newfoundland and Labrador,Human activity,62,78
-2017,Newfoundland and Labrador,Lightning,638,3
+2017,Newfoundland and Labrador,Natural cause,638,3
 2017,Newfoundland and Labrador,Unspecified,0,1
 2018,Newfoundland and Labrador,Human activity,355,127
-2018,Newfoundland and Labrador,Lightning,40,4
+2018,Newfoundland and Labrador,Natural cause,40,4
 2018,Newfoundland and Labrador,Unspecified,0,1
 2019,Newfoundland and Labrador,Human activity,107,89
-2019,Newfoundland and Labrador,Lightning,209,10
+2019,Newfoundland and Labrador,Natural cause,209,10
 2020,Newfoundland and Labrador,Human activity,148,72
-2020,Newfoundland and Labrador,Lightning,4185,24
+2020,Newfoundland and Labrador,Natural cause,4185,24
 2020,Newfoundland and Labrador,Unspecified,1,1
 2021,Newfoundland and Labrador,Human activity,244,85
-2021,Newfoundland and Labrador,Lightning,99,4
-2022,Newfoundland and Labrador,Human activity,0,20
-2022,Newfoundland and Labrador,Natural cause,0,1
-2022,Newfoundland and Labrador,Unspecified,23890,102
-2023,Newfoundland and Labrador,Unspecified,21913,101
-2000,Northwest Territories,Human activity,21,19
-2000,Northwest Territories,Lightning,177796,252
-2000,Northwest Territories,Prescribed burn,18,1
-2000,Northwest Territories,Unspecified,1,3
-2001,Northwest Territories,Human activity,5,21
-2001,Northwest Territories,Lightning,116756,107
+2021,Newfoundland and Labrador,Natural cause,99,4
+2022,Newfoundland and Labrador,Human activity,555,101
+2022,Newfoundland and Labrador,Natural cause,14458,23
+2023,Newfoundland and Labrador,Human activity,133,90
+2023,Newfoundland and Labrador,Natural cause,16269,12
+2023,Newfoundland and Labrador,Unspecified,0,1
+2024,Newfoundland and Labrador,Human activity,34,63
+2024,Newfoundland and Labrador,Natural cause,68046,32
+2024,Newfoundland and Labrador,Unspecified,0,1
+2000,Northwest Territories,Human activity,23,14
+2000,Northwest Territories,Natural cause,177796,252
+2000,Northwest Territories,Unspecified,17,9
+2001,Northwest Territories,Human activity,5,19
+2001,Northwest Territories,Natural cause,116756,107
+2001,Northwest Territories,Unspecified,0,2
 2002,Northwest Territories,Human activity,18,12
-2002,Northwest Territories,Lightning,27068,70
+2002,Northwest Territories,Natural cause,27068,70
 2002,Northwest Territories,Unspecified,4,3
-2003,Northwest Territories,Human activity,9,12
-2003,Northwest Territories,Lightning,127812,148
-2004,Northwest Territories,Human activity,7638,35
-2004,Northwest Territories,Lightning,501430,254
-2004,Northwest Territories,Unspecified,8288,10
-2005,Northwest Territories,Human activity,9,16
-2005,Northwest Territories,Lightning,216865,239
-2005,Northwest Territories,Unspecified,1258,6
-2006,Northwest Territories,Human activity,69,23
-2006,Northwest Territories,Lightning,61312,140
-2006,Northwest Territories,Unspecified,16,4
-2007,Northwest Territories,Human activity,22183,37
-2007,Northwest Territories,Lightning,422924,141
-2007,Northwest Territories,Unspecified,22,6
-2008,Northwest Territories,Human activity,20,21
-2008,Northwest Territories,Lightning,308546,214
-2008,Northwest Territories,Unspecified,223,5
-2009,Northwest Territories,Human activity,23,15
-2009,Northwest Territories,Lightning,10314,44
-2009,Northwest Territories,Unspecified,0,1
-2010,Northwest Territories,Human activity,153,19
-2010,Northwest Territories,Lightning,350649,201
-2010,Northwest Territories,Unspecified,125,4
-2011,Northwest Territories,Human activity,151,25
-2011,Northwest Territories,Lightning,329462,168
-2011,Northwest Territories,Unspecified,71,8
+2003,Northwest Territories,Human activity,6,11
+2003,Northwest Territories,Natural cause,127812,148
+2003,Northwest Territories,Unspecified,3,1
+2004,Northwest Territories,Human activity,5805,24
+2004,Northwest Territories,Natural cause,501430,254
+2004,Northwest Territories,Unspecified,10120,21
+2005,Northwest Territories,Human activity,3,10
+2005,Northwest Territories,Natural cause,216865,239
+2005,Northwest Territories,Unspecified,1265,12
+2006,Northwest Territories,Human activity,12,18
+2006,Northwest Territories,Natural cause,61312,140
+2006,Northwest Territories,Unspecified,73,9
+2007,Northwest Territories,Human activity,22181,30
+2007,Northwest Territories,Natural cause,422924,141
+2007,Northwest Territories,Unspecified,24,13
+2008,Northwest Territories,Human activity,5,8
+2008,Northwest Territories,Natural cause,308547,214
+2008,Northwest Territories,Unspecified,238,18
+2009,Northwest Territories,Human activity,8,13
+2009,Northwest Territories,Natural cause,10314,44
+2009,Northwest Territories,Unspecified,15,3
+2010,Northwest Territories,Human activity,7,14
+2010,Northwest Territories,Natural cause,350649,201
+2010,Northwest Territories,Unspecified,270,9
+2011,Northwest Territories,Human activity,151,24
+2011,Northwest Territories,Natural cause,329462,168
+2011,Northwest Territories,Unspecified,71,9
 2012,Northwest Territories,Human activity,597,29
-2012,Northwest Territories,Lightning,301323,253
+2012,Northwest Territories,Natural cause,301323,253
 2012,Northwest Territories,Unspecified,2615,7
 2013,Northwest Territories,Human activity,1188,16
-2013,Northwest Territories,Lightning,553871,241
-2014,Northwest Territories,Human activity,10616,18
-2014,Northwest Territories,Lightning,3410696,370
-2015,Northwest Territories,Human activity,4,16
-2015,Northwest Territories,Lightning,722103,241
-2016,Northwest Territories,Human activity,7819,17
-2016,Northwest Territories,Lightning,247705,176
+2013,Northwest Territories,Natural cause,553871,241
+2014,Northwest Territories,Human activity,10616,17
+2014,Northwest Territories,Natural cause,3410696,370
+2014,Northwest Territories,Unspecified,1,1
+2015,Northwest Territories,Human activity,4,15
+2015,Northwest Territories,Natural cause,722103,242
+2016,Northwest Territories,Human activity,7819,16
+2016,Northwest Territories,Natural cause,247705,176
+2016,Northwest Territories,Unspecified,0,1
 2017,Northwest Territories,Human activity,11,19
-2017,Northwest Territories,Lightning,1033066,249
+2017,Northwest Territories,Natural cause,1033066,249
 2018,Northwest Territories,Human activity,170,6
-2018,Northwest Territories,Lightning,22007,57
+2018,Northwest Territories,Natural cause,19214,56
+2018,Northwest Territories,Unspecified,298,1
 2019,Northwest Territories,Human activity,5,20
-2019,Northwest Territories,Lightning,105163,126
+2019,Northwest Territories,Natural cause,105163,126
 2019,Northwest Territories,Unspecified,0,1
 2020,Northwest Territories,Human activity,371,19
-2020,Northwest Territories,Lightning,20768,51
+2020,Northwest Territories,Natural cause,20768,51
 2021,Northwest Territories,Human activity,9,17
-2021,Northwest Territories,Lightning,197480,133
-2021,Northwest Territories,Unspecified,63,1
+2021,Northwest Territories,Natural cause,197543,134
 2022,Northwest Territories,Human activity,59,33
 2022,Northwest Territories,Natural cause,603950,240
 2022,Northwest Territories,Unspecified,23,1
-2023,Northwest Territories,Unspecified,4163438,304
+2023,Northwest Territories,Human activity,3720,28
+2023,Northwest Territories,Natural cause,4233380,285
+2023,Northwest Territories,Unspecified,1821,2
+2024,Northwest Territories,Human activity,7339,28
+2024,Northwest Territories,Natural cause,1691704,150
 2000,Nova Scotia,Human activity,301,163
-2000,Nova Scotia,Lightning,2,8
+2000,Nova Scotia,Natural cause,2,8
 2000,Nova Scotia,Unspecified,185,41
 2001,Nova Scotia,Human activity,471,425
-2001,Nova Scotia,Lightning,8,16
+2001,Nova Scotia,Natural cause,8,16
 2001,Nova Scotia,Unspecified,50,48
 2002,Nova Scotia,Human activity,191,224
-2002,Nova Scotia,Lightning,10,16
+2002,Nova Scotia,Natural cause,10,16
 2002,Nova Scotia,Unspecified,11,30
 2003,Nova Scotia,Human activity,1236,254
-2003,Nova Scotia,Lightning,0,4
+2003,Nova Scotia,Natural cause,0,4
 2003,Nova Scotia,Unspecified,21,14
 2004,Nova Scotia,Human activity,288,250
-2004,Nova Scotia,Lightning,0,4
+2004,Nova Scotia,Natural cause,0,4
 2004,Nova Scotia,Unspecified,2,5
 2005,Nova Scotia,Human activity,472,261
-2005,Nova Scotia,Lightning,0,4
+2005,Nova Scotia,Natural cause,0,4
 2005,Nova Scotia,Unspecified,23,24
 2006,Nova Scotia,Human activity,1562,203
 2006,Nova Scotia,Unspecified,484,13
 2007,Nova Scotia,Human activity,510,324
-2007,Nova Scotia,Lightning,0,2
+2007,Nova Scotia,Natural cause,0,2
 2007,Nova Scotia,Unspecified,181,61
 2008,Nova Scotia,Human activity,2638,212
-2008,Nova Scotia,Lightning,0,1
+2008,Nova Scotia,Natural cause,0,1
 2008,Nova Scotia,Unspecified,62,35
-2009,Nova Scotia,Human activity,858,161
-2009,Nova Scotia,Prescribed burn,33,1
+2009,Nova Scotia,Human activity,891,162
 2009,Nova Scotia,Unspecified,25,29
-2010,Nova Scotia,Human activity,0,1
-2010,Nova Scotia,Prescribed burn,2,1
+2010,Nova Scotia,Human activity,3,2
 2010,Nova Scotia,Unspecified,436,248
 2011,Nova Scotia,Unspecified,150,114
-2012,Nova Scotia,Lightning,3,1
+2012,Nova Scotia,Natural cause,3,1
 2012,Nova Scotia,Unspecified,362,352
-2013,Nova Scotia,Human activity,295,157
-2013,Nova Scotia,Lightning,0,1
-2013,Nova Scotia,Prescribed burn,6,3
+2013,Nova Scotia,Human activity,301,160
+2013,Nova Scotia,Natural cause,0,1
 2013,Nova Scotia,Unspecified,6,13
 2014,Nova Scotia,Human activity,537,157
 2014,Nova Scotia,Unspecified,28,15
-2015,Nova Scotia,Human activity,512,236
-2015,Nova Scotia,Prescribed burn,34,1
+2015,Nova Scotia,Human activity,545,237
 2015,Nova Scotia,Unspecified,5,12
-2016,Nova Scotia,Human activity,775,246
-2016,Nova Scotia,Lightning,18,11
-2016,Nova Scotia,Prescribed burn,5,2
+2016,Nova Scotia,Human activity,779,248
+2016,Nova Scotia,Natural cause,18,11
 2016,Nova Scotia,Unspecified,10,12
-2017,Nova Scotia,Human activity,573,176
-2017,Nova Scotia,Prescribed burn,0,1
-2018,Nova Scotia,Human activity,196,189
-2018,Nova Scotia,Lightning,2,4
-2018,Nova Scotia,Prescribed burn,1,1
+2017,Nova Scotia,Human activity,573,177
+2018,Nova Scotia,Human activity,197,190
+2018,Nova Scotia,Natural cause,2,4
 2018,Nova Scotia,Unspecified,0,2
 2019,Nova Scotia,Human activity,134,137
-2019,Nova Scotia,Lightning,1,2
+2019,Nova Scotia,Natural cause,1,2
 2019,Nova Scotia,Unspecified,2,4
 2020,Nova Scotia,Human activity,678,161
-2020,Nova Scotia,Lightning,18,16
+2020,Nova Scotia,Natural cause,18,16
 2020,Nova Scotia,Unspecified,1,1
 2021,Nova Scotia,Human activity,192,107
-2021,Nova Scotia,Lightning,5,6
+2021,Nova Scotia,Natural cause,5,6
 2022,Nova Scotia,Human activity,3357,118
 2022,Nova Scotia,Natural cause,1,3
 2022,Nova Scotia,Unspecified,25,31
-2023,Nova Scotia,Unspecified,25093,220
+2023,Nova Scotia,Human activity,25036,219
+2023,Nova Scotia,Natural cause,57,1
+2024,Nova Scotia,Human activity,47,82
+2024,Nova Scotia,Natural cause,3,3
 2000,Ontario,Human activity,1421,443
-2000,Ontario,Lightning,5293,199
-2000,Ontario,Unspecified,65,11
-2001,Ontario,Human activity,1520,545
-2001,Ontario,Lightning,9256,1037
-2001,Ontario,Unspecified,90,14
+2000,Ontario,Natural cause,6343,201
+2000,Ontario,Unspecified,1505,15
+2001,Ontario,Human activity,1590,546
+2001,Ontario,Natural cause,14008,1047
+2001,Ontario,Unspecified,1124,19
 2002,Ontario,Human activity,2352,439
-2002,Ontario,Lightning,178042,703
+2002,Ontario,Natural cause,178042,703
 2002,Ontario,Unspecified,1851,21
 2003,Ontario,Human activity,8398,477
-2003,Ontario,Lightning,309985,519
-2003,Ontario,Unspecified,734,47
+2003,Ontario,Natural cause,309985,519
+2003,Ontario,Unspecified,835,48
 2004,Ontario,Human activity,1588,309
-2004,Ontario,Lightning,120,113
-2004,Ontario,Unspecified,10,13
+2004,Ontario,Natural cause,120,113
+2004,Ontario,Unspecified,210,15
 2005,Ontario,Human activity,3168,593
-2005,Ontario,Lightning,39139,1358
-2005,Ontario,Unspecified,44,27
+2005,Ontario,Natural cause,39139,1358
+2005,Ontario,Unspecified,218,30
 2006,Ontario,Human activity,2113,500
-2006,Ontario,Lightning,145303,1761
-2006,Ontario,Unspecified,2573,31
-2007,Ontario,Human activity,33191,565
-2007,Ontario,Lightning,6747,533
-2007,Ontario,Prescribed burn,25,1
+2006,Ontario,Natural cause,145303,1761
+2006,Ontario,Unspecified,2627,32
+2007,Ontario,Human activity,33217,566
+2007,Ontario,Natural cause,6747,533
 2007,Ontario,Unspecified,714,30
-2008,Ontario,Human activity,107,204
-2008,Ontario,Lightning,1194,118
-2008,Ontario,Prescribed burn,100,1
+2008,Ontario,Human activity,207,205
+2008,Ontario,Natural cause,1194,118
 2008,Ontario,Unspecified,17,21
-2009,Ontario,Human activity,375,251
-2009,Ontario,Lightning,20308,121
-2009,Ontario,Prescribed burn,1,1
-2009,Ontario,Unspecified,9,18
-2010,Ontario,Human activity,2609,541
-2010,Ontario,Lightning,10109,363
-2010,Ontario,Prescribed burn,7,1
-2010,Ontario,Unspecified,2111,28
-2011,Ontario,Human activity,1852,458
-2011,Ontario,Lightning,632087,847
-2011,Ontario,Prescribed burn,600,2
-2011,Ontario,Unspecified,1438,33
-2012,Ontario,Human activity,43439,614
-2012,Ontario,Lightning,107923,985
-2012,Ontario,Prescribed burn,1444,6
-2012,Ontario,Unspecified,236,30
-2013,Ontario,Human activity,824,330
-2013,Ontario,Lightning,50216,239
-2013,Ontario,Prescribed burn,1,1
+2009,Ontario,Human activity,376,252
+2009,Ontario,Natural cause,20308,121
+2009,Ontario,Unspecified,179,19
+2010,Ontario,Human activity,2616,542
+2010,Ontario,Natural cause,10109,363
+2010,Ontario,Unspecified,3354,31
+2011,Ontario,Human activity,2452,460
+2011,Ontario,Natural cause,632087,847
+2011,Ontario,Unspecified,1858,34
+2012,Ontario,Human activity,43676,619
+2012,Ontario,Natural cause,107978,986
+2012,Ontario,Unspecified,1443,31
+2013,Ontario,Human activity,824,331
+2013,Ontario,Natural cause,50215,239
 2013,Ontario,Unspecified,50,12
-2014,Ontario,Human activity,242,180
-2014,Ontario,Lightning,5144,117
-2014,Ontario,Prescribed burn,985,6
-2014,Ontario,Unspecified,1,6
-2015,Ontario,Human activity,1244,345
-2015,Ontario,Lightning,38064,319
-2015,Ontario,Prescribed burn,3421,4
-2015,Ontario,Unspecified,6,7
-2016,Ontario,Human activity,6116,454
-2016,Ontario,Lightning,76922,174
-2016,Ontario,Prescribed burn,3096,5
-2016,Ontario,Unspecified,76,24
-2017,Ontario,Human activity,87,209
-2017,Ontario,Lightning,112233,556
-2017,Ontario,Prescribed burn,445,4
-2017,Ontario,Unspecified,164,12
-2018,Ontario,Human activity,15994,378
-2018,Ontario,Lightning,249676,943
-2018,Ontario,Prescribed burn,7,6
-2018,Ontario,Unspecified,20,12
-2019,Ontario,Human activity,16274,278
-2019,Ontario,Lightning,253446,255
-2019,Ontario,Prescribed burn,1,2
-2019,Ontario,Unspecified,6,6
-2020,Ontario,Human activity,985,231
-2020,Ontario,Lightning,14471,368
-2020,Ontario,Prescribed burn,4,2
+2014,Ontario,Human activity,468,181
+2014,Ontario,Natural cause,5144,117
+2014,Ontario,Unspecified,760,11
+2015,Ontario,Human activity,1253,347
+2015,Ontario,Natural cause,38062,319
+2015,Ontario,Unspecified,3416,9
+2016,Ontario,Human activity,6117,457
+2016,Ontario,Natural cause,76921,174
+2016,Ontario,Unspecified,3172,26
+2017,Ontario,Human activity,88,210
+2017,Ontario,Natural cause,112233,556
+2017,Ontario,Unspecified,610,15
+2018,Ontario,Human activity,15899,383
+2018,Ontario,Natural cause,249676,943
+2018,Ontario,Unspecified,123,13
+2019,Ontario,Human activity,16184,279
+2019,Ontario,Natural cause,253446,255
+2019,Ontario,Unspecified,97,7
+2020,Ontario,Human activity,1006,234
+2020,Ontario,Natural cause,14472,368
 2020,Ontario,Unspecified,24,13
-2021,Ontario,Human activity,5536,262
-2021,Ontario,Lightning,779024,934
-2021,Ontario,Prescribed burn,2,4
-2021,Ontario,Unspecified,6,6
-2022,Ontario,Human activity,2288,186
+2021,Ontario,Human activity,5462,265
+2021,Ontario,Natural cause,779020,934
+2021,Ontario,Unspecified,82,7
+2022,Ontario,Human activity,2289,188
 2022,Ontario,Natural cause,270,88
-2022,Ontario,Prescribed burn,1,2
 2022,Ontario,Unspecified,68,5
-2023,Ontario,Unspecified,441474,743
+2023,Ontario,Human activity,7458,159
+2023,Ontario,Natural cause,433249,592
+2023,Ontario,Unspecified,903,9
+2024,Ontario,Human activity,1332,239
+2024,Ontario,Natural cause,89231,242
+2024,Ontario,Unspecified,36,17
 2000,Prince Edward Island,Human activity,0,0
 2000,Prince Edward Island,Lightning,0,0
 2000,Prince Edward Island,Unspecified,0,0
@@ -632,204 +592,178 @@
 2017,Prince Edward Island,Human activity,0,4
 2017,Prince Edward Island,Lightning,0,0
 2017,Prince Edward Island,Unspecified,7,0
-2018,Prince Edward Island,Human activity,0,0
-2018,Prince Edward Island,Lightning,0,0
-2018,Prince Edward Island,Unspecified,0,0
-2019,Prince Edward Island,Human activity,0,0
-2019,Prince Edward Island,Lightning,0,0
-2019,Prince Edward Island,Unspecified,0,0
-2020,Prince Edward Island,Human activity,0,0
-2020,Prince Edward Island,Lightning,0,0
-2020,Prince Edward Island,Unspecified,0,0
-2021,Prince Edward Island,Human activity,0,0
-2021,Prince Edward Island,Lightning,0,0
-2021,Prince Edward Island,Unspecified,0,0
-2022,Prince Edward Island,Human activity,0,0
-2022,Prince Edward Island,Lightning,0,0
-2022,Prince Edward Island,Unspecified,0,0
-2023,Prince Edward Island,Unspecified,8,8
+2018,Prince Edward Island,Human activity,7,8
+2019,Prince Edward Island,Human activity,14,3
+2020,Prince Edward Island,Human activity,11,12
+2021,Prince Edward Island,Human activity,0,1
+2022,Prince Edward Island,Human activity,1,4
+2023,Prince Edward Island,Human activity,8,7
+2024,Prince Edward Island,Human activity,18,8
 2000,Quebec,Human activity,673,412
-2000,Quebec,Lightning,38536,105
+2000,Quebec,Natural cause,38536,105
 2001,Quebec,Human activity,5901,740
-2001,Quebec,Lightning,27191,265
+2001,Quebec,Natural cause,27191,265
 2002,Quebec,Human activity,5943,572
-2002,Quebec,Lightning,1007807,327
+2002,Quebec,Natural cause,1007807,327
 2003,Quebec,Human activity,9783,526
-2003,Quebec,Lightning,78462,194
+2003,Quebec,Natural cause,78462,194
 2004,Quebec,Human activity,816,280
-2004,Quebec,Lightning,2242,42
+2004,Quebec,Natural cause,2242,42
 2005,Quebec,Human activity,33370,550
-2005,Quebec,Lightning,766771,825
+2005,Quebec,Natural cause,766771,825
 2006,Quebec,Human activity,65212,385
-2006,Quebec,Lightning,71141,299
+2006,Quebec,Natural cause,71141,299
 2007,Quebec,Human activity,120758,510
-2007,Quebec,Lightning,221957,429
-2008,Quebec,Human activity,148,188
-2008,Quebec,Lightning,1333,34
-2008,Quebec,Prescribed burn,115,1
-2009,Quebec,Human activity,2246,338
-2009,Quebec,Lightning,91725,145
-2009,Quebec,Prescribed burn,29,2
-2010,Quebec,Human activity,36000,497
-2010,Quebec,Lightning,278884,242
-2010,Quebec,Prescribed burn,30,1
-2011,Quebec,Human activity,2273,232
-2011,Quebec,Lightning,10125,98
-2011,Quebec,Prescribed burn,1,1
-2012,Quebec,Human activity,24782,522
-2012,Quebec,Lightning,39261,274
-2012,Quebec,Prescribed burn,1,2
+2007,Quebec,Natural cause,221957,429
+2008,Quebec,Human activity,263,189
+2008,Quebec,Natural cause,1333,34
+2009,Quebec,Human activity,2275,340
+2009,Quebec,Natural cause,91725,145
+2010,Quebec,Human activity,36030,498
+2010,Quebec,Natural cause,278884,242
+2011,Quebec,Human activity,2274,233
+2011,Quebec,Natural cause,10125,98
+2012,Quebec,Human activity,24783,524
+2012,Quebec,Natural cause,39261,274
 2013,Quebec,Human activity,17131,377
-2013,Quebec,Lightning,1855712,151
-2014,Quebec,Human activity,8417,225
-2014,Quebec,Lightning,55304,68
-2014,Quebec,Prescribed burn,182,3
-2015,Quebec,Human activity,1461,340
-2015,Quebec,Lightning,3919,46
-2015,Quebec,Prescribed burn,778,6
-2016,Quebec,Human activity,334,433
-2016,Quebec,Lightning,33036,171
-2016,Quebec,Prescribed burn,563,3
-2017,Quebec,Human activity,1693,236
-2017,Quebec,Lightning,36699,83
-2017,Quebec,Prescribed burn,53,3
-2018,Quebec,Human activity,15772,400
-2018,Quebec,Lightning,70489,194
-2018,Quebec,Prescribed burn,55,2
+2013,Quebec,Natural cause,1855712,151
+2014,Quebec,Human activity,8599,228
+2014,Quebec,Natural cause,55304,68
+2015,Quebec,Human activity,2239,346
+2015,Quebec,Natural cause,3919,46
+2016,Quebec,Human activity,897,436
+2016,Quebec,Natural cause,33036,171
+2017,Quebec,Human activity,1746,239
+2017,Quebec,Natural cause,36699,83
+2018,Quebec,Human activity,15827,402
+2018,Quebec,Natural cause,70489,194
 2018,Quebec,Unspecified,1,1
-2019,Quebec,Human activity,5087,276
-2019,Quebec,Lightning,4517,81
-2019,Quebec,Prescribed burn,89,5
-2020,Quebec,Human activity,52090,572
-2020,Quebec,Lightning,7897,138
-2020,Quebec,Prescribed burn,15,2
-2021,Quebec,Human activity,1113,517
-2021,Quebec,Lightning,48370,109
-2021,Quebec,Prescribed burn,220,2
+2019,Quebec,Human activity,5177,281
+2019,Quebec,Natural cause,4517,81
+2020,Quebec,Human activity,52104,574
+2020,Quebec,Natural cause,7897,138
+2021,Quebec,Human activity,1334,519
+2021,Quebec,Natural cause,48370,109
 2021,Quebec,Unspecified,4,1
-2022,Quebec,Human activity,19246,413
+2022,Quebec,Human activity,19322,414
 2022,Quebec,Natural cause,10393,39
-2022,Quebec,Prescribed burn,76,1
-2023,Quebec,Unspecified,4322888,713
+2023,Quebec,Human activity,31060,337
+2023,Quebec,Natural cause,4257203,377
+2024,Quebec,Human activity,570,271
+2024,Quebec,Natural cause,264630,249
 2000,Saskatchewan,Human activity,10795,240
-2000,Saskatchewan,Lightning,130628,182
+2000,Saskatchewan,Natural cause,130628,182
 2001,Saskatchewan,Human activity,39409,547
-2001,Saskatchewan,Lightning,165725,328
+2001,Saskatchewan,Natural cause,165725,328
 2002,Saskatchewan,Human activity,101682,447
-2002,Saskatchewan,Lightning,780975,450
+2002,Saskatchewan,Natural cause,780975,450
 2003,Saskatchewan,Human activity,12884,299
-2003,Saskatchewan,Lightning,113205,359
+2003,Saskatchewan,Natural cause,113205,359
 2004,Saskatchewan,Human activity,7407,166
-2004,Saskatchewan,Lightning,250726,165
+2004,Saskatchewan,Natural cause,250726,165
 2004,Saskatchewan,Unspecified,5,1
 2005,Saskatchewan,Human activity,9333,137
-2005,Saskatchewan,Lightning,205584,199
+2005,Saskatchewan,Natural cause,205584,199
 2005,Saskatchewan,Unspecified,1,2
 2006,Saskatchewan,Human activity,182546,173
-2006,Saskatchewan,Lightning,1025561,349
+2006,Saskatchewan,Natural cause,1025561,349
 2006,Saskatchewan,Unspecified,328,3
 2007,Saskatchewan,Human activity,4768,239
-2007,Saskatchewan,Lightning,208305,135
-2008,Saskatchewan,Human activity,31062,319
-2008,Saskatchewan,Lightning,1099182,285
-2008,Saskatchewan,Prescribed burn,76,6
-2009,Saskatchewan,Human activity,4922,334
-2009,Saskatchewan,Lightning,37655,202
-2009,Saskatchewan,Prescribed burn,1231,4
+2007,Saskatchewan,Natural cause,208305,135
+2008,Saskatchewan,Human activity,31138,325
+2008,Saskatchewan,Natural cause,1099182,285
+2009,Saskatchewan,Human activity,6153,338
+2009,Saskatchewan,Natural cause,37655,202
 2009,Saskatchewan,Unspecified,1,2
-2010,Saskatchewan,Human activity,208262,233
-2010,Saskatchewan,Lightning,1526789,345
-2010,Saskatchewan,Prescribed burn,285,4
-2011,Saskatchewan,Human activity,55506,241
-2011,Saskatchewan,Lightning,288342,66
-2011,Saskatchewan,Prescribed burn,240,1
-2012,Saskatchewan,Human activity,6861,215
-2012,Saskatchewan,Lightning,220914,204
-2012,Saskatchewan,Prescribed burn,1180,7
+2010,Saskatchewan,Human activity,208547,237
+2010,Saskatchewan,Natural cause,1526789,345
+2011,Saskatchewan,Human activity,55746,242
+2011,Saskatchewan,Natural cause,288342,66
+2012,Saskatchewan,Human activity,8041,222
+2012,Saskatchewan,Natural cause,220914,204
 2012,Saskatchewan,Unspecified,1,2
-2013,Saskatchewan,Human activity,12218,281
-2013,Saskatchewan,Lightning,356635,160
-2013,Saskatchewan,Prescribed burn,906,7
+2013,Saskatchewan,Human activity,13124,288
+2013,Saskatchewan,Natural cause,356635,160
 2013,Saskatchewan,Unspecified,0,1
-2014,Saskatchewan,Human activity,15530,209
-2014,Saskatchewan,Lightning,327254,194
-2014,Saskatchewan,Prescribed burn,2425,2
-2015,Saskatchewan,Human activity,41757,344
-2015,Saskatchewan,Lightning,1725597,384
-2015,Saskatchewan,Prescribed burn,1673,7
-2016,Saskatchewan,Human activity,2774,232
-2016,Saskatchewan,Lightning,251991,171
-2016,Saskatchewan,Prescribed burn,1025,4
+2014,Saskatchewan,Human activity,17955,211
+2014,Saskatchewan,Natural cause,327254,194
+2015,Saskatchewan,Human activity,43431,351
+2015,Saskatchewan,Natural cause,1725597,384
+2016,Saskatchewan,Human activity,3799,236
+2016,Saskatchewan,Natural cause,251991,171
 2016,Saskatchewan,Unspecified,0,1
-2017,Saskatchewan,Human activity,451,195
-2017,Saskatchewan,Lightning,398567,169
-2017,Saskatchewan,Prescribed burn,780,4
-2018,Saskatchewan,Human activity,47161,276
-2018,Saskatchewan,Lightning,108916,170
-2018,Saskatchewan,Prescribed burn,36656,5
+2017,Saskatchewan,Human activity,1231,199
+2017,Saskatchewan,Natural cause,398567,169
+2018,Saskatchewan,Human activity,83817,281
+2018,Saskatchewan,Natural cause,108916,170
 2018,Saskatchewan,Unspecified,0,1
 2019,Saskatchewan,Human activity,1531,178
-2019,Saskatchewan,Lightning,46622,73
+2019,Saskatchewan,Natural cause,46622,73
 2019,Saskatchewan,Unspecified,0,7
 2020,Saskatchewan,Human activity,41398,136
-2020,Saskatchewan,Lightning,780,24
+2020,Saskatchewan,Natural cause,780,24
 2020,Saskatchewan,Unspecified,774,41
-2021,Saskatchewan,Human activity,6822,256
-2021,Saskatchewan,Lightning,949453,381
-2021,Saskatchewan,Prescribed burn,128,3
+2021,Saskatchewan,Human activity,6951,259
+2021,Saskatchewan,Natural cause,949453,381
 2021,Saskatchewan,Unspecified,1,2
-2022,Saskatchewan,Human activity,13287,240
+2022,Saskatchewan,Human activity,13327,241
 2022,Saskatchewan,Natural cause,252286,207
-2022,Saskatchewan,Prescribed burn,40,1
 2022,Saskatchewan,Unspecified,0,2
-2023,Saskatchewan,Unspecified,1850829,462
+2023,Saskatchewan,Human activity,309489,282
+2023,Saskatchewan,Natural cause,1573578,207
+2024,Saskatchewan,Human activity,19796,315
+2024,Saskatchewan,Natural cause,916950,290
 2000,Yukon,Human activity,10,31
-2000,Yukon,Lightning,7643,23
+2000,Yukon,Natural cause,7643,23
 2000,Yukon,Unspecified,363,1
 2001,Yukon,Human activity,7,18
-2001,Yukon,Lightning,17328,50
+2001,Yukon,Natural cause,17328,50
 2002,Yukon,Human activity,23,39
-2002,Yukon,Lightning,36181,31
+2002,Yukon,Natural cause,36181,31
 2003,Yukon,Human activity,2940,48
-2003,Yukon,Lightning,45845,29
+2003,Yukon,Natural cause,45845,29
 2004,Yukon,Human activity,11631,33
-2004,Yukon,Lightning,1708033,249
+2004,Yukon,Natural cause,1708033,249
 2005,Yukon,Human activity,2,26
-2005,Yukon,Lightning,187437,57
+2005,Yukon,Natural cause,187437,57
 2006,Yukon,Human activity,4,26
-2006,Yukon,Lightning,95029,54
+2006,Yukon,Natural cause,95029,54
 2007,Yukon,Human activity,13989,20
-2007,Yukon,Lightning,24369,91
+2007,Yukon,Natural cause,24369,91
 2008,Yukon,Human activity,12,27
-2008,Yukon,Lightning,13056,49
+2008,Yukon,Natural cause,13056,49
 2009,Yukon,Human activity,3,33
-2009,Yukon,Lightning,230509,85
+2009,Yukon,Natural cause,230509,85
 2010,Yukon,Human activity,5262,39
-2010,Yukon,Lightning,141702,50
+2010,Yukon,Natural cause,141702,50
 2011,Yukon,Human activity,120,16
-2011,Yukon,Lightning,40344,40
+2011,Yukon,Natural cause,40344,40
 2012,Yukon,Human activity,7,35
-2012,Yukon,Lightning,58274,92
+2012,Yukon,Natural cause,58274,92
 2013,Yukon,Human activity,6,21
-2013,Yukon,Lightning,198307,156
+2013,Yukon,Natural cause,198307,156
 2014,Yukon,Human activity,24,18
-2014,Yukon,Lightning,3137,16
+2014,Yukon,Natural cause,3137,16
 2015,Yukon,Human activity,42,24
-2015,Yukon,Lightning,169801,162
+2015,Yukon,Natural cause,169801,162
 2016,Yukon,Human activity,2,24
-2016,Yukon,Lightning,21535,29
+2016,Yukon,Natural cause,21535,29
 2017,Yukon,Human activity,19,22
-2017,Yukon,Lightning,399261,93
+2017,Yukon,Natural cause,399261,93
 2018,Yukon,Human activity,6487,18
-2018,Yukon,Lightning,74098,33
+2018,Yukon,Natural cause,74098,33
 2019,Yukon,Human activity,1331,33
-2019,Yukon,Lightning,254735,85
+2019,Yukon,Natural cause,254735,85
 2020,Yukon,Human activity,12,11
-2020,Yukon,Lightning,3452,13
+2020,Yukon,Natural cause,3452,13
 2021,Yukon,Human activity,23,15
-2021,Yukon,Lightning,14252,98
+2021,Yukon,Natural cause,14252,98
 2021,Yukon,Unspecified,200,1
-2022,Yukon,Prescribed burn,10,7
+2022,Yukon,Human activity,10,7
 2022,Yukon,Unspecified,170357,282
-2023,Yukon,Unspecified,373920,218
-2023,Parks Canada,Unspecified,1014742,117
+2023,Yukon,Human activity,414,25
+2023,Yukon,Natural cause,102780,73
+2023,Yukon,Unspecified,425631,125
+2024,Yukon,Human activity,582,15
+2024,Yukon,Natural cause,178363,121
+2024,Yukon,Unspecified,30932,33

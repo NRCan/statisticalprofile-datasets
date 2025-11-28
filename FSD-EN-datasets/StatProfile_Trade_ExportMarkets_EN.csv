@@ -1,4 +1,16 @@
 ﻿Year,Jurisdiction,Export market,Value (dollars)
+2000,Canada,Africa,36157187
+2000,Canada,China,648839044
+2000,Canada,European Union,3869675367
+2000,Canada,India,172059229
+2000,Canada,Japan,3535494151
+2000,Canada,Middle East,256294620
+2000,Canada,Oceania,227963101
+2000,Canada,Other,896097955
+2000,Canada,South & Central America,776179882
+2000,Canada,South Korea,689817193
+2000,Canada,Taiwan,339684328
+2000,Canada,United States,36272393177
 2001,Canada,Africa,30672286
 2001,Canada,China,655770766
 2001,Canada,European Union,2962037138
@@ -252,26 +264,38 @@
 2021,Canada,Taiwan,229787707
 2021,Canada,United States,34828419922
 2022,Canada,Africa,33656597
-2022,Canada,China,3809068656
+2022,Canada,China,3809068657
 2022,Canada,European Union,1041756121
 2022,Canada,India,872766530
 2022,Canada,Japan,1799732848
 2022,Canada,Middle East,133601870
-2022,Canada,Oceania,174684018
+2022,Canada,Oceania,174684019
 2022,Canada,Other,1180460661
 2022,Canada,South & Central America,585385674
 2022,Canada,South Korea,548736294
 2022,Canada,Taiwan,196670900
-2022,Canada,United States,35195267134
-2023,Canada,Africa,66734888
-2023,Canada,China,3771181451
-2023,Canada,European Union,901514118
-2023,Canada,India,737701673
-2023,Canada,Japan,1169284230
-2023,Canada,Middle East,118488312
-2023,Canada,Oceania,78403177
-2023,Canada,Other,891649239
-2023,Canada,South & Central America,432117081
-2023,Canada,South Korea,430951505
-2023,Canada,Taiwan,143544190
-2023,Canada,United States,27470614961
+2022,Canada,United States,35189959090
+2023,Canada,Africa,66763907
+2023,Canada,China,3775592601
+2023,Canada,European Union,918822450
+2023,Canada,India,738458138
+2023,Canada,Japan,1182195103
+2023,Canada,Middle East,123420722
+2023,Canada,Oceania,78562736
+2023,Canada,Other,897284409
+2023,Canada,South & Central America,433776306
+2023,Canada,South Korea,431432856
+2023,Canada,Taiwan,144031236
+2023,Canada,United States,27461825923
+2024,Canada,Africa,82823095
+2024,Canada,China,3673975121
+2024,Canada,European Union,976147829
+2024,Canada,India,837804878
+2024,Canada,Japan,1077535871
+2024,Canada,Middle East,104499043
+2024,Canada,Oceania,103050088
+2024,Canada,Other,959755571
+2024,Canada,South & Central America,386950608
+2024,Canada,South Korea,443605183
+2024,Canada,Taiwan,129931562
+2024,Canada,United States,28470005278

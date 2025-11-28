@@ -1,111 +1,126 @@
 ﻿Année,Juridiction,Produit,Quantité (litres)
-2001,Canada,Grumes,1179956
-2001,Nouveau-Brunswick,Grumes,17401
-2001,Nouvelle-Écosse,Grumes,4626
-2001,Ontario,Grumes,48899
-2001,Québec,Grumes,1109031
-2002,Canada,Grumes,1323789
-2002,Nouveau-Brunswick,Grumes,32379
-2002,Nouvelle-Écosse,Grumes,5286
-2002,Ontario,Grumes,50441
-2002,Québec,Grumes,1235683
-2003,Canada,Grumes,1552863
-2003,Nouveau-Brunswick,Grumes,35022
-2003,Nouvelle-Écosse,Grumes,6608
-2003,Ontario,Grumes,48018
-2003,Québec,Grumes,1463216
-2004,Canada,Grumes,1604405
-2004,Nouveau-Brunswick,Grumes,38546
-2004,Nouvelle-Écosse,Grumes,4846
-2004,Ontario,Grumes,48018
-2004,Québec,Grumes,1512996
-2005,Canada,Grumes,1361674
-2005,Nouveau-Brunswick,Grumes,45374
-2005,Nouvelle-Écosse,Grumes,4626
-2005,Ontario,Grumes,48018
-2005,Québec,Grumes,1263656
-2006,Canada,Grumes,1306828
-2006,Nouveau-Brunswick,Grumes,55947
-2006,Nouvelle-Écosse,Grumes,5727
-2006,Ontario,Grumes,48018
-2006,Québec,Grumes,1197137
-2007,Canada,Grumes,1185903
-2007,Nouveau-Brunswick,Grumes,49780
-2007,Nouvelle-Écosse,Grumes,5947
-2007,Ontario,Grumes,49339
-2007,Québec,Grumes,1080837
-2008,Canada,Grumes,1130396
-2008,Nouveau-Brunswick,Grumes,37225
-2008,Nouvelle-Écosse,Grumes,4626
-2008,Ontario,Grumes,57709
-2008,Québec,Grumes,1030837
-2009,Canada,Grumes,1999559
-2009,Nouveau-Brunswick,Grumes,85022
-2009,Nouvelle-Écosse,Grumes,4185
-2009,Ontario,Grumes,91850
-2009,Québec,Grumes,1818502
-2010,Canada,Grumes,1602203
-2010,Nouveau-Brunswick,Grumes,68062
-2010,Nouvelle-Écosse,Grumes,6167
-2010,Ontario,Grumes,63436
-2010,Québec,Grumes,1464537
-2011,Canada,Grumes,1883260
-2011,Nouveau-Brunswick,Grumes,75110
-2011,Nouvelle-Écosse,Grumes,6828
-2011,Ontario,Grumes,107489
-2011,Québec,Grumes,1693833
-2012,Canada,Grumes,1730176
-2012,Nouveau-Brunswick,Grumes,76652
-2012,Nouvelle-Écosse,Grumes,5507
-2012,Ontario,Grumes,49559
-2012,Québec,Grumes,1598458
-2013,Canada,Grumes,2214317
-2013,Nouveau-Brunswick,Grumes,106608
-2013,Nouvelle-Écosse,Grumes,8150
-2013,Ontario,Grumes,98899
-2013,Québec,Grumes,2000661
-2014,Canada,Grumes,2088767
-2014,Nouveau-Brunswick,Grumes,110573
-2014,Nouvelle-Écosse,Grumes,6388
-2014,Ontario,Grumes,81057
-2014,Québec,Grumes,1890749
-2015,Canada,Grumes,1962115
-2015,Nouveau-Brunswick,Grumes,94714
-2015,Nouvelle-Écosse,Grumes,4185
-2015,Ontario,Grumes,81278
-2015,Québec,Grumes,1781938
-2016,Canada,Grumes,2678194
-2016,Nouveau-Brunswick,Grumes,116300
-2016,Nouvelle-Écosse,Grumes,10573
-2016,Ontario,Grumes,87665
-2016,Québec,Grumes,2463656
-2017,Canada,Grumes,2755947
-2017,Nouveau-Brunswick,Grumes,121366
-2017,Nouvelle-Écosse,Grumes,9471
-2017,Ontario,Grumes,93612
-2017,Québec,Grumes,2531498
-2018,Canada,Grumes,2157489
-2018,Nouveau-Brunswick,Grumes,79515
-2018,Nouvelle-Écosse,Grumes,12115
-2018,Ontario,Grumes,102423
-2018,Québec,Grumes,1963436
-2019,Canada,Grumes,2908150
-2019,Nouveau-Brunswick,Grumes,131718
-2019,Nouvelle-Écosse,Grumes,15419
-2019,Ontario,Grumes,110573
-2019,Québec,Grumes,2650441
-2020,Canada,Grumes,3150661
-2020,Nouveau-Brunswick,Grumes,123568
-2020,Nouvelle-Écosse,Grumes,12335
-2020,Ontario,Grumes,102863
-2020,Québec,Grumes,2911894
-2021,Canada,Grumes,2491410
-2021,Nouveau-Brunswick,Grumes,173128
-2021,Nouvelle-Écosse,Grumes,7930
-2021,Ontario,Grumes,101762
-2021,Québec,Grumes,2208590
-2022,Canada,Grumes,3821806
-2022,Nouveau-Brunswick,Grumes,178634
-2022,Nouvelle-Écosse,Grumes,0
-2022,Ontario,Grumes,129956
-2022,Québec,Grumes,3513216
+2000,Canada,"Produits de l'érable exprimés en sirop",1612115
+2000,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",16520
+2000,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",0
+2000,Ontario,"Produits de l'érable exprimés en sirop",81718
+2000,Québec,"Produits de l'érable exprimés en sirop",1513877
+2001,Canada,"Produits de l'érable exprimés en sirop",1179956
+2001,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",17401
+2001,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",4626
+2001,Ontario,"Produits de l'érable exprimés en sirop",48899
+2001,Québec,"Produits de l'érable exprimés en sirop",1109031
+2002,Canada,"Produits de l'érable exprimés en sirop",1323789
+2002,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",32379
+2002,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",5286
+2002,Ontario,"Produits de l'érable exprimés en sirop",50441
+2002,Québec,"Produits de l'érable exprimés en sirop",1235683
+2003,Canada,"Produits de l'érable exprimés en sirop",1552863
+2003,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",35022
+2003,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",6608
+2003,Ontario,"Produits de l'érable exprimés en sirop",48018
+2003,Québec,"Produits de l'érable exprimés en sirop",1463216
+2004,Canada,"Produits de l'érable exprimés en sirop",1604405
+2004,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",38546
+2004,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",4846
+2004,Ontario,"Produits de l'érable exprimés en sirop",48018
+2004,Québec,"Produits de l'érable exprimés en sirop",1512996
+2005,Canada,"Produits de l'érable exprimés en sirop",1361674
+2005,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",45374
+2005,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",4626
+2005,Ontario,"Produits de l'érable exprimés en sirop",48018
+2005,Québec,"Produits de l'érable exprimés en sirop",1263656
+2006,Canada,"Produits de l'érable exprimés en sirop",1306828
+2006,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",55947
+2006,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",5727
+2006,Ontario,"Produits de l'érable exprimés en sirop",48018
+2006,Québec,"Produits de l'érable exprimés en sirop",1197137
+2007,Canada,"Produits de l'érable exprimés en sirop",1185903
+2007,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",49780
+2007,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",5947
+2007,Ontario,"Produits de l'érable exprimés en sirop",49339
+2007,Québec,"Produits de l'érable exprimés en sirop",1080837
+2008,Canada,"Produits de l'érable exprimés en sirop",1130396
+2008,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",37225
+2008,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",4626
+2008,Ontario,"Produits de l'érable exprimés en sirop",57709
+2008,Québec,"Produits de l'érable exprimés en sirop",1030837
+2009,Canada,"Produits de l'érable exprimés en sirop",1999559
+2009,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",85022
+2009,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",4185
+2009,Ontario,"Produits de l'érable exprimés en sirop",91850
+2009,Québec,"Produits de l'érable exprimés en sirop",1818502
+2010,Canada,"Produits de l'érable exprimés en sirop",1602203
+2010,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",68062
+2010,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",6167
+2010,Ontario,"Produits de l'érable exprimés en sirop",63436
+2010,Québec,"Produits de l'érable exprimés en sirop",1464537
+2011,Canada,"Produits de l'érable exprimés en sirop",1883260
+2011,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",75110
+2011,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",6828
+2011,Ontario,"Produits de l'érable exprimés en sirop",107489
+2011,Québec,"Produits de l'érable exprimés en sirop",1693833
+2012,Canada,"Produits de l'érable exprimés en sirop",1730176
+2012,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",76652
+2012,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",5507
+2012,Ontario,"Produits de l'érable exprimés en sirop",49559
+2012,Québec,"Produits de l'érable exprimés en sirop",1598458
+2013,Canada,"Produits de l'érable exprimés en sirop",2214317
+2013,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",106608
+2013,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",8150
+2013,Ontario,"Produits de l'érable exprimés en sirop",98899
+2013,Québec,"Produits de l'érable exprimés en sirop",2000661
+2014,Canada,"Produits de l'érable exprimés en sirop",2088767
+2014,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",110573
+2014,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",6388
+2014,Ontario,"Produits de l'érable exprimés en sirop",81057
+2014,Québec,"Produits de l'érable exprimés en sirop",1890749
+2015,Canada,"Produits de l'érable exprimés en sirop",1962115
+2015,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",94714
+2015,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",4185
+2015,Ontario,"Produits de l'érable exprimés en sirop",81278
+2015,Québec,"Produits de l'érable exprimés en sirop",1781938
+2016,Canada,"Produits de l'érable exprimés en sirop",2678194
+2016,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",116300
+2016,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",10573
+2016,Ontario,"Produits de l'érable exprimés en sirop",87665
+2016,Québec,"Produits de l'érable exprimés en sirop",2463656
+2017,Canada,"Produits de l'érable exprimés en sirop",2755947
+2017,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",121366
+2017,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",9471
+2017,Ontario,"Produits de l'érable exprimés en sirop",93612
+2017,Québec,"Produits de l'érable exprimés en sirop",2531498
+2018,Canada,"Produits de l'érable exprimés en sirop",2157489
+2018,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",79515
+2018,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",12115
+2018,Ontario,"Produits de l'érable exprimés en sirop",102423
+2018,Québec,"Produits de l'érable exprimés en sirop",1963436
+2019,Canada,"Produits de l'érable exprimés en sirop",2908150
+2019,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",131718
+2019,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",15419
+2019,Ontario,"Produits de l'érable exprimés en sirop",110573
+2019,Québec,"Produits de l'érable exprimés en sirop",2650441
+2020,Canada,"Produits de l'érable exprimés en sirop",3150661
+2020,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",123568
+2020,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",12335
+2020,Ontario,"Produits de l'érable exprimés en sirop",102863
+2020,Québec,"Produits de l'érable exprimés en sirop",2911894
+2021,Canada,"Produits de l'érable exprimés en sirop",2491410
+2021,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",173128
+2021,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",7930
+2021,Ontario,"Produits de l'érable exprimés en sirop",101762
+2021,Québec,"Produits de l'érable exprimés en sirop",2208590
+2022,Canada,"Produits de l'érable exprimés en sirop",3821806
+2022,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",178634
+2022,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",0
+2022,Ontario,"Produits de l'érable exprimés en sirop",129956
+2022,Québec,"Produits de l'érable exprimés en sirop",3513216
+2023,Canada,"Produits de l'érable exprimés en sirop",2294053
+2023,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",116079
+2023,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",0
+2023,Ontario,"Produits de l'érable exprimés en sirop",110573
+2023,Québec,"Produits de l'érable exprimés en sirop",2067401
+2024,Canada,"Produits de l'érable exprimés en sirop",4382599
+2024,Nouveau-Brunswick,"Produits de l'érable exprimés en sirop",265639
+2024,Nouvelle-Écosse,"Produits de l'érable exprimés en sirop",9471
+2024,Ontario,"Produits de l'érable exprimés en sirop",133700
+2024,Québec,"Produits de l'érable exprimés en sirop",3973789

@@ -1,139 +1,139 @@
 ﻿Écozone terrestre,"Genre d'arbre prédominant",Pourcentage
-Canada,Bouleau,3.27110097092484e-02
-Canada,Cèdre et autres conifères,2.99788821380085e-02
-Canada,Douglas,3.71947379424216e-02
-Canada,Sapin,8.39574643048232e-02
-Canada,Pruche,6.27390420015877e-02
-Canada,Mélèze,1.50528390689526e-02
-Canada,Érable,3.03998912368596e-02
-Canada,Autres feuillus,5.26647539310592e-03
-Canada,Pin,0.118936062861573
-Canada,Peuplier,0.134968858926008
-Canada,Épinette,0.440220972490731
-Canada,Non classé,2.61511836736747e-04
-Canada,Conifères non spécifiés,5.70181094637807e-03
-Canada,Feuils non spécifiés,2.61044114356471e-03
-Atlantique maritime,Bouleau,8.08282494889843e-02
-Atlantique maritime,Cèdre et autres conifères,2.52067048237472e-02
-Atlantique maritime,Sapin,0.25550276426781
-Atlantique maritime,Pruche,3.13203198062366e-03
-Atlantique maritime,Mélèze,8.48225770052666e-03
-Atlantique maritime,Érable,0.215223300646281
-Atlantique maritime,Autres feuillus,5.75792387838893e-03
-Atlantique maritime,Pin,2.48027214548602e-02
-Atlantique maritime,Peuplier,7.12166957503736e-02
-Atlantique maritime,Épinette,0.265274053959176
-Atlantique maritime,Non classé,1.04292717990819e-03
-Atlantique maritime,Conifères non spécifiés,3.29265019590872e-02
-Atlantique maritime,Feuils non spécifiés,1.0603866910233e-02
-Cordillère boréale,Bouleau,1.08424486316867e-02
-Cordillère boréale,Sapin,0.108921700798031
-Cordillère boréale,Mélèze,8.11263656722257e-04
-Cordillère boréale,Pin,0.251873207783372
-Cordillère boréale,Peuplier,8.30827730506146e-02
-Cordillère boréale,Épinette,0.544468606079574
-Cordillère boréale,Non classé,0
-Plaines boréales,Bouleau,1.38946815899648e-02
-Plaines boréales,Cèdre et autres conifères,6.26865447092974e-06
-Plaines boréales,Sapin,2.70025773921116e-03
-Plaines boréales,Mélèze,3.68027131850978e-02
-Plaines boréales,Érable,5.452336355382e-04
-Plaines boréales,Autres feuillus,1.69810884445852e-04
-Plaines boréales,Pin,0.138989024839752
-Plaines boréales,Peuplier,0.423750873084264
-Plaines boréales,Épinette,0.383140718476957
+Canada,Bouleau,0.03294685
+Canada,Cèdre et autres conifères,0.030582828
+Canada,Douglas,0.037895633
+Canada,Sapin,0.083666221
+Canada,Pruche,0.06231167
+Canada,Mélèze,0.015018318
+Canada,Érable,0.030272531
+Canada,Autres feuillus,0.005253931
+Canada,Pin,0.118480416
+Canada,Peuplier,0.135841629
+Canada,Épinette,0.439178367
+Canada,Non classé,0.000277972
+Canada,Conifères non spécifiés,0.005674012
+Canada,Feuils non spécifiés,0.002599623
+Atlantique maritime,Bouleau,0.080768733
+Atlantique maritime,Cèdre et autres conifères,0.025124399
+Atlantique maritime,Sapin,0.255266623
+Atlantique maritime,Pruche,0.003121288
+Atlantique maritime,Mélèze,0.008480622
+Atlantique maritime,Érable,0.214743713
+Atlantique maritime,Autres feuillus,0.005816968
+Atlantique maritime,Pin,0.024851025
+Atlantique maritime,Peuplier,0.071467525
+Atlantique maritime,Épinette,0.265642296
+Atlantique maritime,Non classé,0.001277292
+Atlantique maritime,Conifères non spécifiés,0.032866587
+Atlantique maritime,Feuils non spécifiés,0.010572465
+Cordillère boréale,Bouleau,0.010842489
+Cordillère boréale,Sapin,0.109658054
+Cordillère boréale,Mélèze,0.000916998
+Cordillère boréale,Pin,0.251705362
+Cordillère boréale,Peuplier,0.082848487
+Cordillère boréale,Épinette,0.544028253
+Cordillère boréale,Non classé,3.58062E-07
+Plaines boréales,Bouleau,0.014356721
+Plaines boréales,Cèdre et autres conifères,3.24822E-05
+Plaines boréales,Sapin,0.002807907
+Plaines boréales,Mélèze,0.036281103
+Plaines boréales,Érable,0.000537761
+Plaines boréales,Autres feuillus,0.000147975
+Plaines boréales,Pin,0.139108957
+Plaines boréales,Peuplier,0.426308898
+Plaines boréales,Épinette,0.380417641
 Plaines boréales,Non classé,0
-Plaines boréales,Feuils non spécifiés,4.17910298061983e-07
-Bouclier boréal,Bouleau,7.81667973933905e-02
-Bouclier boréal,Cèdre et autres conifères,6.4360003353963e-03
-Bouclier boréal,Sapin,7.19135668158614e-02
-Bouclier boréal,Pruche,1.95952106256945e-03
-Bouclier boréal,Mélèze,1.36310293942311e-02
-Bouclier boréal,Érable,0.06020399029615
-Bouclier boréal,Autres feuillus,5.60083523585825e-03
-Bouclier boréal,Pin,0.118014284061564
-Bouclier boréal,Peuplier,0.122303394260124
-Bouclier boréal,Épinette,0.499073450021528
-Bouclier boréal,Non classé,6.57631486495523e-04
-Bouclier boréal,Conifères non spécifiés,1.52267799089123e-02
-Bouclier boréal,Feuils non spécifiés,6.81271972791859e-03
-Plaines hudsoniennes,Bouleau,4.35179456627178e-03
-Plaines hudsoniennes,Cèdre et autres conifères,3.62808673800631e-04
-Plaines hudsoniennes,Sapin,4.59621304125326e-03
-Plaines hudsoniennes,Mélèze,6.42858779588002e-02
-Plaines hudsoniennes,Autres feuillus,1.90951933579279e-05
-Plaines hudsoniennes,Pin,2.90800699647885e-02
-Plaines hudsoniennes,Peuplier,1.65116136966003e-02
-Plaines hudsoniennes,Épinette,0.88056911314284
+Plaines boréales,Feuils non spécifiés,4.16439E-07
+Bouclier boréal,Bouleau,0.078836978
+Bouclier boréal,Cèdre et autres conifères,0.006457907
+Bouclier boréal,Sapin,0.071609962
+Bouclier boréal,Pruche,0.001963011
+Bouclier boréal,Mélèze,0.013661666
+Bouclier boréal,Érable,0.060321494
+Bouclier boréal,Autres feuillus,0.005363272
+Bouclier boréal,Pin,0.117927885
+Bouclier boréal,Peuplier,0.122384634
+Bouclier boréal,Épinette,0.4987197
+Bouclier boréal,Non classé,0.000686221
+Bouclier boréal,Conifères non spécifiés,0.015240655
+Bouclier boréal,Feuils non spécifiés,0.006826543
+Plaines hudsoniennes,Bouleau,0.004354383
+Plaines hudsoniennes,Cèdre et autres conifères,0.000362706
+Plaines hudsoniennes,Sapin,0.004598732
+Plaines hudsoniennes,Mélèze,0.064311622
+Plaines hudsoniennes,Autres feuillus,1.90898E-05
+Plaines hudsoniennes,Pin,0.029075672
+Plaines hudsoniennes,Peuplier,0.016512676
+Plaines hudsoniennes,Épinette,0.880541768
 Plaines hudsoniennes,Non classé,0
-Plaines hudsoniennes,Conifères non spécifiés,2.23413762287757e-04
-Plaines à forêts mixtes,Bouleau,2.38124757373311e-02
-Plaines à forêts mixtes,Cèdre et autres conifères,9.6339309486983e-02
-Plaines à forêts mixtes,Sapin,4.1509234549634e-02
-Plaines à forêts mixtes,Pruche,1.2944832534232e-02
-Plaines à forêts mixtes,Mélèze,1.30586511277187e-02
-Plaines à forêts mixtes,Érable,0.429193656239393
-Plaines à forêts mixtes,Autres feuillus,0.137620906849644
-Plaines à forêts mixtes,Pin,6.97423431589944e-02
-Plaines à forêts mixtes,Peuplier,0.116190491675999
-Plaines à forêts mixtes,Épinette,2.02251575676154e-02
-Plaines à forêts mixtes,Non classé,3.5913831194831e-03
-Plaines à forêts mixtes,Conifères non spécifiés,7.92461957151364e-03
-Plaines à forêts mixtes,Feuils non spécifiés,2.78469383814589e-02
-Cordillère montagnarde,Bouleau,9.60010983913692e-03
-Cordillère montagnarde,Cèdre et autres conifères,3.00791608214707e-02
-Cordillère montagnarde,Douglas,0.142507698966473
-Cordillère montagnarde,Sapin,0.186929777479356
-Cordillère montagnarde,Pruche,5.64447854974723e-02
-Cordillère montagnarde,Mélèze,1.51765854557654e-02
-Cordillère montagnarde,Autres feuillus,6.15964338015838e-05
-Cordillère montagnarde,Pin,0.25488862918077
-Cordillère montagnarde,Peuplier,4.85547995494526e-02
-Cordillère montagnarde,Épinette,0.255756856776301
+Plaines hudsoniennes,Conifères non spécifiés,0.000223351
+Plaines à forêts mixtes,Bouleau,0.02380933
+Plaines à forêts mixtes,Cèdre et autres conifères,0.096336651
+Plaines à forêts mixtes,Sapin,0.041532722
+Plaines à forêts mixtes,Pruche,0.012939986
+Plaines à forêts mixtes,Mélèze,0.013055812
+Plaines à forêts mixtes,Érable,0.4292121
+Plaines à forêts mixtes,Autres feuillus,0.137615369
+Plaines à forêts mixtes,Pin,0.069739371
+Plaines à forêts mixtes,Peuplier,0.116183517
+Plaines à forêts mixtes,Épinette,0.02022076
+Plaines à forêts mixtes,Non classé,0.003590602
+Plaines à forêts mixtes,Conifères non spécifiés,0.007924929
+Plaines à forêts mixtes,Feuils non spécifiés,0.027838852
+Cordillère montagnarde,Bouleau,0.010204784
+Cordillère montagnarde,Cèdre et autres conifères,0.030469746
+Cordillère montagnarde,Douglas,0.144652841
+Cordillère montagnarde,Sapin,0.185854414
+Cordillère montagnarde,Pruche,0.055851432
+Cordillère montagnarde,Mélèze,0.015052686
+Cordillère montagnarde,Autres feuillus,6.11756E-05
+Cordillère montagnarde,Pin,0.251740969
+Cordillère montagnarde,Peuplier,0.051727965
+Cordillère montagnarde,Épinette,0.254384337
 Cordillère montagnarde,Non classé,0
-Pacifique maritime,Bouleau,2.97818054397863e-03
-Pacifique maritime,Cèdre et autres conifères,0.193381118565243
-Pacifique maritime,Douglas,0.122169341048369
-Pacifique maritime,Sapin,0.127858811755893
-Pacifique maritime,Pruche,0.479807659322871
-Pacifique maritime,Érable,3.0757050907993e-03
-Pacifique maritime,Autres feuillus,1.83786175904468e-02
-Pacifique maritime,Pin,1.07530242038683e-02
-Pacifique maritime,Peuplier,1.42075124792805e-02
-Pacifique maritime,Épinette,2.73880537638638e-02
+Pacifique maritime,Bouleau,0.002963699
+Pacifique maritime,Cèdre et autres conifères,0.197018475
+Pacifique maritime,Douglas,0.123457041
+Pacifique maritime,Sapin,0.12623145
+Pacifique maritime,Pruche,0.473649604
+Pacifique maritime,Érable,0.003070619
+Pacifique maritime,Autres feuillus,0.018893026
+Pacifique maritime,Pin,0.010919734
+Pacifique maritime,Peuplier,0.014753205
+Pacifique maritime,Épinette,0.029040835
 Pacifique maritime,Non classé,0
-Pacifique maritime,Feuils non spécifiés,1.97563538679079e-06
-Prairies,Bouleau,3.22076762868194e-03
-Prairies,Douglas,9.00029753049688e-04
-Prairies,Sapin,2.23147872656947e-04
-Prairies,Mélèze,4.239809580482e-04
-Prairies,Érable,2.64802142219577e-03
-Prairies,Autres feuillus,1.93394822969354e-04
-Prairies,Pin,2.82356441535257e-02
-Prairies,Peuplier,0.929425766141029
-Prairies,Épinette,3.47292472478429e-02
+Pacifique maritime,Feuils non spécifiés,2.49065E-06
+Prairies,Bouleau,0.003213282
+Prairies,Douglas,0.000907455
+Prairies,Sapin,0.000230583
+Prairies,Mélèze,0.000423975
+Prairies,Érable,0.002647982
+Prairies,Autres feuillus,0.000193392
+Prairies,Pin,0.028235224
+Prairies,Peuplier,0.929419378
+Prairies,Épinette,0.034728731
 Prairies,Non classé,0
-Cordillère de la taïga,Bouleau,2.06137119185895e-02
-Cordillère de la taïga,Sapin,4.48465720203526e-02
-Cordillère de la taïga,Mélèze,2.86143617175579e-03
-Cordillère de la taïga,Pin,8.81289850952362e-03
-Cordillère de la taïga,Peuplier,2.80109769611455e-03
-Cordillère de la taïga,Épinette,0.920064283683664
+Cordillère de la taïga,Bouleau,0.020076107
+Cordillère de la taïga,Sapin,0.044644029
+Cordillère de la taïga,Mélèze,0.002925438
+Cordillère de la taïga,Pin,0.008756735
+Cordillère de la taïga,Peuplier,0.002989936
+Cordillère de la taïga,Épinette,0.920607754
 Cordillère de la taïga,Non classé,0
-Plaines de la taïga,Bouleau,2.04857627052242e-02
-Plaines de la taïga,Sapin,1.30053224062263e-03
-Plaines de la taïga,Mélèze,1.27340120485964e-02
-Plaines de la taïga,Pin,4.36564361425672e-02
-Plaines de la taïga,Peuplier,0.1747255179474
-Plaines de la taïga,Épinette,0.74709773891559
+Plaines de la taïga,Bouleau,0.020627852
+Plaines de la taïga,Sapin,0.001300253
+Plaines de la taïga,Mélèze,0.013263087
+Plaines de la taïga,Pin,0.043594196
+Plaines de la taïga,Peuplier,0.174793352
+Plaines de la taïga,Épinette,0.746421259
 Plaines de la taïga,Non classé,0
-Bouclier de la taïga,Bouleau,4.38205983283995e-03
-Bouclier de la taïga,Sapin,4.33073026797907e-03
-Bouclier de la taïga,Mélèze,1.52807146108476e-02
-Bouclier de la taïga,Érable,6.45654903910409e-07
-Bouclier de la taïga,Autres feuillus,1.48855738096545e-03
-Bouclier de la taïga,Pin,3.4505412202232e-02
-Bouclier de la taïga,Peuplier,2.38695389701159e-02
-Bouclier de la taïga,Épinette,0.916136530185981
+Bouclier de la taïga,Bouleau,0.004383573
+Bouclier de la taïga,Sapin,0.004327726
+Bouclier de la taïga,Mélèze,0.015279073
+Bouclier de la taïga,Érable,6.4564E-07
+Bouclier de la taïga,Autres feuillus,0.001489492
+Bouclier de la taïga,Pin,0.034512046
+Bouclier de la taïga,Peuplier,0.023850914
+Bouclier de la taïga,Épinette,0.916150397
 Bouclier de la taïga,Non classé,0
-Bouclier de la taïga,Conifères non spécifiés,5.81089413519368e-06
+Bouclier de la taïga,Conifères non spécifiés,5.81076E-06

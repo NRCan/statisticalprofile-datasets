@@ -1,4 +1,8 @@
 ﻿Year,Jurisdiction,Commodity,Trade type,Quantity
+2000,Canada,Maple sugar (metric tonnes),Exports,248
+2000,Canada,Maple sugar (metric tonnes),Imports,4
+2000,Canada,Maple syrup (liters),Exports,19101807
+2000,Canada,Maple syrup (liters),Imports,357094
 2001,Canada,Maple sugar (metric tonnes),Exports,112
 2001,Canada,Maple sugar (metric tonnes),Imports,16
 2001,Canada,Maple syrup (liters),Exports,20912239
@@ -87,3 +91,11 @@
 2022,Canada,Maple sugar (metric tonnes),Imports,23
 2022,Canada,Maple syrup (liters),Exports,50544831
 2022,Canada,Maple syrup (liters),Imports,2185707
+2023,Canada,Maple sugar (metric tonnes),Exports,1702
+2023,Canada,Maple sugar (metric tonnes),Imports,27
+2023,Canada,Maple syrup (liters),Exports,48078120
+2023,Canada,Maple syrup (liters),Imports,2034125
+2024,Canada,Maple sugar (metric tonnes),Exports,849
+2024,Canada,Maple sugar (metric tonnes),Imports,22
+2024,Canada,Maple syrup (liters),Exports,53125088
+2024,Canada,Maple syrup (liters),Imports,3369512
