@@ -1,0 +1,31 @@
+﻿Terrestrial ecozone,Section,Measure,Value,Units
+Atlantic Maritime,Forest area by classification (hectares),Forest land,16688246,hectares
+Atlantic Maritime,Forest area by classification (hectares),Other wooded land,312321,hectares
+Atlantic Maritime,Forest area by classification (hectares),Other land with tree cover,85593,hectares
+Atlantic Maritime,Forest type,Coniferous,41.7,percentage
+Atlantic Maritime,Forest type,Mixedwood,34.3,percentage
+Atlantic Maritime,Forest type,Broadleaf,19.9,percentage
+Atlantic Maritime,Forest type,Temporarily non-treed,4.1,percentage
+Atlantic Maritime,Predominant tree genus,Spruce,26.6,percentage
+Atlantic Maritime,Predominant tree genus,Pine,2.5,percentage
+Atlantic Maritime,Predominant tree genus,Fir,25.5,percentage
+Atlantic Maritime,Predominant tree genus,Hemlock,0.3,percentage
+Atlantic Maritime,Predominant tree genus,Larch,0.8,percentage
+Atlantic Maritime,Predominant tree genus,Cedars and other conifers,2.5,percentage
+Atlantic Maritime,Predominant tree genus,Unspecified conifers,3.3,percentage
+Atlantic Maritime,Predominant tree genus,Poplar,7.1,percentage
+Atlantic Maritime,Predominant tree genus,Birch,8.1,percentage
+Atlantic Maritime,Predominant tree genus,Maple,21.5,percentage
+Atlantic Maritime,Predominant tree genus,Other hardwoods,0.6,percentage
+Atlantic Maritime,Predominant tree genus,Unspecified hardwoods,1.1,percentage
+Atlantic Maritime,Predominant tree genus,Unclassified,0.1,percentage
+Atlantic Maritime,Land use (hectares),Agriculture,1450014,hectares
+Atlantic Maritime,Land use (hectares),Conservation,1698476,hectares
+Atlantic Maritime,Land use (hectares),Forestry,14728285,hectares
+Atlantic Maritime,Land use (hectares),Industrial,46171,hectares
+Atlantic Maritime,Land use (hectares),Infrastructure,534120,hectares
+Atlantic Maritime,Land use (hectares),National Defence,71901,hectares
+Atlantic Maritime,Land use (hectares),Recreation,237444,hectares
+Atlantic Maritime,Land use (hectares),Settlement,282421,hectares
+Atlantic Maritime,Land use (hectares),Unknown,592792,hectares
+Atlantic Maritime,Land use (hectares),Total,19641623,hectares

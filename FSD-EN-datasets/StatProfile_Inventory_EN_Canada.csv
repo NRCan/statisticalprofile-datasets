@@ -1,0 +1,42 @@
+﻿Terrestrial ecozone,Section,Measure,Value,Units
+Canada,Forest area by classification (hectares),Forest land,368672267,hectares
+Canada,Forest area by classification (hectares),Other wooded land,35730397,hectares
+Canada,Forest area by classification (hectares),Other land with tree cover,6830004,hectares
+Canada,Forest area change (hectares),Afforestation,Not available,hectares
+Canada,Forest area change (hectares),Deforestation,49248,hectares
+Canada,Forest type,Coniferous,70.2,percentage
+Canada,Forest type,Mixedwood,13.6,percentage
+Canada,Forest type,Broadleaf,11.4,percentage
+Canada,Forest type,Temporarily non-treed,4.9,percentage
+Canada,Forest ownership,Provincial,75.7,percentage
+Canada,Forest ownership,Territorial,12.8,percentage
+Canada,Forest ownership,Private,6.7,percentage
+Canada,Forest ownership,"First Nations, Métis and Inuit",2.1,percentage
+Canada,Forest ownership,Federal,1.7,percentage
+Canada,Forest ownership,Municipal,0.3,percentage
+Canada,Forest ownership,Other,0.8,percentage
+Canada,Growing stock (cubic metres),Total volume,51073563000,cubic metres
+Canada,Predominant tree genus,Spruce,43.9,percentage
+Canada,Predominant tree genus,Pine,11.8,percentage
+Canada,Predominant tree genus,Fir,8.4,percentage
+Canada,Predominant tree genus,Hemlock,6.2,percentage
+Canada,Predominant tree genus,Douglas-fir,3.8,percentage
+Canada,Predominant tree genus,Larch,1.5,percentage
+Canada,Predominant tree genus,Cedars and other conifers,3.1,percentage
+Canada,Predominant tree genus,Unspecified conifers,0.6,percentage
+Canada,Predominant tree genus,Poplar,13.6,percentage
+Canada,Predominant tree genus,Birch,3.3,percentage
+Canada,Predominant tree genus,Maple,3,percentage
+Canada,Predominant tree genus,Other hardwoods,0.5,percentage
+Canada,Predominant tree genus,Unspecified hardwoods,0.3,percentage
+Canada,Predominant tree genus,Unclassified,0,percentage
+Canada,Land use (hectares),Agriculture,60018561,hectares
+Canada,Land use (hectares),Conservation,93462126,hectares
+Canada,Land use (hectares),Forestry,260903158,hectares
+Canada,Land use (hectares),Industrial,3492333,hectares
+Canada,Land use (hectares),Infrastructure,4057163,hectares
+Canada,Land use (hectares),National Defence,2268385,hectares
+Canada,Land use (hectares),Recreation,6910272,hectares
+Canada,Land use (hectares),Settlement,4490832,hectares
+Canada,Land use (hectares),Unknown,212153844,hectares
+Canada,Land use (hectares),Total,647756674,hectares
