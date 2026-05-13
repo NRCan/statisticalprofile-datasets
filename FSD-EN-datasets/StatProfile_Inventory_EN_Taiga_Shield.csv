@@ -16,7 +16,7 @@ Taiga Shield,Predominant tree genus,Birch,0.4,percentage
 Taiga Shield,Predominant tree genus,Maple,0,percentage
 Taiga Shield,Predominant tree genus,Other hardwoods,0.1,percentage
 Taiga Shield,Predominant tree genus,Unclassified,0,percentage
-Taiga Shield,Land use (hectares),Agriculture,,hectares
+Taiga Shield,Land use (hectares),Agriculture,-,hectares
 Taiga Shield,Land use (hectares),Conservation,7502938,hectares
 Taiga Shield,Land use (hectares),Forestry,49735257,hectares
 Taiga Shield,Land use (hectares),Industrial,156446,hectares
